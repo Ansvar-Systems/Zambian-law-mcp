@@ -449,7 +449,7 @@ function buildDatabase(): void {
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'KE');
+    insertMeta.run('jurisdiction', 'ZM');
     insertMeta.run('source', 'zambialii.org');
     insertMeta.run('licence', 'Government Open Data');
   });
