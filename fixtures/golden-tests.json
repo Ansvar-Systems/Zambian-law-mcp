@@ -2,6 +2,177 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Zambia Law MCP",
-  "description": "Golden contract tests for the Zambia Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Zambia Law MCP covering data protection, cyber security, companies, penal code, and electronic transactions legislation",
+  "tests": [
+    {
+      "id": "zm-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 2 of the Data Protection Act 2021 -- interpretation/definitions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Data Protection Act",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zm-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 2 of the Cyber Security and Cyber Crimes Act 2021 -- definitions including access and electronic system",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Cyber Security and Cyber Crimes Act",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["access"]
+      }
+    },
+    {
+      "id": "zm-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Penal Code -- citation and interpretation",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Penal Code",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["penal code"]
+      }
+    },
+    {
+      "id": "zm-004",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns Data Protection Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["data"]
+      }
+    },
+    {
+      "id": "zm-005",
+      "category": "search",
+      "description": "Full-text search for 'cyber security' returns Cyber Security Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cyber security"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "zm-006",
+      "category": "search",
+      "description": "Full-text search for 'electronic transactions' returns Electronic Communications and Transactions Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic transactions"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "zm-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for Data Protection Act Section 3 includes zambialii.org URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Data Protection Act",
+        "section": "3"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "zambialii\\.org",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zm-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Electronic Communications and Transactions Act Section 2 includes official identifier",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Electronic Communications and Transactions Act",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zm-009",
+      "category": "currency_check",
+      "description": "Check currency of Data Protection Act 2021 -- should be in_force",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "Data Protection Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true,
+        "any_result_contains": ["in_force"]
+      }
+    },
+    {
+      "id": "zm-010",
+      "category": "currency_check",
+      "description": "Check currency of Cyber Security and Cyber Crimes Act 2021 -- should be in_force",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "Cyber Security and Cyber Crimes Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zm-011",
+      "category": "negative_test",
+      "description": "Non-existent Zambian Act returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Fictional Cyber Wildlife Act 2099",
+        "section": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "zm-012",
+      "category": "negative_test",
+      "description": "Malformed section number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Data Protection Act",
+        "section": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
 }

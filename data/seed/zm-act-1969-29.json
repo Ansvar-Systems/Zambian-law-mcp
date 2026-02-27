@@ -1,0 +1,48 @@
+{
+  "id": "zm-act-1969-29",
+  "type": "statute",
+  "title": "Companies (Certificates Validation) Act, 1969",
+  "title_en": "Companies (Certificates Validation) Act, 1969",
+  "short_name": "Companies (Certificates Val...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1969/29/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Companies (Certificates Validation) Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act , unless the context otherwise requires— \" Act \" means the Companies Act; [Cap. 388] \" officer \" means any public officer heretofore designated as Assistant Registrar of Companies, or any other public officer who heretofore for the time being exercised the function of issuing statutory certificates under the Act ; \" Registrar \" means the Registrar of Companies appointed under the Act ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Validity of certificates",
+      "content": "For the removal of doubts, it is hereby declared that any certificate of incorporation, any certificate of mortgage, any certificate of charge or any other statutory certificate heretofore issued for the purposes of the Act under the hand of any officer shall, for all purposes, be deemed to be and to have been validly and properly issued under the Act , as if the same had been issued under the hand of the Registrar . History of this document 16 April 2010 amendment not yet applied Amended by Companies (Certificates Validation) (Amendment) Act, 2010 31 December 1996 this version Consolidation 08 August 1969 Commenced Related documents Is amended by Companies (Certificates Validation) (Amendment) Act, 2010 [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Companies Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "any public officer heretofore designated as Assistant Registrar of Companies, or any other public officer who heretofore for the time being exercised the function of issuing statutory certificates under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Companies appointed under the Act .",
+      "source_provision": "s2"
+    }
+  ]
+}

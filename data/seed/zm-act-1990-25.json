@@ -1,0 +1,79 @@
+{
+  "id": "zm-act-1990-25",
+  "type": "statute",
+  "title": "Insurance Levy Act, 1990",
+  "title_en": "Insurance Levy Act, 1990",
+  "short_name": "Insurance Levy Act, 1990",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1990/25/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Insurance Levy Act. * *This Act came into operation on the 1st January, 1991."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— \" Commissioner-General \" has the meaning assigned to it in the Zambia Revenue Authority Act; \" broker \", \"insurance agent\", \"insurance business\", \"insurer\" and \"policy\" have the meanings assigned to them in the Insurance Act; \" levy \" means the insurance levy charged under section four of this Act. (2) In this Act, unless the context otherwise requires, words and expressions not defined shall have the meaning assigned to them in the Value Added Tax Act. [Cap. 331] [ Cap. 321 ; Cap. 392]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Powers of Commissioner",
+      "content": "The Commissioner-General shall, subject to the direction of the Minister, be responsible for giving effect to the provisions of this Act, and shall, for that purpose, have all the powers conferred on the Commissioner-General by the Zambia Revenue Authority Act. [ Cap. 321 ]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Insurance levy",
+      "content": "There shall be charged, levied, collected and paid, on insurance premiums in respect of insurance policies for all classes of insurance business carried on by insurers, insurance agents or brokers a ten per centum ad valorem insurance levy ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "When levy becomes due",
+      "content": "The levy shall become due at the time when the insurance premiums are paid or become payable and shall be paid by the insurer, insurance agent or broker to the Commissioner-General not later than the twenty-first day of the first month following that in which the levy becomes due."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Exemptions",
+      "content": "(1) [Obsolete.] (2) The Minister may, by statutory order, exempt any person from the payment of the levy. [Cap. 331; P. 27]"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Recovery of levy",
+      "content": "Subject to the provisions of this Act, the Value Added Tax Act shall, mutatis mutandis , apply to the recovery of the levy under this Act. [Cap. 331]"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Penalty for late payment",
+      "content": "Where any amount of levy is not paid within the period prescribed by section five, a penalty equal to five per centum of the unpaid amount shall be charged for each month or part thereof for which the insurance levy remains unpaid; and for the purposes of recovery and collection such penalty shall be deemed to be part of the levy ."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Regulations",
+      "content": "The Minister may, by statutory instrument, make regulations for the proper carrying out of the purposes of this Act. History of this document 31 December 1996 this version Consolidation 01 January 1991 Commenced Related documents Subsidiary legislation Title Insurance Levy (Exemption) Order, 1991 Statutory Instrument 47 of 1991 [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commissioner-General",
+      "definition": "assigned to it in the Zambia Revenue Authority Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "levy",
+      "definition": "the insurance levy charged under section four of this Act. (2) In this Act, unless the context otherwise requires, words and expressions not defined shall have the meaning assigned to them in the Value Added Tax Act. [Cap. 331] [ Cap. 321",
+      "source_provision": "s2"
+    }
+  ]
+}

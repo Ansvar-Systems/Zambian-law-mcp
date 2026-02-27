@@ -1,0 +1,59 @@
+{
+  "id": "zm-act-1968-13",
+  "type": "statute",
+  "title": "Financial Institutions (Validation of Acts) Act, 1968",
+  "title_en": "Financial Institutions (Validation of Acts) Act, 1968",
+  "short_name": "Financial Institutions (Val...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1968/13/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Financial Institutions (Validation of Acts) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— \" declared day \" means a day specified, by reference to its date, in the statutory instrument ; \" financial institution \" means an institution which, being entitled to do so, closed its place of business to members of the public on each declared day ; \" the operative date \" means the date upon which the statutory instrument was published in the Gazette ; \" the statutory instrument \" means the statutory instrument made by the Minister responsible for finance under section twenty of Bank of Zambia Act. [ Cap. 360 ] (2) Any reference in this Act to an act done shall be deemed to include a reference to an omission made."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Validation of acts",
+      "content": "Any act done by a financial institution on or after the operative date which would have been validly done if at the time of the doing thereof each of the declared days had been declared to be a public holiday, shall be deemed to have been validly done."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "No liability in respect of actions",
+      "content": "(1) No financial institution shall be subject to any liability, action, claim or demand whatsoever for or in respect of any act deemed to have been validly done under the provisions of section three. (2) The provisions of this section shall apply— (a) to any liability incurred or claim or demand made before or after the commencement of this Act; (b) to any action whether commenced before or after the commencement of this Act; (c) for the purpose of determining any appeal from a judgment entered before the commencement of this Act. History of this document 31 December 1996 this version Consolidation 01 March 1968 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "declared day",
+      "definition": "a day specified, by reference to its date, in the statutory instrument",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "an institution which, being entitled to do so, closed its place of business to members of the public on each declared day",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the operative date",
+      "definition": "the date upon which the statutory instrument was published in the Gazette",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the statutory instrument",
+      "definition": "the statutory instrument made by the Minister responsible for finance under section twenty of Bank of Zambia Act. [ Cap. 360 ] (2) Any reference in this Act to an act done shall be deemed to include a reference to an omission made.",
+      "source_provision": "s2"
+    }
+  ]
+}

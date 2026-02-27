@@ -1,30 +1,30 @@
 #!/usr/bin/env tsx
 /**
- * Zambia Law MCP -- Census-Driven Ingestion Pipeline (Laws.Africa API)
+ * Zambia Law MCP -- Census-Driven Ingestion Pipeline (AfricanLII Scraping)
  *
- * Reads data/census.json (produced by census.ts via Laws.Africa API)
- * and fetches + parses every ingestable Act using the Laws.Africa
- * Content API's Akoma Ntoso HTML endpoint.
+ * Reads data/census.json (produced by census.ts via AfricanLII scraping)
+ * and fetches + parses every ingestable Act directly from zambialii.org.
  *
  * Features:
  *   - Resume support: skips Acts that already have a seed JSON file
  *   - Census update: writes provision counts + ingestion dates back to census.json
- *   - Rate limiting: 500ms minimum between requests (via laws-africa-api.ts)
+ *   - Rate limiting: 500ms minimum between requests (via fetcher.ts)
  *
  * Usage:
- *   LAWS_AFRICA_TOKEN=xxx npm run ingest                 # Full ingestion
- *   LAWS_AFRICA_TOKEN=xxx npm run ingest -- --limit 5    # Test with 5 acts
- *   npm run ingest -- --skip-fetch                       # Reuse cached HTML
- *   LAWS_AFRICA_TOKEN=xxx npm run ingest -- --force      # Re-ingest all
+ *   npm run ingest                 # Full ingestion
+ *   npm run ingest -- --limit 5    # Test with 5 acts
+ *   npm run ingest -- --skip-fetch # Reuse cached HTML
+ *   npm run ingest -- --force      # Re-ingest all
+ *   npm run ingest -- --resume     # Same as default (skip existing)
  *
- * Data source: Laws.Africa Content API (https://api.laws.africa/v3)
- * Format: AKN (Akoma Ntoso) structured HTML
+ * Data source: zambialii.org (AfricanLII / Laws.Africa Peachjam platform)
+ * Format: AKN (Akoma Ntoso) structured HTML embedded in detail pages
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchActHtml } from './lib/laws-africa-api.js';
+import { fetchWithRateLimit } from './lib/fetcher.js';
 import { parseActHtml, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -36,7 +36,7 @@ const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
 
 /* ----- Jurisdiction constants (change per country) ----- */
 const JURISDICTION_NAME = 'Zambia';
-const SOURCE_LABEL = 'Laws.Africa Content API (Akoma Ntoso HTML)';
+const SOURCE_LABEL = 'zambialii.org (AfricanLII direct scraping)';
 
 /* ---------- Types ---------- */
 
@@ -89,15 +89,14 @@ function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean
       skipFetch = true;
     } else if (args[i] === '--force') {
       force = true;
+    } else if (args[i] === '--resume') {
+      // Default behavior
     }
   }
 
   return { limit, skipFetch, force };
 }
 
-/**
- * Convert a census entry to an ActIndexEntry for the parser.
- */
 function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
   return {
     id: law.id,
@@ -116,7 +115,7 @@ function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
 async function main(): Promise<void> {
   const { limit, skipFetch, force } = parseArgs();
 
-  console.log(`${JURISDICTION_NAME} Law MCP -- Ingestion Pipeline (Laws.Africa API)`);
+  console.log(`${JURISDICTION_NAME} Law MCP -- Ingestion Pipeline (AfricanLII Scraping)`);
   console.log('='.repeat(62) + '\n');
   console.log(`  Source: ${SOURCE_LABEL}`);
 
@@ -124,7 +123,6 @@ async function main(): Promise<void> {
   if (skipFetch) console.log(`  --skip-fetch`);
   if (force) console.log(`  --force (re-ingest all)`);
 
-  // Load census
   if (!fs.existsSync(CENSUS_PATH)) {
     console.error(`\nERROR: Census file not found at ${CENSUS_PATH}`);
     console.error('Run "npx tsx scripts/census.ts" first.');
@@ -149,7 +147,6 @@ async function main(): Promise<void> {
   let totalDefinitions = 0;
   const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
 
-  // Build a map for census updates
   const censusMap = new Map<string, CensusLawEntry>();
   for (const law of census.laws) {
     censusMap.set(law.id, law);
@@ -162,7 +159,6 @@ async function main(): Promise<void> {
     const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
     const seedFile = path.join(SEED_DIR, `${act.id}.json`);
 
-    // Resume support: skip if seed already exists (unless --force)
     if (!force && fs.existsSync(seedFile)) {
       try {
         const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
@@ -171,7 +167,6 @@ async function main(): Promise<void> {
         totalProvisions += provCount;
         totalDefinitions += defCount;
 
-        // Update census entry
         const entry = censusMap.get(law.id);
         if (entry) {
           entry.ingested = true;
@@ -198,12 +193,15 @@ async function main(): Promise<void> {
         process.stdout.write(`  [${processed + 1}/${acts.length}] Fetching ${act.id}...`);
 
         try {
-          html = await fetchActHtml(law.frbr_uri);
+          const result = await fetchWithRateLimit(law.url);
+          if (result.status !== 200) {
+            throw new Error(`HTTP ${result.status} from ${law.url}`);
+          }
+          html = result.body;
         } catch (fetchError) {
           const msg = fetchError instanceof Error ? fetchError.message : String(fetchError);
           console.log(` FETCH ERROR: ${msg}`);
 
-          // Mark as inaccessible in census
           const entry = censusMap.get(law.id);
           if (entry) {
             entry.classification = 'inaccessible';
@@ -215,7 +213,6 @@ async function main(): Promise<void> {
           continue;
         }
 
-        // Cache the HTML source for --skip-fetch reruns
         fs.writeFileSync(sourceFile, html);
         console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
       }
@@ -226,7 +223,6 @@ async function main(): Promise<void> {
       totalDefinitions += parsed.definitions.length;
       console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions`);
 
-      // Update census entry
       const entry = censusMap.get(law.id);
       if (entry) {
         entry.ingested = true;
@@ -250,17 +246,14 @@ async function main(): Promise<void> {
 
     processed++;
 
-    // Save census every 50 acts (checkpoint)
     if (processed % 50 === 0) {
       writeCensus(census, censusMap);
       console.log(`  [checkpoint] Census updated at ${processed}/${acts.length}`);
     }
   }
 
-  // Final census update
   writeCensus(census, censusMap);
 
-  // Report
   console.log(`\n${'='.repeat(70)}`);
   console.log('Ingestion Report');
   console.log('='.repeat(70));
@@ -272,7 +265,6 @@ async function main(): Promise<void> {
   console.log(`  Total provisions:  ${totalProvisions}`);
   console.log(`  Total definitions: ${totalDefinitions}`);
 
-  // Summary of failures
   const failures = results.filter(r => r.status.startsWith('HTTP') || r.status.startsWith('FETCH') || r.status.startsWith('ERROR'));
   if (failures.length > 0) {
     console.log(`\n  Failed acts:`);
@@ -281,7 +273,6 @@ async function main(): Promise<void> {
     }
   }
 
-  // Zero-provision acts
   const zeroProv = results.filter(r => r.provisions === 0 && r.status === 'OK');
   if (zeroProv.length > 0) {
     console.log(`\n  Zero-provision acts (${zeroProv.length}):`);
@@ -297,12 +288,10 @@ async function main(): Promise<void> {
 }
 
 function writeCensus(census: CensusFile, censusMap: Map<string, CensusLawEntry>): void {
-  // Update the laws array from the map
   census.laws = Array.from(censusMap.values()).sort((a, b) =>
     a.title.localeCompare(b.title),
   );
 
-  // Recalculate summary
   census.summary.total_laws = census.laws.length;
   census.summary.ingestable = census.laws.filter(l => l.classification === 'ingestable').length;
   census.summary.inaccessible = census.laws.filter(l => l.classification === 'inaccessible').length;

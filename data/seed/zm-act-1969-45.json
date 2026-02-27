@@ -1,0 +1,591 @@
+{
+  "id": "zm-act-1969-45",
+  "type": "statute",
+  "title": "Firearms Act, 1969",
+  "title_en": "Firearms Act, 1969",
+  "short_name": "Firearms Act, 1969",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1969/45/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Firearms Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires- \" acquire \" means hire, accept as a gift or borrow, and \"acquisition\" shall be construed accordingly; \" air gun \" means any weapon, whether of smooth or rifled bore, from which a missile can be projected by means of compressed air or other gas; \" ammunition \" means— (a) ammunition for any firearm , including explosives, cartridges, balls, caps, and any other material for loading into or discharging from a firearm ; (b) any material or thing containing or producing, or adapted to contain or produce, any noxious gas, liquid or other thing for the purpose of being discharged from a firearm ; (c) grenades, bombs and other similar missiles, whether or not capable of use with a firearm ; but does not include ammunition for air guns or blank cartridges; \" approved club \" means a club approved by the Minister in terms of any regulations for the time being in force relating to shooting clubs; \" approved safari company \" means a safari company approved by the Minister in terms of regulations made under this Act; \" authorised officer \", in relation to any provision of this Act, means a person authorised by regulations made under this Act to exercise the powers or perform the duties conferred or imposed by such provision; \" carrier \" includes a carrier's agent; \" central firearms store \" means a building designated as such by the Minister by statutory instrument; \" certificate of competency \" means a certificate in the prescribed form signed by a prescribed officer, that the person named therein is competent to use the type of firearm therein described; \" club \" means a rifle club, small bore rifle club, pistol club, shotgun club or clay pigeon club, or a combination of two or more of the foregoing; \" Division \" means an area designated as a Division by the Inspector-General \" Divisional Commander \" means a superior police officer appointed by the Inspector-General to be in charge of a Division or, if no such officer has been appointed in relation to any Division , the Inspector-General ; \" firearm \" means— (a) any lethal barrelled weapon of any description from which any shot, bullet, bolt or other missile can be discharged or which can be adapted for the discharge of any such shot, bullet, bolt or other missile; (b) any weapon of any description designed or adapted for the discharge of any noxious liquid, gas or other thing; (c) any barrel or any frame or body to which a barrel may be attached, incorporating a mechanism designed to cause controlled detonation or discharge of any shot, bullet, bolt or other missile and any accessory to any such weapon designed or adapted to diminish the noise or flash caused by firing such weapon; but does not include an air gun which is not of a type declared by regulations made under this Act to be specially dangerous or any apparatus designed specially for the discharge of insecticides, fungicides, industrial or fire-fighting chemicals or for medical or surgical use; \" firearm certificate \" means a certificate granted under the provisions of section twelve; \" Firearms Code \" means the code issued in terms of section forty-one; \" firearms dealer \" means a person who, by way of trade or business, buys, sells, transfers, repairs, tests or proves firearms or ammunition ; \" firearms dealer's licence \" means a licence issued under section twenty-seven; \" firearm licence \" means a licence issued under section thirteen; \" holder \", in relation to any licence , permit or other authorisation, includes the person to whom the same was issued; \" Inspector-General \" means the Inspector-General of Police; \" licence \" means a licence in force at the time in question, and references to a certificate, permit or other authorisation shall be similarly construed; \" licensing authority \" means an authority specified in or under section five; \" officer in charge of police \" means the officer, not below the rank of Sub-Inspector, appointed by the Inspector-General to be in charge of any police station and, save for the purposes of section twelve, includes, when the officer in charge of the police station is absent from the police station or unable, from illness or other cause, to perform his duties, the police officer present at the police station who is next in rank to such officer; \" premises \" include any land; \" private warehouse \" means a warehouse for firearms and ammunition kept by the holder of a firearm dealer's licence in respect thereof; \" police station \" means any place appointed by the Inspector-General to be a police station; \" port \" has the meaning assigned to it in section two of the Customs and Excise Act; [Cap. 322] \" prohibited article \" means— (a) any firearm which is so designed or adapted that, if pressure is applied to the trigger, missiles continue to be discharged until pressure is removed from the trigger or the magazine containing the missiles is empty; (b) any firearm or ammunition or class of firearm or ammunition declared by the Minister, by statutory instrument, to be a prohibited article for the purposes of this Act; \" prove \", in relation to a firearm , means to test the durability and safety of the barrel, chamber and breech of such firearm to such standards as may from time to time be specified by the Minister, and \"proof\" shall be construed accordingly; \" public warehouse \" means— (a) a warehouse for firearms and ammunition under the exclusive control of the Government; (b) a warehouse under the Customs and Excise Act; [Cap. 322] (c) a private warehouse ; and which is designated as a public warehouse by the Minister by Gazette notice; \" registered \", in relation to a firearms dealer , means registered under the provisions of section twenty-six; \" Registrar \" means the person appointed under the provisions of subsection (2) of section four to have charge of the Registry ; \" Registry \" means the Central Firearms Registry established under the provisions of subsection (1) of section four; \" safari company \" means an association of persons whether corporate or unincorporate whose business is or includes the arrangement and conduct of hunting safaris; \" slaughtering instrument \" means a firearm which is specially designed or adapted for the instantaneous slaughter of animals or the instantaneous stunning of animals preparatory to their slaughter; \" tourist \" means a person, not ordinarily resident in Zambia, who is visiting Zambia for a period not exceeding six months solely for holiday purposes or for the purpose of taking part in a shooting competition; \" transfer \" includes let on hire, give, lend and part with possession, and \"transferee\" and \"transferor\" shall be construed accordingly. [As amended by Act No. 29 of 1985 ]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "(1) Except as otherwise expressly provided, this Act shall apply to all firearms and ammunition . (2) The Minister may, by statutory instrument, exempt any particular type or description of firearm or ammunition from all or any of the provisions of this Act for such period as may be prescribed. (3) The provisions of this Act shall be in addition to and not in derogation from any other written law relating to the importation and exportation of firearms and ammunition ."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Establishment of Central Firearms Registry",
+      "content": "(1) There is hereby established a Central Firearms Registry (in this Act referred to as \"the Registry \") where there shall be recorded such information relating to the provisions of this Act and any statutory instruments made thereunder as the Minister may direct. (2) The Minister shall appoint a person (in this Act referred to as \"the Registrar \") to have charge of the Registry ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Licensing authorities",
+      "content": "The following shall be the licensing authorities for the granting and issuing of firearm licences and firearms dealer 's licences for the purposes of this Act: (a) in the area of a municipal council or township council as defined in section two of the Cap. 281 Local Government Act, such council; (b) in any other area, such authority or person as the Minister may prescribe. [As amended by No. 11 of 1970] Part II – Import and export of firearms and ammunition"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Import of firearms and ammunition",
+      "content": "(1) No person shall import firearms or ammunition except under the authority of, and in accordance with the terms and conditions (if any) contained in, a firearms dealer 's import permit or a tourist 's import permit, as the case may be. Such permits shall be in the prescribed form and shall be issued by the Registrar . (2) Firearms or ammunition for the purpose of sale shall be imported only under the authority of a firearms dealer 's import permit. (3) A tourist 's import permit shall be issued only to a tourist who— (a) is booked on a hunting safari with an approved safari company ; or (b) is taking part in, or is a member of a team taking part in, a shooting competition in Zambia; or (c) is visiting Zambia in the course of a journey to a destination outside Zambia. (4) Nothing in this section shall apply to the re-import of firearms or ammunition in respect of which a firearm licence is in force. (5) Any person who— (a) imports any firearm or ammunition ; or (b) receives or retains any firearm or ammunition knowing or having reason to believe the same to have been imported; otherwise than in accordance with the provisions of this section shall be guilty of an offence and liable on conviction to a fine not exceeding six thousand two hundred and fifty penalty units or to imprisonment for a term not exceeding ten years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s6A",
+      "chapter": "Part II",
+      "section": "6A",
+      "title": "Import of firearms or ammunition by public officers",
+      "content": "(1) The provisions of section six shall not apply to a public officer who imports one firearm and a reasonable amount of ammunition — (a) in respect of which he produces a certificate, signed by an officer of or above the rank of permanent secretary in the foreign country, certifying that the same has been received by the public officer as an official gift during an official visit to that foreign country; or (b) which, in the case of a Zambian diplomat returning to Zambia after serving abroad, has been purchased abroad by him; provided that the same is declared as such to a customs officer at the time of such importation and is surrendered for deposit in accordance with the provisions of section seven. (2) If any firearm or ammunition imported under subsection (1) is of a type normally used for military purposes, the same shall be deemed to be the property of the Republic. (3) A public officer wishing to obtain possession of any firearm or ammunition which he has imported under this section shall, unless the same has become the property of the Republic under subsection (2), cause the same to be registered in accordance with the provisions of section eight and shall apply for a firearm licence in respect thereof in accordance with the other provisions of this Act. (4) Any firearm or ammunition in respect of which the provisions of subsection (3) have been complied with shall be released to the public officer and shall become his property. (5) Any firearm or ammunition imported under this section which has not been released in accordance with subsection (4) shall be deemed to be the property of the Republic. (6) Any person to whom this section applies and who fails to comply with its provisions shall be guilty of an offence. (7) For the purposes of this section, \"public officer\" includes a member of the National Assembly. [As amended by Act No. 16 of 1986 ]"
+    },
+    {
+      "provision_ref": "s6B",
+      "chapter": "Part II",
+      "section": "6B",
+      "title": "Import of firearms or ammunitions by foreign diplomats",
+      "content": "(1) The provisions of section six shall not apply to any diplomatic agent of a foreign government or organisation who is entitled to diplomatic immunity or privileges under the Diplomatic Immunities and Privileges Act if at the time of his first arrival in Zambia he imports any firearm or ammunition provided that the same is declared as such to a customs officer at the time of importation and is surrendered for deposit in accordance with the provisions of section seven. (2) The Minister may, by statutory instrument, prescribe— (a) the firearm or ammunition which may be released from deposit for use in Zambia; (b) the procedures for their registration and release from deposit; (c) the conditions applicable to such release from deposit; and (d) the procedures for their re-export. (3) Any firearms or ammunition imported under subsection (1) and not dealt with under subsection (2) shall be dealt with in accordance with subsection (3) of section fifty-three. [As amended by Act No. 16 of 1986 ]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Deposit in warehouse of firearms or ammunition imported for sale",
+      "content": "(1) Any person who imports any firearms or ammunition for the purpose of sale shall forthwith deposit the same in the public warehouse nearest to the place of entry, or in such other public or private warehouse as the Registrar may direct. (2) Any person who contravenes subsection (1) or who receives or retains any firearms or ammunition knowing or having reason to believe that subsection (1) has been contravened in relation thereto shall be guilty of an offence and liable on conviction to a fine not exceeding seven hundred and fifty penalty units or to imprisonment for a term not exceeding ten years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Registration of imported firearms and ammunition",
+      "content": "(1) All firearms and ammunition imported into Zambia for the purpose of sale shall be registered in the prescribed manner according to any existing numbers or marks on such firearms or parts thereof or on any package of ammunition , and, if so required by an authorised officer , shall be stamped or otherwise marked in the prescribed manner. (2) Registration under subsection (1) shall be effected as soon as possible after the deposit of the firearms or ammunition in a warehouse in terms of section seven, and shall include a notation that the firearms or ammunition have been imported for the purpose of sale. (3) Any person who imports any firearms or ammunition shall supply such information for the purpose of enabling registration to be effected as may be required by the person responsible for such registration (who shall be such person as may be prescribed), or as may be prescribed. (4) No person other than an authorised officer or a person deputed by such officer in that behalf shall alter, substitute or erase from a firearm or a part thereof any number or mark in accordance with which such firearm or part has been registered . (5) Any person who contravenes any provision of subsection (3) or (4) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Restriction on export of firearms and ammunition",
+      "content": "(1) No person shall export firearms or ammunition except under the authority of, and in accordance with the terms and conditions (if any) contained in, a firearms dealer 's export permit, a tourist 's export permit or a resident's export permit, as the case may be. Such permits shall be in the prescribed form and shall be issued by the Registrar . (2) A tourist 's export permit shall be issued only to a tourist to whom a tourist 's import permit was issued. (3) A resident's export permit may be issued to a person ordinarily resident in Zambia who wishes to remove firearms or ammunition from Zambia either temporarily or permanently. (4) Any person who exports any firearm or ammunition otherwise than in accordance with the provisions of this section shall be guilty of an offence. Part III – Firearm liceses"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Prohibition against purchase, etc., of firearms or ammunition without licence",
+      "content": "(1) Subject to the provisions of this Act, no person shall purchase, acquire or have in his possession any firearm or ammunition unless he holds a firearm license in respect thereof. (2) If any person— (a) purchases, acquires or has in his possession any firearm or ammunition without holding a firearm license in respect thereof or otherwise than as authorised by such licence , or, in the case of ammunition , in quantities in excess of those so authorised; or (b) fails to comply with any condition subject to which a firearm license is held by him; he shall, subject to the provisions of this Act, be guilty of an offence and liable on conviction to a fine not exceeding one hundred and twelve thousand five hundred penalty units or to imprisonment for a term not exceeding fifteen years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Exemptions from holding firearm licence",
+      "content": "(1) The following provisions of this section shall have effect notwithstanding anything contained in section ten. (2) A person carrying on the business of a firearms dealer and registered as such, or a servant of such person, may purchase, acquire or have in his possession a firearm or ammunition in the ordinary course of that business without holding a firearm licence . (3) A person carrying on business as an auctioneer or carrier , or a servant of any such person, may have in his possession a firearm or ammunition in the ordinary course of that business without holding a firearm licence . (4) A person carrying a firearm or ammunition belonging to another person who holds a firearm license in respect thereof may have in his possession that firearm or ammunition under instructions from and for the use of that other person for sporting purposes only without himself holding a firearm licence . (5) A member of an approved club or of a cadet corps may have in his possession a firearm or ammunition when engaged as such member in, or in connection with, drill or target practice, without holding a firearm licence . (6) Any person may, without holding a firearm licence , use a firearm not exceeding .22 calibre at any shooting range (whether at an approved club or otherwise) or shooting gallery in the presence of the holder of a firearm licence in respect of such firearm or in the presence of some person otherwise authorised to be in possession of such firearm by virtue of this Act. (7) A person taking part in a theatrical performance or any rehearsal thereof, or in the production of a cinematograph film, may have a firearm in his possession during and for the purposes of such performance, rehearsal or production without holding a firearm licence . (8) A person attending an athletic, swimming or other sporting meeting may have a firearm in his possession during such meeting for the purpose of starting races thereat without holding a firearm licence . (9) A tourist in possession of a valid tourist 's import permit may have in his possession the firearms and ammunition specified in such permit without holding a firearm licence . (10) The proprietor or manager of an abattoir may purchase, acquire or have in his possession, and any person employed at an abattoir for the slaughter of animals may have in his possession, a slaughtering instrument or ammunition therefor without holding a firearm licence : Provided that the exemption afforded by this section shall apply in the case of a slaughtering instrument which is not of the captive-bolt type only if the person concerned has been granted a certificate of exemption in respect of such instrument in terms of subsection (13). (11) If he has been granted a certificate of exemption in terms of subsection (13) a person may have in his possession, without holding a firearm licence , a bolt-firing instrument designed for constructional or industrial purposes while engaged in the furtherance of such purposes. (12) Any person may, without holding a firearm licence — (a) have in his possession a signalling apparatus or ammunition therefor on board a ship, boat or aircraft or at an airfield or harbour, as part of the equipment of the ship, boat, aircraft, airfield or harbour; and (b) remove a signalling apparatus or ammunition therefor, being part of the equipment of an airfield or harbour, from or to a place appointed for the storage thereof in safe custody at that airfield, and keep any such apparatus or ammunition at such place; and (c) if he has been granted a certificate of exemption in terms of subsection (13), remove a signalling apparatus or ammunition therefor from or to a ship, boat, harbour, aircraft or airfield to or from such place and for such purposes as may be specified in the certificate. (13) An authorised officer may on application being made to him in that behalf issue a certificate of exemption in any of the cases referred to in subsections (10), (11) and (12) (c) and sections sixteen and twenty-five. Such application and certificate shall be in the prescribed form. (14) Any person who, for the purpose of procuring, whether for himself or for any other person, the grant of a certificate of exemption under the provisions of this section, makes any statement which he knows to be false in any particular or does not believe to be true shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Firearm certificate",
+      "content": "(1) An application for the grant of a firearm certificate or a provisional firearm certificate shall be in the prescribed form and shall be made to the officer in charge of police at any police station in the Division in which the applicant resides or, in the case of a company, carries on business. (2) For the purposes of this section, \" officer in charge of police \" includes, when the officer in charge of the police station is absent from the police station or unable, from illness or other cause, to perform his duties, the police officer of or above the rank of Sub-Inspector present at the police station who is next in rank to such officer. (3) An application under subsection (1) shall be forwarded by the officer in charge of police to the Inspector General who may— (a) issue the certificate; or (b) require the applicant to submit a certificate of competency ; or (c) require the applicant to satisfy the officer in charge of police that he has an adequate knowledge of the Firearms Code ; or (d) refuse the application without assigning any reason therefor. (4) Without derogating from the generality of subsection (3) (d), an application for a firearm certificate shall be refused if, in relation to the firearm or ammunition in respect of which the application is made— (a) the applicant is not in the opinion of the Inspector General a fit and proper person to be entrusted with the firearm or ammunition ; or (b) the applicant is not competent to use the firearm or ammunition ; or (c) the applicant has an inadequate knowledge of the Firearms Code ; or (d) the firearm or ammunition is in a dangerous condition; or (e) the Inspector General has reason to believe that the firearm or ammunition is required for an unlawful purpose; or (f) the firearm or ammunition is a prohibited article . (5) If the Inspector General refuses an application he shall forthwith report such refusal to the Minister. (6) Any person aggrieved by a refusal to issue a firearm certificate or a provisional firearm certificate may, within fourteen days of the receipt by him of written notification of such refusal, appeal therefrom to the Minister, who shall review the circumstances of the refusal and may either dismiss the appeal without assigning reasons or direct that the certificate shall be issued and, if he so directs, shall specify the conditions, if any, subject to which the certificate shall be granted; and the Inspector General shall comply with any such directions given by the Minister. (7) The decision of the Minister on an appeal in terms of this section shall be final and shall not be questioned in any proceedings. (8) A firearm certificate or a provisional firearm certificate shall be in the prescribed form and shall specify, inter alia — (a) in the case of a firearm certificate , the description and serial number of the firearm to which it relates; (b) in the case of a provisional firearm certificate , a general description of the type and calibre of firearm which the applicant wishes to acquire ; (c) as to ammunition , the quantities authorised to be purchased in any one year and the quantities authorised to be held at any one time; (d) the conditions, if any, subject to which the firearm licence thereby authorised to be issued shall be held. (9) Any person who, for the purpose of procuring, whether for himself or for any other person, a firearm certificate or a provisional firearm certificate , makes any statement which he knows to be false in any particular or does not believe to be true, and any person other than an authorised officer who makes any entry or alteration, or in any way wilfully marks or defaces any entry, in a firearm certificate or a provisional firearm certificate , shall be guilty of an offence. [As amended by Act No. 29 of 1985 ]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Firearm licence",
+      "content": "(1) An application for the issue of a firearm licence or a duplicate firearm licence shall be made to the licensing authority of the area in which the applicant resides. (2) A licensing authority shall not issue a firearm licence unless— (a) the applicant produces a firearm certificate authorising the issue of a firearm licence in respect of the firearm or ammunition to which the firearm certificate relates; and (b) the applicant, if so requested by the licensing authority , produces the firearm or ammunition to which the firearm certificate relates; and (c) the prescribed fee is paid. (3) A firearm licence shall be in the prescribed form and shall— (a) state the description and serial number of the firearm to which it relates; (b) contain a separate section relating to ammunition , in which shall be stated the quantities authorised to be purchased in any one year and the quantities authorised to be held at any one time, and in which shall be recorded by the vendor or supplier any sale or supply of ammunition ; (c) state the conditions, if any, subject to which the licence is held. (4) If a firearm licence is lost or destroyed the holder thereof shall forthwith report such loss or destruction to the officer in charge of police at the nearest police station . (5) Where a licensing authority is satisfied that a firearm licence has been accidentally lost or destroyed it shall, upon payment of the prescribed fee, issue a duplicate thereof which shall state— (a) that it is issued in replacement of a lost or destroyed licence , as the case may be; and (b) the serial number of the original licence . (6) If a lost firearm licence is subsequently found and the holder thereof becomes aware that it has been found, he shall forthwith report such finding to the officer in charge of police at the nearest police station . (7) If a lost licence which is subsequently found comes into the possession of the holder , he shall forthwith hand such licence to the officer in charge of police at the nearest police station and, if he has obtained a duplicate licence , surrender whichever licence he may be required by such officer to surrender. (8) Where the holder of a firearm licence makes application for a firearm licence in respect of a further firearm or firearms the licensing authority shall, subject to the provisions of subsection (2), vary the firearm licence already held by the applicant by entering thereon in respect of the further firearm or firearms the information specified in subsection (3): Provided that in any case where— (i) a person who holds a firearm licence in his personal capacity makes application in a representative capacity for a firearm licence ; or (ii) a person who holds a firearm licence in a representative capacity makes application in his personal capacity for a firearm licence ; the licensing authority shall issue a separate licence . (9) Any person who contravenes subsection (4), (6) or (7) shall be guilty of an offence. (10) Any person who, for the purpose of procuring, whether for himself or for any other person, a firearm licence or a duplicate firearm licence , makes any statement which he knows to be false in any particular or does not believe to be true, and any person other than an authorised officer who makes any entry or alteration or endorsement, or in any way wilfully marks or defaces any entry or endorsement, in or on a firearm licence , shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Period of validity and renewal of firearm licence",
+      "content": "(1) A firearm licence shall, unles previously revoked or cancelled, continue in force for three years from the date when it was issued or last renewed and shall, subject to the provisions of this section, be renewable for a further period of three years and so on from time to time. (2) Application for the renewal of a firearm licence shall be in the prescribed form and shall be made by the holder thereof to the officer in charge of police at any police station in the Division in which the holder resides or, in the case of a company, carries on business. Such application shall be made within three months before the date of expiry of the licence , and at the time of application the holder shall produce for the inspection of such officer all the firearms to which the licence relates and all ammunition then in his possession: Provided that where any firearms and ammunition have been deposited in a warehouse during the absence from Zambia of the holder of the licence relating thereto and such licence expires during such absence, it shall be lawful for the holder to apply within one month of his return to Zambia for the renewal of such licence . (3) Upon application being made to him for the renewal of a firearm licence an officer in charge of police shall satisfy himself that— (a) the person presenting the licence for renewal is the authorised holder thereof; (b) the firearms produced to him are those to which the licence relates; (c) the holder of the licence is still a fit and proper person to be entrusted with the firearms in question and that the purposes for which such firearms are required are still lawful; (d) the firearms are not in a dangerous condition; and if he is so satisfied he shall endorse on the firearm licence that the firearms to which it relates have been produced to him and that such licence may be renewed. (4) If on an application being made to him as aforesaid the officer in charge of police is not satisfied with regard to any of the matters referred to in subsection (3) he shall refuse to make the endorsement mentioned in the said subsection either in respect of the licence as a whole or, if the matters in regard to which he is not satisfied relate to certain only of the firearms entered in the licence , in respect of such firearms. Subsections (5), (6) and (7) of section twelve shall apply mutatis mutandis to such a refusal. (5) Any firearm in respect of which an officer in charge of police has refused to make an endorsement of a firearm licence in terms of the provisions of this section shall forthwith on such refusal be deposited by the holder of the licence in a public warehouse . (6) Where the holder of a firearm licence does not desire to renew such licence he shall, before the expiry of the licence , deposit in a public warehouse the firearms and ammunition to which the licence relates, unless he has previously lawfully disposed of them. (7) The licensing authority of the area in which the holder of a firearm licence resides shall, upon production of such licence duly endorsed in terms of subsection (3) and upon payment of the prescribed fee, renew the licence in the manner prescribed. (8) Any person who contravenes any of the provisions of subsection (5) or (6) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Variation and revocation of firearm licence",
+      "content": "(1) The Inspector General may at any time either at the request of the holder of a firearm licence or of his own motion— (a) vary the conditions subject to which the firearm licence is held; or (b) cancel the entry in the firearm licence relating to any firearm or ammunition ; or (c) revoke the firearm licence . (2) Where the Inspector General exercises any of the powers conferred on him by subsection (1) otherwise than at the request of the holder of the firearm licence in question he shall— (a) forthwith report such exercise to the Minister; and (b) by written notice inform such holder of such variation, cancellation or revocation, as the case may be; and subsections (5), (6) and (7) of section twelve shall apply mutatis mutandis . (3) The notice referred to in subsection (2) (b) shall require the holder of the firearm licence to produce such licence to a specified officer in charge of police within fourteen days of the date of receipt of such notice: Provided that if the holder of the firearm licence appeals to the Minister in terms of subsection (2) this subsection shall be read as if for the reference to the date of receipt of the notice there were substituted a reference to the date on which the Minister's decision in the appeal is given or (if such be the case) the date on which the appeal is abandoned. (4) The holder of a firearm licence who has been notified in terms of subsection (2) of the revocation thereof or the cancellation of an entry therein by virtue of the powers conferred by subsection (1) shall within forty-eight hours after the receipt of such notice deposit the firearms or ammunition in question in a public warehouse , unless he has previously lawfully disposed of the same. (5) Any person who fails to comply with the requirements of a notice served on him in terms of subsections (2) and (3) or who contravenes the provisions of subsection (4) shall be guilty of an offence. [As amended by Act No. 29 of 1985 ]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Antique firearms",
+      "content": "(1) A Divisional Commander may, upon the production to him of an antique firearm , issue to the owner thereof a certificate of exemption in the prescribed form: Provided that such Divisional Commander may, before issuing such certificate of exemption and if in his opinion the nature of the firearm makes it desirable, require that such firearm is rendered permanently incapable of being brought into use as a firearm . (2) Where the owner of an antique firearm refuses to comply with the requirement made under the proviso to subsection (1) he shall, unless he has obtained a firearm licence in respect thereof or has lawfully disposed thereof, within one month after the date of such requirement deposit the firearm in a public warehouse specified by the Divisional Commander . (3) Nothing in this Act relating to firearms shall apply to a firearm — (a) in respect of which a certificate of exemption has been issued in terms of subsection (1) and which is purchased, acquired or possessed as an antique, curiosity or ornament; (b) which belongs to or is kept in a museum and in respect of which the Minister has given a certificate that he is satisfied that proper and adequate precautions have been taken for preventing the firearm from coming into the possession of any person not lawfully entitled under this Act to possess that firearm ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Associations",
+      "content": "(1) In this section, \"association\" means any company, firm, club , society, body or other association of persons whether corporate or unincorporate. (2) Where firearms or ammunition are owned, or are to be owned, by an association all applications for firearm certificates or firearm licences or the renewal or replacement thereof or for certificates of exemption shall be made by, and any such licence or certificate shall be granted or issued to, a named person in his capacity as a duly authorised official or representative, as the case may be, of the association, and such person shall be responsible under this Act as the holder of such licence or certificate and the owner of the firearm or ammunition specified therein. (3) Where a licence or certificate has been granted to a person in terms of subsection (2) and such person ceases to be a member or employee, as the case may be, of the association in question, it shall be the duty of such association within fourteen days of such person ceasing to be a member or employee as aforesaid so to inform an officer in charge of police and at the same time to make application for such licence or certificate to be varied by the substitution of another duly authorised official or representative, failing which such licence or certificate shall on the expiration of the said period of fourteen days expire. (4) Subject to the provisions of section eleven, where a firearm licence or a certificate of exemption has been issued in terms of this section the firearm to which it relates may be possessed, carried or used by a person other than the person in whose name such licence or certificate was issued only if such other person is a member or employee of the association in question and has been authorised by an authorised officer to possess, carry or use such firearm . (5) An authority given under subsection (4) shall be in such form, and may be made subject to such conditions, as may be prescribed."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Young persons",
+      "content": "(1) Except as provided by this section, a person who has not attained the age of twenty-one years shall not purchase, acquire or have in his possession any firearm or ammunition , and no person shall sell, let on hire or give any firearm or ammunition to a person whom he knows or has grounds for believing to be under the age of twenty-one years. (2) A person who has attained the age of eighteen years may purchase, acquire or have in his possession an air gun having a calibre of or exceeding .44958 centimetres. (3) A person who has attained the age of eighteen years may have in his possession a firearm or ammunition in circumstances in which he is permitted to have possession thereof without holding a firearm licence by virtue of subsection (4), (5) or (6) of section eleven or where he is under the immediate supervision of an adult who is authorised under this Act to possess the firearm or ammunition . (4) No person shall permit or enable a person whom he knows or has grounds for believing to be under the age of eighteen years to have possession of a firearm or ammunition except where that other person is entitled to have possession thereof by virtue of subsection (3), and if any person under the age of eighteen years is in possession of any firearm or ammunition the holder of the firearm licence or certificate of exemption relating thereto and the father or other person in immediate control of the person under the age of eighteen years shall be presumed to have permitted or enabled such possession unless he satisfies the court that he could not reasonably have prevented such possession. (5) No person shall permit or enable a person under the age of fourteen years to have possession of an air gun except under the immediate supervision of an adult and if any person under the age of fourteen years is in possession of an air gun otherwise than under such supervision the father or other person in immediate control of the person under the age of fourteen years shall be presumed to have permitted or enabled such possession unless he satisfies the court that he could not reasonably have prevented such possession. (6) Any person who contravenes any provision of this section shall be guilty of an offence. (7) The Minister may by regulation exempt any person or class of persons from any provision of this section subject to such conditions as may be specified in such regulations."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Servants of the Republic",
+      "content": "(1) Notwithstanding any rule of law whereunder the provisions of this Act do not bind the Republic, and without prejudice to any such rule, so much of the foregoing provisions of this Part as relates to the purchase and acquisition, but not so much thereof as relates to the possession, of firearms and ammunition shall apply to persons in the service of the Republic in their capacity as such: Provided that— (i) a person in the service of the Republic duly authorised in writing in that behalf may purchase or acquire firearms and ammunition for the public service without holding a firearm licence ; (ii) a person in the armed forces of the Republic shall, if he satisfies the Inspector General on application in terms of section twelve that he is required to purchase or acquire a firearm or ammunition for his own use in his capacity as a member of the armed forces, be entitled without payment of any fee to the issue of a firearm licence in respect of the firearm or ammunition in question. (2) For the purposes of this Act, a police officer shall be deemed to be a person in the service of the Republic."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Production of licence",
+      "content": "(1) Any police officer or authorised officer may demand from any person whom he has reasonable grounds to believe to be in possession of a firearm or ammunition the production of his firearm licence . (2) If any person upon whom a demand is made under subsection (1) fails to produce his firearm licence or to permit the officer in question to read such licence or to show that he is entitled by virtue of this Act to have the firearm or ammunition in his possession without holding a firearm certificate , the officer may seize and detain such firearm or ammunition and may require such person forthwith to declare to him his name and address. (3) Any person who is required to declare his name and address in terms of subsection (2) who refuses so to declare, or who fails to give his true name or address, shall be guilty of an offence and the officer in question may arrest without warrant any person who refuses so to declare his name and address or whom he suspects of giving a false name or address or who he reasonably believes may abscond."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Production of firearms",
+      "content": "(1) Any police officer or authorised officer may demand from any person who holds a firearm licence or other authority under this Act to possess a firearm or ammunition the production at such time and place as the officer may specify of the firearm or ammunition to which the licence or authority relates for his own inspection or for the inspection of any other person. (2) Any person who fails to comply with a demand made in terms of subsection (1) shall be guilty of an offence: Provided that no person shall be prosecuted for an offence under this section in addition to being prosecuted under section thirty-eight or thirty-nine in respect of the same firearm or ammunition ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Change of residence of holder of firearm licence",
+      "content": "(1) Where the holder of a firearm licence changes his residence he shall within thirty days thereafter produce his firearm licence to the officer in charge of the police station nearest to the address to which he has moved (notwithstanding that such police station was also the station nearest to the address from which such holder had moved). (2) An officer to whom a firearm licence is produced in terms of subsection (1) shall endorse such licence with the change of address and shall send a copy of such endorsement to the Registry . (3) Where the holder of a firearm licence changes his residence and the residence to which he removes is situate outside Zambia, he shall report such removal to an authorised officer and, if he wishes to remove his firearms or ammunition from Zambia, shall obtain from such officer a permit in that behalf: Provided that this subsection shall not apply in any case of a temporary change of residence where the holder concerned deposits his firearms and ammunition in a public warehouse for the duration of the change of residence. (4) Any person who fails to comply with any provision of subsection (1) or (3) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Death of holder of firearm licence",
+      "content": "(1) Upon the death of the holder of a firearm licence such licence shall forthwith lapse and any person who comes into possession of the firearms or ammunition to which the said licence relates shall within fourteen days of coming into possession thereof deposit the same in a public warehouse . (2) When any firearm or ammunition is deposited in a public warehouse and within six months of such deposit no person has established his title thereto, the person in charge of such warehouse shall notify the subordinate court within whose jurisdiction the warehouse is situate of the deposit of such firearm and ammunition . (3) Upon being notified of a deposit as aforesaid the subordinate court shall cause a notice to be posted in a conspicuous place at the court or at such other places as it deems fit specifying the firearm or ammunition and the name of the person upon whose death such firearm or ammunition was deposited, and calling upon any person claiming to be entitled thereto to appear before the court within six months after the date of such notice and establish his title to such firearm or ammunition . (4) If no person shall within six months after the date of the aforementioned notice have established his title to the firearm or ammunition specified in such notice such firearm or ammunition shall be deemed to have been abandoned by the person, if any, lawfully entitled thereto and to have become the property of the Republic, and the subordinate court in question shall notify the Registrar accordingly. (5) If some person shall have duly established his title to the firearm or ammunition but shall fail within three months after establishing such title to obtain a firearm licence authorising his acquisition and possession thereof, such firearm or ammunition shall, on payment to the person entitled thereto of full compensation, be surrendered to the Republic. Part IV – Sale and transfer of firearms and ammunition and firearms dealiers and private warehouses"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Private warehouses",
+      "content": "(1) No person shall keep a private warehouse for firearms and ammunition unless he is the holder of a firearms dealer's licence in respect thereoof. (2) No firearms or ammunition shall be deposited in or withdrawn from a private warehouse except as may be permitted by regulations in that behalf. (3) Any person who contravenes any provision of this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Restrictions on sale or transfer of firearms",
+      "content": "(1) No person shall, by way of trade or business— (a) purchase, sell or transfer ; or (b) accept or expose for sale or transfer or have in his possession for sale or transfer ; any firearm or ammunition unless he is a registered firearms dealer : Provided that, subject to the other provisions of this Act, it shall be lawful for an auctioner to accept for sale by auction, sell by auction, expose for sale by auction and have in his possession for sale by auction, a firearm or ammunition without being a registered firearms dealer if— (i) he has first obtained a certificate of exemption in terms of subsection (13) of section eleven and complies with the conditions, if any, of such certificate; and (ii) he maintains, and produces on demand to an authorised officer , such records and makes such returns relating to the sale of firearms and ammunition as may be prescribed. (2) No person shall sell or otherwise alienate or transfer any firearm or ammunition to any other person in Zambia unless— (a) such other person is a registered firearms dealer ; or (b) such other person is the holder of a firearm licence authorising him to purchase, acquire or have possession of the firearm or ammunition in question, or shows that he is a person entitled by virtue of this Act to purchase, acquire or have possession of such firearm or ammunition without holding a firearm licence ; or (c) the transferor is a carrier or an employee of a carrier and the delivery of such firearm or ammunition is in the ordinary course of his business or employment as such. (3) Every person who sells or otherwise alienates or transfers any firearm or ammunition to any other person in Zambia other than a registered firearms dealer shall, unless such other person shows that he is entitled by virtue of this Act to purchase, acquire or have possession of such firearm or ammunition without holding a firearm licence , comply with any conditions contained in the firearm licence held by such other person, and in the case of a firearm shall within seven days after the date of the transaction send notice thereof to the Registrar by registered post. (4) Any person who— (a) contravenes any provision of this section; or (b) in order to purchase or acquire a firearm or ammunition , produces a false firearm licence or a firearm licence in which any false entry has been made, or personates a person to whom a firearm licence has been issued, or makes any statement which he knows to be false in any particular or does not believe to be true; shall be guilty of an offence and liable on conviction to a fine not exceeding seven thousand five hundred penalty units or to imprisonment for a term not exceeding fifteen years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Registration of firearms dealers",
+      "content": "(1) The Registrar shall for the purposes of this Act keep a register of firearms dealers (in this Part referred to as \"the register\") and, subject as hereinafter provided, shall enter therein the name and such other particulars as may be prescribed of every person who is entitled under the provisions of this Part to be issued with a firearms dealer's licence . (2) An application for registration as a firearms dealer shall be made in the prescribed form to the Registrar who may register the applicant or refuse to register him without assigning any reason for such refusal: Provided that an applicant shall not be registered — (i) if a disqualification order against him under section thirty-three is in force; or (ii) unless the Registrar is satisfied that the applicant is conversant with the provisions of this Act; or (iii) if the Registrar is satisfied that for the applicant to carry on the business of a firearms dealer would endanger the public safety or the peace. (3) If the Registrar , after giving reasonable notice to any person whose name is on the register, is satisfied that— (a) that person is no longer carrying on business as a firearms dealer ; or (b) for that person to continue to carry on business as a firearms dealer would endanger the public safety or the peace; he shall remove the name of that person from the register. (4) The Registrar shall remove from the register the name of any person if that person so wishes. (5) Any person aggrieved by a refusal to enter his name on, or the removal of his name from, the register may within fourteen days after the receipt by him of written notice of such refusal or removal appeal to the Minister, and the provisions of subsections (5), (6) and (7) of section twelve shall apply mutatis mutandis . (6) The Registrar shall issue to a person who is registered in terms of this section a certificate of registration in the prescribed form. (7) Any person who, for the purpose of procuring his registration or that of any other person as a firearms dealer , makes any statement which he knows to be false in any particular or does not believe to be true shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Registration of places of business of firearms dealers",
+      "content": "(1) An application for registration under subsection (2) of section twenty-six shall contain particulars of every place of business in Zambia at which the applicant proposes to carry on business as a firearms dealer and shall be accompanied by a certificate in respect of each such place issued by an officer in charge of police of the Division in question that the premises named in the certificate are suitable for carrying on the business of a firearms dealer ; and the Registrar shall, upon registering the applicant as a firearms dealer and subject as hereinafter provided, enter in the register every such place of business. (2) Every person registered as a firearms dealer who proposes to carry on business as such at any place of business not entered in the register shall notify the Registrar accordingly and shall furnish him with the particulars and certificate mentioned in subsection (1) and thereupon the Registrar shall, subject as hereinafter provided, enter that place of business in the register. (3) An officer in charge of police shall not issue such a certificate as is referred to in subsection (1) unless he is satisfied that— (a) the premises in question are so constructed as to be a secure place for the safe-keeping of firearms and ammunition ; (b) suitable strong rooms, safes or other secure stores for the safe-keeping of firearms and ammunition are provided within the premises ; (c) suitable locks or similar appliances are provided for ensuring the safe-keeping of firearms and ammunition within the premises and within the strong rooms, safes and stores; (d) adequate provision is made in the premises to safe-guard firearms and ammunition which are removed from strong rooms, safes and stores for the purposes of display or any other purpose in the ordinary course of business. (4) Any person aggrieved by the refusal of an officer in charge of police to issue a certificate under this section may within fourteen days of the receipt of written notice of such refusal appeal to the Minister, and the provisions of subsections (6) and (7) of section twelve shall apply mutatis mutandis . (5) The licensing authority for the area in which a place of business is situate shall issue a firearms dealer's licence in respect of such place of business upon application being made in the prescribed form and upon production— (a) of the certificate of registration issued to the applicant in terms of subsection (6) of section twenty-six; and (b) if the certificate referred to in paragraph (a) does not specify the place of business in respect of which the application is made, of the certificate of the Registrar that such place of business is entered on the register; and upon payment of the prescribed fee. (6) Upon the removal from the register of the name of a firearms dealer in terms of subsection (3) or (4) of section twenty-six the Registrar shall remove from the register all places of business of that dealer. (7) If the Registrar , after giving reasonable notice to the firearms dealer in whose name a place of business has been registered , is satisfied that— (a) such dealer is no longer carrying on the business of a firearms dealer at such premises ; or (b) for such dealer to continue to carry on business as a firearms dealer at such premises would endanger the public safety or the peace; or (c) such premises no longer comply with the requirements specified in paragraphs (a), (b), (c) and (d) of subsection (3); he shall remove such place of business from the register. (8) Any person aggrieved by the removal from the register of a place of business in terms of subsection (7) may within fourteen days of the receipt by him of written notice of such removal appeal to the Minister, and the provisions of subsections (6) and (7) of section twelve shall apply mutatis mutandis . (9) If— (a) any registered firearms dealer has a place of business in respect of which he does not hold a firearms dealer's licence and carries on business as a firearms dealer at such place; or (b) any registered firearms dealer fails to maintain his place of business so that at all times it, and strong rooms, safes and stores within it, comply with the requirements of paragraphs (a), (b), (c) and (d) of subsection (3); or (c) any person makes any statement which he knows to be false in any particular or does not believe to be true for the purpose of procuring, whether for himself or for any other person, the entry of any place of business in the register or a licence in respect of any place of business; he shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Consequences of removal of place of business from register",
+      "content": "(1) Upon the removal of a place of business from the register the Registrar shall by notice served on the firearms dealer concerned inform him of the removal and may by the same notice order that firearms dealer to cease, as from the date of service of the notice, carrying on the business of a firearms dealer or selling or otherwise disposing of any firearms or ammunition at that place of business. (2) Where an appeal against any such removal as aforesaid is allowed the notice served under subsection (1) shall be of no force or effect as from the date of determination of such appeal. (3) Where the firearms dealer does not appeal against any such removal as aforesaid, or where any such appeal is abandoned or dismissed, the Registrar shall by notice served on the firearms dealer in question authorise the disposal, in accordance with such directions as may be contained in the notice, of the stock in hand of that firearms dealer at that place of business notwithstanding any other provisions of this Act. (4) Where a place of business of a firearms dealer is removed from the register the firearms dealer's licence in respect of that place of business shall cease to be valid upon the service of the notice referred to in subsection (1) or, if there is an appeal against such removal, upon the abandonment or dismissal of such appeal. (5) If a firearms dealer upon whom a notice is served under subsection (1) or (3) contravenes any provision of such notice he shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Production of firearms dealer's licence",
+      "content": "(1) Any police officer or authorised officer may demand from any person whom he reasonably suspects may be carrying on at any place the business of a firearms dealer the production of a firearms dealer's licence in respect of that place. (2) If any person fails without lawful excuse to produce a firearms dealer's licence on demand being made as aforesaid, or to permit such officer to read the document produced to him, the officer may require such person forthwith to declare to him his name and address, and if such person refuses so to declare or fails to give his true name and address he shall be guilty of an offence and the officer may without warrant arrest the person who refuses so to declare his name or address, or whom he suspects of giving a false name or address or of intending to abscond."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Form and duration of firearms dealer's licence",
+      "content": "(1) A firearms dealer's licence shall be in the prescribed form and shall, subject to the provisions of this Act, be valid for one year from the date of issue thereof. (2) Not less than one month before the date of expiry of a firearms dealer's licence in respect of a place of business the holder thereof— (a) shall surrender such licence to the licensing authority which issued it; and (b) may apply for the issue of a new firearms dealer's licence in respect of that place of business. (3) Any such application as is referred to in subsection (2) (b) shall be in the prescribed form, and upon production of a certificate of the Registrar that such place of business is still entered on the register and upon payment of the prescribed fee the licensing authority shall issue the new licence ."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Prescribed fees",
+      "content": "(1) There shall be payable on the grant or issue of the certificates, licences and permits referred to in this Act the fees set out in the First Schedule. (2) All fees paid on the issue, renewal or replacement of firearm licences and the entry of further firearms in a firearm licence , and on the issue of firearms dealers' licences, shall be paid into the revenue or local authority treasury, as the case may be, of the licensing authority by which the licences in question are issued, and save as aforesaid all fees paid in terms of any provision of this Act or regulations made thereunder shall be paid into the general revenues of the Republic."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Register of transactions in firearms and ammunition",
+      "content": "(1) Every registered firearms dealer shall keep a register of transactions relating to his business as such dealer (in this section referred to as a dealer's register), including the sale, transfer , repair, test or proof of firearms and the sale or transfer of ammunition , and shall enter therein such particulars as may be prescribed. (2) Every entry required to be made in a dealer's register shall be made within twenty-four hours after the transaction to which it relates; and in the case of a sale or transfer the firearms dealer shall require the purchaser or transferee, if not known to him, to furnish particulars sufficient for identification and shall forthwith enter such particulars in his dealer's register. (3) Every registered firearms dealer shall on demand allow an authorised officer to enter his place of business and inspect all stock in hand, and shall on request by that officer produce for inspection his dealer's register. (4) Every registered firearms dealer shall render punctually to the Registrar such reports and returns, prepared in such manner, as may be prescribed. (5) Any person who— (a) contravenes any provision of this section; or (b) knowingly makes any false entry in a dealer's register; or (c) knowingly furnishes any false particulars of identification of himself for the purposes of this section; shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Register of transactions in firearms and ammunition",
+      "content": "(1) Where a registered firearms dealer is convicted of an offence under this Act or against any law relating to the import or export of firearms or ammunition , the court may make an order, in this Act referred to as a disqualification order, against such dealer and against any person who was knowingly a party to the offence in question. (2) A person aggrieved by the making of a disqualification order may appeal against such order in the same manner as against the conviction in question, and the court may suspend the operation of the order pending the determination of such appeal. (3) Where a disqualification order against any person is made and is not suspended pending the determination of an appeal— (a) the name of such person shall be removed from the register; and (b) such person shall not thereafter, save with the consent of the Minister, be registered as a firearms dealer ; and (c) any person who, save with the consent of the Minister, knowingly employs in any business connected with firearms or ammunition a person against whom a disqualification order has been made shall not be registered as a firearms dealer or, if so registered , shall be liable to be removed from the register. (4) Any person who— (a) being disqualified in terms of this section, applies for registration as a firearms dealer without first obtaining the consent of the Minister; or (b) being a registered firearms dealer , employs in his business as such dealer, save with the consent of the Minister, a person disqualified in terms of this section; shall be guilty of an offence. (5) Where a court makes a disqualification order under this section it shall cause notice thereof to be sent to the Registrar . Part V – Manufacture, repair and conversion of firearms and ammunition"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Restriction on manufacture of firearms and ammunition",
+      "content": "(1) No person shall manufacture any firearms or ammunition in Zambia except on behalf of the Government or with the consent of the Minister, and at a place established or designated for the purpose by, and in accordance with instructions issued by, the Minister. (2) For the purposes of this Act, \"manufacture\", in relation to firearms and ammunition , does not include the repair of a firearm or ammunition or the alteration or substitution or replacement of any component part of a firearm . (3) Any person who contravenes the provisions of subsection (1) shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (4) Any police officer or authorised officer who reasonably suspects that subsection (1) is being or has been contravened may seize and detain any firearm or ammunition or any material or article which he reasonably suspects may be the subject of, or have been used in connection with, any such contravention. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Repair, etc., of firearms and ammunition",
+      "content": "(1) Subject to subsection (3), no person other than a registered firearms dealer shall repair, test or prove any firearm or ammunition save under the authority of a permit from an authorised officer in the prescribed form; Provided that nothing in this section shall operate to prevent the repair, test and proof of any firearm or ammunition at an establishment under the exclusive custody and control of the Government. (2) Every repair, test or proof of a firearm or ammunition shall be accounted for— (a) in the case of a registered firearms dealer , in accordance with the provisions of section thirty-two; or (b) in any case authorised by a permit under subsection (1), in such manner as may be specified in such permit. (3) Nothing in this section shall operate to prohibit the holder of a firearm licence from himself testing or repairing the firearms or ammunition to which such licence relates. (4) No person shall undertake the repair, test or proof of a firearm or ammunition for any other person unless such other person— (a) exhibits a firearm licence authorising him to have possession of such firearm or ammunition ; or (b) shows that he is by virtue of this Act entitled to have possession of such firearm or ammunition without holding a firearm licence ; or (c) is a registered firearms dealer and the repair, test or proof is undertaken at his request in that capacity. (5) Any person who— (a) contravenes any provision of this section; or (b) for the purpose of procuring the repair, test or proof of any firearm or ammunition , exhibits a firearm licence or certificate or permit which is false or in which any false entry has been made, or personates any person to whom a firearm licence or certificate or permit has been issued or granted, or who makes any statement which he knows to be false in any particular or does not believe to be true; shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Restriction on conversion of firearms",
+      "content": "(1) No person shall, without the written permission of an authorised officer — (a) shorten the barrel of any firearm to a length of less than 45.72 centimetres; or (b) convert or modify any firearm so that the method of loading or discharge thereof, or the calibre or type of ammunition usable therein, differs from that for which such firearm was originally designed. (2) No person shall convert into a firearm anything which is so constructed as to be incapable of discharging a missile through the barrel thereof. (3) Any person who contravenes any provision of this section shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. [As amended by Act No. 13 of 1994 ] Part VI – Miscellaneous"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Prohibited articles",
+      "content": "(1) It shall not be lawful for any person other than a person— (a) in the service of the Government and in his capacity as such; or (b) authorised in writing in that behalf by the Minister; or (c) who is a member of a class of persons for the time being authorised in that behalf by the Minister by statutory instrument; to sell, transfer , purchase, acquire or have in his possession any prohibited article . (2) Any person who contravenes any provision of subsection (1) shall be guilty of an offence and liable on conviction to a fine not exceeding thirty-seven thousand five hundred penalty units or to imprisonment for a term not exceeding five years, or to both. (3) An authority given under this section shall be subject to such conditions as may be specified therein, and if any person authorised thereby contravenes any such condition he shall be guilty of an offence. (4) The Minister may at any time by notice in writing revoke any individual authority given by him to any person. Such notice shall require the person in question to deliver up such authority to such person as may be specified in the notice within twenty-one days after the service thereof, and if such person fails to comply with such notice he shall be guilty of an offence. (5) An authority given by the Minister under this section to any class of persons may at any time be revoked by statutory instrument. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Safe custody of firearms and ammunition",
+      "content": "(1) Every person having in his possession or under his control any firearm or ammunition shall keep the same at all times securely and in safe custody, and shall take all reasonable precautions to ensure that such firearm or ammunition is not lost or stolen or able to come into the possession of any person not lawfully entitled to be in possession thereof. (2) Whenever it is necessary to convey within Zambia any firearm or ammunition otherwise than in the custody of the holder of any licence , certificate, permit or other authority relating thereto or of a registered firearms dealer or auctioneer authorised to be in possession thereof, the responsibility for taking all reasonable precautions against loss or theft shall lie on the consignor of such firearm or ammunition : Provided that when any carrier has knowingly accepted such firearm or ammunition as aforesaid and furnished to the consignor or to any other carrier a receipt therefor, the carrier so accepting shall be deemed to have accepted responsibility for the safe custody of such firearm or ammunition , notwithstanding anything contained in any agreement between him and the consignor, until the delivery in the normal course of such firearm or ammunition to some person authorised to receive it. (3) Any person who contravenes any provision of this section shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (4) In any prosecution for an offence under subsection (1) the onus shall lie on the accused to satisfy the court that he took all reasonable precautions in terms of the said subsection."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Notice of loss of firearm",
+      "content": "(1) If any firearm is lost, stolen or destroyed the holder of the firearm licence or other authority relating thereto shall forthwith report such loss, theft or destruction to the officer in charge of the police station nearest to the address at which such holder resides. [As amended by Act No. 13 of 1994 ] (2) If an authorised officer is satisfied that a firearm has been lost, stolen or destroyed he shall make an endorsement to that effect on the firearm licence or other authority under which such firearm was held and shall forthwith make a report to the Registrar . (3) Any person who fails to comply with the provisions of subsection (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Failure to take precautions against injury or damage",
+      "content": "Any person who, in his handling or care of any firearm or ammunition , fails to take reasonable or proper precautions against possible injury or damage to persons or property shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a period not exceeding two years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Firearms Code",
+      "content": "(1) The Minister may prepare a code, to be known as the Firearms Code , containing such information, directions and advice as appear to him to be proper or desirable for the guidance of persons using or in any way associated with firearms or ammunition , and may from time to time amend such code. (2) The proposed Firearms Code or any proposed amendments thereto, as the case may be, shall, before being issued, be approved by the National Assembly. (3) The Firearms Code may be issued in such languages and at such price as the Minister shall deem fit. (4) Failure on the part of any person to observe any provision of the Firearms Code shall not of itself render that person liable to criminal proceedings of any kind, but any such failure may in any proceedings, whether civil or criminal and including proceedings for an offence under this Act, be relied upon by any party to the proceedings as tending to establish or negative any liability which is in question in such proceedings."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Loan of firearms",
+      "content": "Notwithstanding any other provisions of this Act, a person may borrow or have in his possession for a period not exceeding six months a firearm and ammunition therefor owned by the holder of a firearm licence relating thereto if the borrower— (a) holds a firearm licence in respect of a firearm of the same type as the borrowed firearm ; and (b) holds a transfer certificate in the prescribed form authorising the borrower to have possession of the borrowed firearm ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Prohibition of pawning of firearms",
+      "content": "Any person who pawns or who accepts in pawn any firearm or ammunition shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "Deposit of firearms for safe custody",
+      "content": "(1) An authorised officer may in the interests of public safety require any person to deposit his firearms or any of them or any ammunition therefor in a public warehouse for safe custody for such period or periods as such officer may deem necessary, and any person who fails to comply with any such requirement shall be guilty of an offence. (2) Any person aggrieved by a requirement under this section may, having first complied therewith, appeal therefrom to the Minister, and the provisions of subsections (6) and (7) of section twelve shall apply mutatis mutandis ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Power to prohibit carrying, etc., of firearms",
+      "content": "(1) Whenever the President is satisfied that in the interests of public safety or for the prevention of offences against the peace it is necessary or expedient so to do, he may by statutory instrument— (a) prohibit the carrying or conveyance of firearms or ammunition ; or (b) prohibit the sale of firearms or ammunition ; or (c) order that all firearms and ammunition shall be delivered up to such person, and within such time, as may be specified in such order. (2) An order made under subsection (1)— (a) may be expressed to apply to the whole of Zambia or to such portion thereof as may be specified; or (b) may be made subject to any exceptions, whether in respect of any person or class of persons or of any firearms or ammunition or class or type thereof, as the President may deem necessary or expedient; and (c) may be revoked or varied by the President at any time. (3) Any police officer may without warrant arrest any person who he has reason to believe has acted or is acting in contravention of an order made under this section. (4) Any person who contravenes any provision of an order made under this section shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand five hundred penalty units or to imprisonment for a term not exceeding seven years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VI",
+      "section": "46",
+      "title": "Power to take possession of stocks of firearms and ammunition",
+      "content": "(1) Whenever the President is satisfied that in the interests of public safety or public order it is necessary or expedient so to do, he may by statutory instrument direct that the stocks of firearms and ammunition in the possession of firearms dealers in any Division or of any firearms in transit within Zambia shall be taken possession of by police officers for the purpose of safe storage. (2) Any registered firearms dealer within a Division in respect of which a direction has been given as aforesaid shall, on being informed by a police officer of the intention to take possession of his stocks of firearms and ammunition , take immediate steps for the packing of such stocks for removal to a place of safety. (3) A receipt shall be given by the police officer in question to the person from whom such stocks are received for all stocks of firearms and ammunition of which possession has been taken in terms of this section. (4) Firearms and ammunition of which possession has been taken in terms of this section shall be returned to the persons from whom they were received at such time as the Minister may appoint. (5) Any person who fails to comply with the provisions of subsection (2) or who interferes with or obstructs any officer acting in accordance with a direction given under this section, or who fails to surrender the whole of his stocks of firearms or ammunition in accordance with such direction, shall be guilty of an offence and liable on conviction to a fine not exceeding one hundred and twelve thousand five hundred penalty units or to imprisonment for a period not exceeding fifteen years, or to both. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VI",
+      "section": "47",
+      "title": "Carrying firarms when drunk, etc",
+      "content": "(1) Any person who is under the influence of drink, or who behaves in a disorderly manner, while carrying a firearm shall be guilty of an offence and liable on conviction to a fine not exceeding fifteen thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (2) A police officer may arrest without warrant any person who he has reason to believe is guilty of an offence under this section. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VI",
+      "section": "48",
+      "title": "Possessing firearms with intent to injure",
+      "content": "(1) Any person who has in his possession any firearm or ammunition with intent to endanger life or cause serious injury to person or property, or to enable any other person so to do, shall, whether or not any injury to person or property has been caused, be guilty of an offence and liable on conviction to imprisonment for a term not exceeding fourteen years. (2) A police officer may arrest without warrant any person who he has reason to believe is guilty of an offence under this section."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VI",
+      "section": "49",
+      "title": "Penalty for use and possession of firearms in certain cases",
+      "content": "(1) Any person who makes or attempts to make any use whatever of a firearm or imitation firearm with intent to resist or prevent the lawful apprehension of himself or any other person shall be guilty of an offence and liable on conviction to imprisonment for a term not exceeding fourteen years. (2) Where any person commits an offence under subsection (1) in respect of his own lawful apprehension for any other offence committed by him, he shall be liable to the penalty herein provided in addition to any penalty to which he may be liable for that other offence. (3) Any person who, at the time of his committing any offence specified in the Second Schedule or of his apprehension therefor, has in his possession any firearm or imitation firearm shall, unless he satisfies the court that he had such firearm or imitation firearm in his possession for a lawful purpose, be guilty of an offence and liable on conviction, in addition to any penalty to which he may be liable in respect of such other offence, to imprisonment for a term not exceeding seven years. (4) On the trial of any person for an offence under subsection (1) the court may convict him of an offence under subsection (3). (5) A firearm or imitation firearm shall, notwithstanding that it is not loaded or is otherwise incapable of discharging any missile or noxious liquid or gas, as the case may be, be deemed to be an offensive weapon or instrument within the meaning of sections two hundred and ninety-four and two hundred and ninety-five and of paragraphs (a) and (b) of section three hundred and five of the Penal Code. [Cap. 87] (6) In this section, \"imitation firearm \" means anything which has the appearance of being a firearm , whether or not it is capable of discharging any missile or noxious liquid or gas, as the case may be. Part VII – General"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VII",
+      "section": "50",
+      "title": "Powers of search",
+      "content": "(1) If a magistrate is satisfied by information on oath that there is reasonable ground for suspecting that an offence under this Act has been, is being or is about to be committed he may issue a search warrant in the prescribed form authorising any police officer or authorised officer named therein— (a) to enter at any time any premises or place named in the warrant, with or without assistance and if necessary by force, and to search such premises or place and every person found therein; and (b) to seize any firearm or ammunition or any other thing which he may find in the premises or place, or on any person found therein, by which or in respect of which or in connection with which he has reasonable grounds for suspecting that an offence under this Act has been, is being or is about to be committed; and (c) if the premises are those of a registered firearms dealer , to examine any books relating to the firearms business of such dealer. (2) A search warrant issued under this section may be issued and executed on any day. (3) A person making a search under the authority of a warrant issued in terms of this section may arrest without warrant any person found in the premises or place in question who he has reason to believe has committed an offence under this Act. (4) The provisions of subsections (1) and (3) of section one hundred and two and of sections one hundred and four, one hundred and six, one hundred and twenty and one hundred and twenty-one of the Criminal Procedure Code shall apply to search warrants issued under this section, and any magistrate issuing such a warrant shall, for the purposes thereof, be deemed to have jurisdiction throughout Zambia: [Cap. 88] Provided that reference to police officer in any of the said sections of the Criminal Procedure Code shall, for the purposes of any warrant issued under this section, be deemed to include reference to an authorised officer . [Cap. 87]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VII",
+      "section": "51",
+      "title": "Powers of search without warrant",
+      "content": "(1) Any police officer of or above the rank of Sub-Inspector may without warrant— (a) stop, search and detain any vehicle or vessel in or upon which there is reason to suspect that any firearm or ammunition is being unlawfully conveyed; or (b) stop, search and detain any person whom he reasonably suspects of unlawfully conveying or having in his possession any firearm or ammunition ; or (c) seize any firearm or ammunition found in the course of any search under this section. (2) For the purposes of this section— \"vehicle\" has the meaning assigned to it in section two of the Roads and Road Traffic Act; \"vessel\" includes a ship, boat and every other kind of craft used in navigation either on the sea or on inland waters, and includes aircraft. [ Cap. 464 ]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VII",
+      "section": "52",
+      "title": "Obstruction, etc., of officers",
+      "content": "Any person who obstructs any officer in the execution of a search warrant issued in terms of section fifty or, being required by such officer under the said section to produce any information, record or thing which to the knowledge of such officer is available to such person, or who obstructs an officer in the lawful exercise of any power conferred upon him by section fifty-one, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VII",
+      "section": "53",
+      "title": "Taking possession of firearms or ammunition by customs officer",
+      "content": "(1) Where possession is taken by a customs officer of any firearms or ammunition the entry of which into Zambia would be contrary to this Act or any other law, such firearms or ammunition shall as soon as is practicable be handed to the officer in charge of the nearest police station , who shall deposit the same in a public warehouse and forthwith make a report to the Registrar . (2) The customs officer taking possession as aforesaid shall issue a receipt in the prescribed form and, as the case may be, hand it to the person from whom such possession was taken or send it by prepaid registered post to the consignee of such firearms and ammunition . (3) Where possession has been taken as aforesaid of any firearms or ammunition and it is not alleged that the same are liable to forfeiture or the subject of any offence, such firearms or ammunition shall, provided not less than twenty-four hours' notice of such intended departure has been given to the officer in charge of the police station in question, be returned to the person from whom they were taken on his departure from Zambia through the same port through which he entered."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VII",
+      "section": "54",
+      "title": "Penalties, forfeiture and revocation of licence",
+      "content": "(1) A person convicted of an offence under this Act for which no other penalty is provided shall be liable to a fine not exceeding seven thousand five hundred penalty units or to imprisonment for a term not exceeding one year, or to both. (2) Where any person— (a) is convicted of an offence under this Act or is convicted of any offence for which he is sentenced to imprisonment; or (b) has been ordered to be subject to police supervision or to enter into a recognizance to keep the peace or to be of good behaviour, a condition of which is that the offender shall not possess, carry or use a firearm ; the court by which he is convicted or by which the order is made may order the forfeiture or disposal of any firearm or ammunition found in his possession and the revocation of any firearm licence held by him. (3) Where a court orders the revocation of a firearm licence under this section— (a) it shall cause notice of the order to be sent to the Registrar ; and (b) the Registrar shall, by notice in writing, require the surrender by the holder of such licence ; and (c) if such holder fails to surrender such licence within fourteen days after the receipt of such notice he shall be guilty of an offence: Provided that evidence that the loss or destruction of such licence has been reported in accordance with the provisions of subsection (4) of section thirteen shall be a defence to any charge under this subsection. [As amended by Act No. 13 of 1994 ]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VII",
+      "section": "55",
+      "title": "Aiding and abetting, etc.",
+      "content": "Any person who aids and abets, or counsels or procures, or attempts to commit any offence under this Act shall be guilty of an offence and liable on conviction to the penalty provided for the offence the commission of which he aided and abetted or counselled or procured or attempted, as the case may be."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VII",
+      "section": "56",
+      "title": "Disposal of unclaimed firearms and ammunition",
+      "content": "(1) Any firearms or ammunition deposited in a public or private warehouse in terms of this Act or of any other law and remaining unclaimed for a period of three years from the date of such deposit shall be deemed to have been abandoned by the owner thereof and shall thereupon become the property of the Republic. (2) Any firearms or ammunition which have become the property of the Republic by virtue of subsection (1) or of a forfeiture under this Act or any other law may be sold, destroyed or otherwise disposed of as the Minister may direct."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VII",
+      "section": "57",
+      "title": "Service of notices",
+      "content": "Any notice required or authorised by this Act to be served on any person may be served personally or may be sent by prepaid registered post addressed to such person at his last known or usual postal address or, in the case of a registered firearms dealer , at any place of business in respect of which he holds a firearms dealer's licence , and any notice so sent shall be presumed unless the contrary is proved to have been delivered in the normal course of posting."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VII",
+      "section": "58",
+      "title": "Regulations",
+      "content": "(1) The Minister may, by statutory instrument, make regulations generally for the carrying out of the provisions of this Act and for its efficient administration and in particular, but without derogating from the generality of the foregoing— (a) prescribing anything which is to be prescribed under this Act; (b) regulating the import and export of firearms and ammunition and the conditions and restrictions which may be specified in an import permit; (c) regulating the import and sale of blank cartridges; (d) prescribing the officers or classes of officers who shall be authorised officers for the purposes of the several provisions of this Act; (e) prescribing the nature, frequency and form of reports and returns to be made and the persons to whom reports and returns are to be made; (f) providing for the surrender and return of certificates of registration of firearms dealers and firearms dealers' licences upon the removal of or restoration to the register of the name of or a place of business of a firearms dealer ; (g) providing for the determination and payment of compensation where any firearm or ammunition is compulsorily taken possession of or acquired; (h) regulating the deposit in and withdrawal from warehouses of firearms and ammunition and prescribing the fees, rent and other charges payable on and during such deposit; (i) prescribing the fees to be paid for any licence , certificate, permit or other authorisation issued or granted under this Act or in respect of any act of registration or other official act performed thereunder; (j) specifying the conditions under which a firearm or ammunition may be delivered to a carrier or conveyed within Zambia; (k) regulating the establishment and conduct of shooting clubs and prescribing the fees payable in respect of the registration thereof; (l) regulating the stamping, numbering and registration of firearms and ammunition and the proving of firearms; (m) prescribing the manner in which fees, rents and charges payable under this Act may be recovered; (n) prescribing the procedure to be followed in appeals; (o) declaring types of firearms to be specially dangerous; (p) providing for tests of competency. (2) Regulations may prescribe penalties for any contravention thereof not exceeding those mentioned in subsection (1) of section fifty-four. (3) The Minister may by regulations made under subsection (1) alter or amend the provisions of the First Schedule. (4) The Minister may, by regulations made under subsection (1)— (a) provide for the establishment, composition, functions and procedures of a Firearms Committee to make recommendations to the Inspector-General on such matters as may be prescribed therein; (b) provide that where the Inspector-General considers it undesirable to follow the recommendations of the Firearms Committee, he shall refer the matter to the Minister for ruling; and (c) provide for such matters relating to the Firearms Committee as he considers necessary. [As amended by Act No. 4 of 1974 and Act No. 16 of 1986 ]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VII",
+      "section": "59",
+      "title": "Exercise of discretion",
+      "content": "Where any discretion is conferred on any person by or under this Act or any regulation made thereunder the Minister may from time to time issue directions as to the manner in which such discretion shall be exercised and that person shall comply with those directions."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VII",
+      "section": "60",
+      "title": "Rectification of register following appeal",
+      "content": "Upon the determination of any appeal under this Act all necessary alterations shall be made in the register."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VII",
+      "section": "61",
+      "title": "Repeal and saving",
+      "content": "The Firearms Act, 1965, Act No. 24 of 1965 , is hereby repealed: Provided that any licence , certificate, permit or other authorisation issued under the provisions of the said Act shall have effect during its period of validity, and during such period the holder thereof shall not be required to obtain any equivalent licence , certificate, permit or other authorisation required by or under this Act; and the Minister may extend the period of validity of any licence , certificate, permit or other authorisation so issued, or any class thereof, for such period as he may deem necessary to enable the equivalent authorisation under this Act to be obtained. Schedule (Section 49) Offences to which section 49 applies 1. Offences under subsection (3) of section 229 of the Roads and Road Trafffic Act. [ Cap. 464 ] 2. Offences under the following provisions of the Penal Code: Sections 81, 82, 133, 135, 136, 171, 222, 223, 226, 232, 247, 248, 272, 274, 275, 276, 286, 301, 302, paragraphs (c) to (g) of sections 305, sections 328, 329 and 336. [Cap. 87] History of this document 31 December 1996 this version Consolidation 01 October 1970 Commenced 01 January 1970 Commenced Related documents Subsidiary legislation Title Firearms (Amendment) Regulations, 1997 Statutory Instrument 37 of 1997 Firearms (Amendment) Regulations, 1994 Statutory Instrument 27 of 1994 Firearms (Amendment) Regulations 1984 Statutory Instrument 43 of 1984 Firearms (Amendment of First Schedule) Regulations, 1984 Statutory Instrument 5 of 1984 [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "acquire",
+      "definition": "hire, accept as a gift or borrow, and \"acquisition\" shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air gun",
+      "definition": "any weapon, whether of smooth or rifled bore, from which a missile can be projected by means of compressed air or other gas",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved club",
+      "definition": "a club approved by the Minister in terms of any regulations for the time being in force relating to shooting clubs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved safari company",
+      "definition": "a safari company approved by the Minister in terms of regulations made under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carrier",
+      "definition": "a carrier's agent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "central firearms store",
+      "definition": "a building designated as such by the Minister by statutory instrument",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of competency",
+      "definition": "a certificate in the prescribed form signed by a prescribed officer, that the person named therein is competent to use the type of firearm therein described",
+      "source_provision": "s2"
+    },
+    {
+      "term": "club",
+      "definition": "a rifle club, small bore rifle club, pistol club, shotgun club or clay pigeon club, or a combination of two or more of the foregoing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Division",
+      "definition": "an area designated as a Division by the Inspector-General \" Divisional Commander \" means a superior police officer appointed by the Inspector-General to be in charge of a Division or, if no such officer has been appointed in relation to any Division , the Inspector-General",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firearm certificate",
+      "definition": "a certificate granted under the provisions of section twelve",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Firearms Code",
+      "definition": "the code issued in terms of section forty-one",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firearms dealer",
+      "definition": "a person who, by way of trade or business, buys, sells, transfers, repairs, tests or proves firearms or ammunition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firearms dealer's licence",
+      "definition": "a licence issued under section twenty-seven",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firearm licence",
+      "definition": "a licence issued under section thirteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Inspector-General",
+      "definition": "the Inspector-General of Police",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence in force at the time in question, and references to a certificate, permit or other authorisation shall be similarly construed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing authority",
+      "definition": "an authority specified in or under section five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer in charge of police",
+      "definition": "the officer, not below the rank of Sub-Inspector, appointed by the Inspector-General to be in charge of any police station and, save for the purposes of section twelve, includes, when the officer in charge of the police station is absent from the police station or unable, from illness or other cause, to perform his duties, the police officer present at the police station who is next in rank to such officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private warehouse",
+      "definition": "a warehouse for firearms and ammunition kept by the holder of a firearm dealer's licence in respect thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police station",
+      "definition": "any place appointed by the Inspector-General to be a police station",
+      "source_provision": "s2"
+    },
+    {
+      "term": "port",
+      "definition": "assigned to it in section two of the Customs and Excise Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the person appointed under the provisions of subsection (2) of section four to have charge of the Registry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registry",
+      "definition": "the Central Firearms Registry established under the provisions of subsection (1) of section four",
+      "source_provision": "s2"
+    },
+    {
+      "term": "safari company",
+      "definition": "an association of persons whether corporate or unincorporate whose business is or includes the arrangement and conduct of hunting safaris",
+      "source_provision": "s2"
+    },
+    {
+      "term": "slaughtering instrument",
+      "definition": "a firearm which is specially designed or adapted for the instantaneous slaughter of animals or the instantaneous stunning of animals preparatory to their slaughter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tourist",
+      "definition": "a person, not ordinarily resident in Zambia, who is visiting Zambia for a period not exceeding six months solely for holiday purposes or for the purpose of taking part in a shooting competition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transfer",
+      "definition": "let on hire, give, lend and part with possession, and \"transferee\" and \"transferor\" shall be construed accordingly. [As amended by Act No. 29 of 1985 ]",
+      "source_provision": "s2"
+    }
+  ]
+}

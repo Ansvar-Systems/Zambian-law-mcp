@@ -1,0 +1,60 @@
+{
+  "id": "zm-act-1970-41",
+  "type": "statute",
+  "title": "Higher Authority for Power (Special Provisions) Act, 1970",
+  "title_en": "Higher Authority for Power (Special Provisions) Act, 1970",
+  "short_name": "Higher Authority for Power ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1970/41/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Higher Authority for Power (Special Provisions) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" the amending Order \" means the Southern Rhodesia (Higher Authority for Power) Order, 1970, an Order in Council of the United Kingdom of Great Britain and Northern Ireland, made on the 12th June, 1970; \" the Higher Authority \" means the Higher Authority for Power constituted by the principal Order ; \" the principal Order \" means the Federation of Rhodesia and Nyasaland (Dissolution) Order in Council, 1963. [App. 1]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Constitution of Higher Authority",
+      "content": "(1) For so long as this Act is in force and notwithstanding anything to the contrary contained in the principal Order , the Higher Authority shall consist of four members of whom two shall be Ministers of the Government of Zambia appointed by the Government of Zambia and two shall be persons appointed under the amending Order . (2) The persons appointed under the amending Order shall hold office upon such terms and for such period as may be provided by or under the amending Order ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Certificate under hand of Minister",
+      "content": "A certificate under the hand of the Minister certifying that any person named therein is, or was on any specified date, a member of the Higher Authority shall be received in all proceedings as conclusive proof of the matters certified therein."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Act to cease to have effect",
+      "content": "(1) The provisions of this Act shall cease to have effect upon such date as the Minister may, by statutory instrument, notify. (2) The provisions of section fourteen of the Interpretation and General Provisions Act shall apply when this Act ceases to have effect as they apply when a written law repeals another written law. [Cap. 2] History of this document 31 December 1996 this version Consolidation 01 October 1970 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the amending Order",
+      "definition": "the Southern Rhodesia (Higher Authority for Power) Order, 1970, an Order in Council of the United Kingdom of Great Britain and Northern Ireland, made on the 12th June, 1970",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the Higher Authority",
+      "definition": "the Higher Authority for Power constituted by the principal Order",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the principal Order",
+      "definition": "the Federation of Rhodesia and Nyasaland (Dissolution) Order in Council, 1963. [App. 1]",
+      "source_provision": "s2"
+    }
+  ]
+}

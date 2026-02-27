@@ -1,0 +1,84 @@
+{
+  "id": "zm-act-1952-39",
+  "type": "statute",
+  "title": "International Bank Loan (Rhodesia Railways) Act, 1952",
+  "title_en": "International Bank Loan (Rhodesia Railways) Act, 1952",
+  "short_name": "International Bank Loan (Rh...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1952/39/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the International Bank Loan ( Rhodesia Railways ) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" International Bank \" means the International Bank for Reconstruction and Development; \" Rhodesia Railways \" means the Rhodesia Railways established and incorporated under the Rhodesia Railways Act, 1949, of Southern Rhodesia; \" the Treasury \" means the Commissioners for the time being of Her Britannic Majesty's Treasury in the United Kingdom. [As amended by S.I. No. 154 of 1965]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Authority to raise loan",
+      "content": "The Governor of the former Protectorate of Northern Rhodesia is hereby authorised to raise by means of a loan from the International Bank a sum not exceeding five million pounds sterling or the equivalent thereof in other currencies or partly in sterling and partly in other currencies."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Loan charged upon revenues",
+      "content": "The principal moneys raised under this Act and any interest and other charges thereon are hereby charged upon and shall be payable out of the general revenues and assets of the Republic. [As amended by S.I. No. 154 of 1965]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Application of loan",
+      "content": "The money to be borrowed under the authority of this Act shall be appropriated and applied to the purposes specified in the Schedule."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Repayment of loan",
+      "content": "Notwithstanding the provisions of the General Loan and Stock Act, so long as any portion of the loan raised under this Act remains outstanding, the President shall appropriate half-yearly out of the general revenues and assets of the Republic the amount required to meet the payments of principal and interest and other charges in accordance with the terms of the loan and shall remit such sums to the International Bank in accordance with such terms. [As amended by S.I. No. 154 of 1965] [ Cap. 350 ]"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Issue of stock or bond",
+      "content": "The President may issue or cause to be issued any stock or bond as may be required by the International Bank in accordance with the terms of the loan raised under this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Repayment of sums paid underguarantee charged upon revenues",
+      "content": "If the Treasury guarantees the loan raised under this Act, any sum issued out of the Consolidated Fund of the United Kingdom on account of such guarantee shall be repaid to the Treasury out of the general revenues and assets of the Republic with interest thereon at such rate as the Treasury in consultation with the President may fix. [As amended by No. 9 of 1953 and S.I. No. 154 of 1965]"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Application of General Loan and Stock Act",
+      "content": "The provisions of the General Loan and Stock Act shall, where applicable, apply to the loan raised under this Act. [ Cap. 350 ] Schedule (Section 5) Application of loan Loan to Rhodesia Railways for such purposes of capital expenditure as may be approved from time to time by the International Bank and one of Her Britannic Majesty's Secretaries of State with the concurrence of the Treasury. History of this document 31 December 1996 this version Consolidation 30 December 1952 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "International Bank",
+      "definition": "the International Bank for Reconstruction and Development",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Rhodesia Railways",
+      "definition": "the Rhodesia Railways established and incorporated under the Rhodesia Railways Act, 1949, of Southern Rhodesia",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the Treasury",
+      "definition": "the Commissioners for the time being of Her Britannic Majesty's Treasury in the United Kingdom. [As amended by S.I. No. 154 of 1965]",
+      "source_provision": "s2"
+    }
+  ]
+}

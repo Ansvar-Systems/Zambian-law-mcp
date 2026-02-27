@@ -1,0 +1,61 @@
+{
+  "id": "zm-act-1915-23",
+  "type": "statute",
+  "title": "Plumage Birds Protection Act, 1915",
+  "title_en": "Plumage Birds Protection Act, 1915",
+  "short_name": "Plumage Birds Protection Ac...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1915/23/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Plumage Birds Protection Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" Director \" means the Director of the Department of Wildlife, Fisheries and National Parks; \" plumage \" includes the skin or body of a bird with the plumage on it. [As amended by G.N. No. 277 of 1964]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Prohibition on export or sale of plumage birds",
+      "content": "(1) No person shall export or cause or procure to be exported or have in his possession for the purpose of export from Zambia any plumage of any wild birds. (2) No person shall sell or offer or expose for sale in Zambia or have in his possession in Zambia for the purpose of sale any plumage of any wild birds. (3) The prohibitions contained in subsections (1) and (2) shall not apply to— (a) the plumage of wild birds for the time being excluded from the operation of this Act by statutory notice; (b) the plumage of wild birds in respect of which a permit has been granted under this Act; (c) the plumage of wild birds ordinarily used as articles of diet. [As amended by No. 47 of 1970]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to exclude birds from operation of this Act",
+      "content": "The Director may, from time to time by statutory notice, exclude any wild bird from the operation of this Act for such period or periods as he may prescribe or until further notice. [As amended by G.N. No. 277 of 1964]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Permits",
+      "content": "Where the Director is satisfied that the plumage of any wild birds is to be sold or exported for scientific or educational purposes, he may grant a permit in writing authorising such sale or export. [As amended by G.N. No. 277 of 1964]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Penalty",
+      "content": "Any person contravening the provisions of section three shall be guilty of an offence and shall be liable, on conviction, to a fine not exceeding three hundred penalty units or, in default of payment, to imprisonment with or without hard labour for a period not exceeding three months. [As amended by Act No. 13 of 1994 ] History of this document 31 December 1996 this version Consolidation 27 November 1915 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Director",
+      "definition": "the Director of the Department of Wildlife, Fisheries and National Parks",
+      "source_provision": "s2"
+    },
+    {
+      "term": "plumage",
+      "definition": "the skin or body of a bird with the plumage on it. [As amended by G.N. No. 277 of 1964]",
+      "source_provision": "s2"
+    }
+  ]
+}

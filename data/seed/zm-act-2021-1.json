@@ -1,0 +1,643 @@
+{
+  "id": "zm-act-2021-1",
+  "type": "statute",
+  "title": "Legal Aid Act, 2021",
+  "title_en": "Legal Aid Act, 2021",
+  "short_name": "Legal Aid Act, 2021",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/2021/1/eng@2021-03-24",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "(1) This Act may be cited as the Legal Aid Act, 2021, and shall come into operation on the date appointed by the Minister by statutory instrument."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" alternative dispute resolution \" includes mechanisms such as mediation, conciliation, negotiation and arbitration aimed at preventing, settling or resolving a dispute; \" associate \" has the meaning assigned to the word in the Anti-Corruption Act, 2012; [Act No. 3 of 2012 ] \" Authority \" means the Technical Education, Vocational and Entrepreneurship Training Authority established under the Technical Education, Vocational and Entrepreneurship Training Act, 1998; [Act No. 13 of 1998 ] \" Board \" means the Board of the Legal Aid Board constituted under section 8 ; \" Chairperson \" means the person appointed as the Chairperson of the Board under section 8 ; \" civil society organisation \" means a registered non-state legal entity not established or operated for profit; \" court \" has the meaning assigned to the word in the Constitution; [ Cap. 1 ] \" Director \" means the person appointed as Director of the Legal Aid Board under section 10 ; \" eligible person \" means a person to whom legal aid may be granted on the basis of the means test and in the interest of justice; \" Fund \" means the Legal Aid Fund continued under section 40 ; \" judicare \" means the provision of legal aid , free of charge or at a fee, by a practitioner registerd by the Legal Aid Board ; \" judicial officer \" has the meaning assigned to the words in the Judiciary Administration Act, 2016; \" Lands Tribunal \" means the Lands Tribunal established under the Lands Tribunal Act, 2010; [Act No. 23 of 2016 ] \" legal advice \" means the provision of advice on a question of the law and includes advice and assistance in the preparation of legal documents for purposes that are not related to any proceedings for which legal aid may be given; [Act No. 39 of 2010 ] \" legal aid \" has the meaning assigned to the word under section 6 ; \" legal aid Board \" means the Legal Aid Board continued under section 4 ; \" legal aid service provider \" means a person who provides legal aid and includes a civil society organisation or a higher education institution law clinic registered under this Act; \" legal assistance \" means the assistance provided to a person in executing some legal act to protect the person’s rights or in taking some preparatory steps towards doing so in the context of formal court proceedings, including steps that are preliminary or incidental to formal court proceedings, or steps aimed at arriving at, or giving effect to a compromise to avoid or bring to an end formal proceedings, including court -annexed mediation; \" legal assistant \" means a person who— (a) holds a degree in law or equivalent from an accredited university; and (b) is registered by the Board under section 25 ; \" legal education \" means the provision of law-related education through the general dissemination of information about the law to the population or specific groups of persons; \" legal information \" means information on legal rights, responsibilities, procedures, available remedies and how to exercise them; \" legal representation \" refers to representation before a court , tribunal or administrative body based on a privileged relationship between a practitioner and a client; \" legal services \" include legal education , legal information , legal advice , legal assistance , legal representation and assistance with alternative dispute resolution ; \" legally aided person \" means a person who is granted legal aid under this Act; \" legally disqualified \" means having no legal capacity as provided in section 4 of the Mental Health Act, 2019; [Act No. 6 of 2019 ] \" local court \" means a court established under the Local Courts Act; [ Cap. 29 ] \" means test \" means an assessment to determine whether an applicant for legal aid has insufficient means to enable the applicant pay for legal services ; \" paralegal \" means a person registered as a paralegal under section 19 ; \" practitioner \" means a person admitted to practice as an advocate under the Legal Practitioners Act and in private practice; [ Cap. 30 ] \" public service \" has the meaning assigned to the words in the Constitution; [ Cap. 1 ] \" Registrar \" means the Registrar of the High Court; \" registered higher education institution law clinic \" means a legal clinic affiliated to a school of law of a higher education institution providing legal studies and registered by the Legal Aid Board to provide legal aid ; \" relative \" has the meaning assigned to the word under the Anti-Corruption Act, 2012; [Act No. 3 of 2012 ] \" repealed act \" means the Legal Aid Act, 1967; [Act No. 30 of 1967 ] \" specified offence \" means an offence of a class specified by the Minister, by statutory order, under section 43 ; \" State institution \" has the meaning assigned to the words in the Constitution; [ Cap. 1 ] \" subordinate court \" means a court established under the Subordinate Courts Act; and [ Cap. 28 ] \" Zambia Qualifications Authority \" means the Zambia Qualifications Authority established under the Zambia Qualifications Authority Act, 2011. [Act No. 13 of 2011 ]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "This Act does not apply to paralegals employed by a State institution or in the public service . Part II – Legal Aid Board"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Continuation of Legal Aid Board",
+      "content": "(1) The Legal Aid Board established under the repealed Act shall continue to exist as if established under this Act. (2) The Legal Aid Board is a body corporate with perpetual succession and a common seal, capable of suing and of being sued in its corporate name, and with powers, subject to the provisions of this Act, to do an act or thing that a body corporate may by law do or perform, as if established under this Act. (3) The First Schedule applies to the Legal Aid Board ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Functions of Legal Aid Board",
+      "content": "The functions of the Legal Aid Board are to— (a) administer a comprehensive legal aid system in the Republic that is accessible, effective, impartial and sustainable; (b) provide legal aid in civil and criminal matters; (c) publish and disseminate information relating to legal aid ; (d) coordinate the provision of legal aid by State and non state legal aid providers; (e) regulate, oversee and monitor the provision of legal aid based on a quality assurance framework and standards; (f) register a civil society organisation and higher education institution law clinic that intends to provide legal aid ; (g) undertake regular assessment of legal aid provided by a registered higher education institution law clinic ; (h) register practitioners, legal assistants and paralegals; (i) manage and disburse funds from the Fund under this Act; (j) mobilise financial resources; (k) undertake research on aspects of legal aid ; (l) facilitate the provision of legal aid to persons granted legal aid under this Act; and (n) issue guidelines on the application of the means test and the interest of justice. [Please note: numbering as in original.]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Scope of legal aid",
+      "content": "(1) Legal aid consists of— (a) legal education ; (b) legal information ; (c) legal advice ; (d) legal assistance ; or (e) legal representation . (2) Unless otherwise provided under this Act— (a) the provision of legal services by way of legal aid shall not affect the relationship between or the rights of a practitioner and client or any privilege arising out of that relationship; and (b) the rights conferred by this Act on a legally aided person shall not affect the rights or liabilities of any other party to any matter or proceedings."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Autonomy of Legal Aid Board",
+      "content": "The Legal Aid Board shall, in the performance of its functions, be independent of the direction or control of any person or authority except as otherwise provided for under this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Constitution of Board",
+      "content": "(1) There is constituted a Board of the Legal Aid Board . (2) The Board consists of the following part-time members appointed by the Minister: (a) a person qualified to be a judge of the High Court, who shall be the Chairperson ; (b) a representative of the Ministry responsible for— (i) justice; (ii) home affairs; (iii) finance; (iv) community development and social services; (v) labour; and (vi) gender; (c) a representative of the Law Association of Zambia; (d) a representative of a civil society organisation providing legal aid ; (e) a representative of a school of law of a higher education institution providing legal aid ; and (f) Director , as ex officio . (3) The members under subsection (2) shall be nominated by their respective ministries, organisations or institutions for appointment by the Minister. (4) The Vice- Chairperson shall be elected by the members of the Board from among themselves. (5) A person shall not be appointed as a member of the Board if that person— (a) is an undischarged bankrupt; (b) is convicted of an offence involving fraud or dishonesty; (c) is legally disqualified from performing the functions of a member; or (d) is convicted of an offence under any other written law and sentenced to a term of imprisonment of not less than six months, without the option of a fine."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Functions of Board",
+      "content": "(1) The Board is the governing body of the Legal Aid Board and shall carry out the functions under this Act. (2) Despite the generality of subsection (1), the functions of the Board are to— (a) promote effective corporate governance of the Legal Aid Board ; (b) approve the annual budget estimates and financial statements of the Legal Aid Board ; (c) advise the Minister on policies relating to the provision of legal aid and implement Government policies relating to the same; (d) approve the annual work plan and activity reports of the Legal Aid Board ; and (e) formulate the policies, programmes and strategies of the Legal Aid Board . (2) Despite subsection (1), the Board may, by direction in writing and subject to conditions that the Board considers necessary, delegate to any member, committee or the Director any of its functions under this Act."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Director and other staff",
+      "content": "(1) The Board shall appoint a Director who— (a) is qualified to be appointed as judge of the High Court; (b) is the chief executive officer of the Legal Aid Board ; (c) is responsible for the day-to-day administration of the Legal Aid Board ; and (d) shall perform corporate secretarial duties for the Board . (2) The Director shall attend the meetings of the Board and any committee of the Board and may address those meetings, but shall have no vote. (3) The Board shall, appoint a Chief Legal Aid Counsel, Legal Aid Counsel, Legal Aid Assistants and other staff of the Legal Aid Board that the Legal Aid Board considers necessary for the performance of the Board ’s functions under the Act. (4) The Chief Legal Aid Counsel shall, under the direction of the Director — (a) perform duties determined by the Board ; and (b) discharge the functions of the Director if the Director is absent or is for any other reason unable to discharge the functions of the Director ’s office. (5) The Emoluments Commission shall, on the recommendation of the Board , determine the emoluments of the Director , Chief Legal Aid Counsel, Legal Aid Counsel, Legal Aid Assistants and other staff of the Legal Aid Board . (6) The Board shall determine the conditions of service, other than the emoluments, of the Director , Chief Legal Aid Counsel, Legal Aid Counsel, Legal Aid Assistants and other staff of the Legal Aid Board ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Right of audience of Legal Aid Assistant",
+      "content": "(1) A Legal Aid Assistant is, in any matter in which legal aid is provided, entitled to appear for and represent a legally aided person in any— (a) criminal proceedings before a subordinate court ; (b) civil proceedings before a subordinate court and the Lands Tribunal ; (c) proceedings in chambers in the High Court before the Registrar , the Deputy Registrar or a Judge; and (d) proceedings for Alternative Dispute Resolution, except arbitration. (2) The right of audience conferred on Legal Aid Assistants by this section is in addition to, and not a derogation of, any other written law relating to the right of audience of a person who is not a practitioner . Part III – Practitioners, legal assistants, paralegals and legal aid service providers A. Practitioners under judicare"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Application for registration as practitioner under judicare",
+      "content": "A practitioner who intends to provide judicare under this Act shall apply to the Director for registration in a prescribed manner and form."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Remuneration of practitioner under judicare",
+      "content": "The Board shall determine the remuneration payable to a registered practitioner for the purpose of providing judicare under this Act."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Payment of costs to private practitioner for judicare",
+      "content": "(1) Subject to section 13 , the costs of legal services provided by a registered practitioner under this Act shall include sums on account of— (a) the remuneration payable to the registered practitioner assigned to provide legal aid ; and (b) expenses incurred by that registered practitioner while representing a legally aided person and that are properly attributable to time spent or work done by that practitioner in representing that person. (2) The costs to be paid under subsection (1), shall not include any sum relating to allowances paid to a witness attending to give evidence in the proceedings for the purposes of which legal aid is granted to any person in any case where those allowances are payable under any other written law. B. Legal assistants"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Application for registration as legal assistant",
+      "content": "A legal assistant who intends to provide legal aid under this Act shall apply to the Director for a certificate of registration in a prescribed manner and form."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Qualifications of legal assistant",
+      "content": "A legal assistant shall not be issued with a certificate of registration if that legal assistant does not hold a bachelor of laws degree or a relevant qualification determined by the Board and accredited and recognised by the Zambia Qualifications Authority ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Scope of services of legal assistant",
+      "content": "(1) A registered legal assistant shall provide legal aid , except for legal representation and arbitration. (2) A registered legal assistant shall be supervised by a practitioner based on guidelines issued by the Board . C. Paralegals"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Application for registration as paralegal",
+      "content": "A paralegal who intends to provide legal aid shall apply to the Director for a certificate of registration in a prescribed manner and form."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Qualifications of paralegal",
+      "content": "A paralegal shall not be registered by the Director if that paralegal does not hold qualifications determined by the Board and accredited and recognised by the Zambia Qualifications Authority , or certified by the Authority ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Scope of practice of paralegals",
+      "content": "(1) A registered paralegal shall provide legal services , that the Board may determine. (2) A registered paralegal shall be supervised by a practitioner , a legal assistant or any other person that the Board may determine. D. Legal aid service providers"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Application for registration as legal aid service provider",
+      "content": "A civil society organisation or higher education institution that intends to provide legal aid shall apply to the Director for a certificate of registration in the prescribed manner and form."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Qualifications of legal staff of legal aid service provider",
+      "content": "A civil society organisation or higher education institution shall not be registered as a legal service provider unless the legal aid assistants or paralegals of that civil society organisation or higher education institution hold qualifications determined by the Board and accredited and recognised by the Zambia Qualifications Authority ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Scope of practice",
+      "content": "Sections 17 and 20 shall apply to the scope of practice of a legal assistant or paralegal of a legal aid service provider. Part IV – Registration of practitioners, legal assistants, paralegals and legal aid service providers"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Prohibition of providing legal aid without registration",
+      "content": "(1) A person, other than a practitioner , shall not offer a legal aid service, be employed or practice as a legal assistant , paralegal or legal aid serivice provider unless that person is registered to do so under this Act. (2) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand penalty units or to imprisonment for a term not exceeding five years, or to both."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Grant or rejection of application",
+      "content": "(1) The Director may, within fourteen days of receipt of an application under sections 15 , 18 , 21 and 22 grant or reject the application. (2) The Director shall, on being satisfied that the applicant meets the prescribed requirements, grant the application under sections 15 , 18 , 21 and 22 and shall, within fourteen days of that grant register the applicant, in a prescribed manner and form. (3) The Director shall issue an applicant with a certificate of registration in the prescribed form. (4) The Director shall, where it rejects an application under sections (1), inform the applicant and give reasons for the decision."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Change of particulars",
+      "content": "A registered practitioner , legal assistant or paralegal under this Act shall notify the Director of any change in the particulars relating to the registration within seven days of that change."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Suspension and cancellation of certificate of registration",
+      "content": "(1) Subject to this Act, the Director may suspend or cancel the certificate of registration of a— (a) practitioner where that practitioner — (i) obtained the certificate of registration through fraud, misrepresentation or concealment of a material fact; (ii) is found guilty of professional misconduct under the Legal Practitioner’s Act; [ Cap. 30 ] (iii) is legally disqualified ; or (iv) is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a period exceeding six months without the option of a fine; (b) legal assistant or paralegal , where that legal assistant or paralegal — (i) obtained the certificate of registration through fraud, misrepresentation or concealment of a material fact; (ii) is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a period exceeding six months without the option of a fine; or (iii) is legally disqualified ; or (c) legal aid service provider , where that legal aid service provider — (i) obtained the certificate of registration through fraud, misrepresentation or concealment of a material fact; (ii) fails to comply with a term or condition of the certificate of registration; (iii) enters into receivership or liquidation or takes up an action for voluntary winding up or dissolution; or (iv) is the subject of an order that is made by a court for compulsory winding up or dissolution. (2) The Director shall, before suspending or cancelling the certificate of registration under subsection (1), give the practitioner , legal assistant , paralegal or legal aid service provider , an opportunity to be heard. (3) The Director may, before cancelling the certificate of registration under subsection (1), suspend the certificate of registration of a practitioner , legal assistant , paralegal or legal aid service provider , for a specified period and on terms and conditions that the Director may determine. (4) Where the Director cancels the certificate of registration under this section, the name of the practitioner , legal assistant , paralegal or legal aid service provider shall be removed from the register and shall not be restored, except on conditions that may be prescribed. (5) A person whose certificate of registration is cancelled shall, within seven days of being notified of the cancellation, surrender the certificate of registration to the Director ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Re-registration",
+      "content": "Where a certificate of registration is cancelled under section 27 , the holder of the certificate of registration may, subject to the terms and conditions that the Director may determine, apply for re-registration."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Display of certificate of registration",
+      "content": "A holder of a certificate of registration shall display the certificate of registration in a conspicuous place at the place of practice."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Renewal of certificate of registration",
+      "content": "(1) A holder of a certificate of registration shall renew that certificate annually in the prescribed manner and form on payment of a prescribed fee. (2) A certificate of registration that is not renewed in accordance with subsection (1) is void."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Prohibition of transfer of certificate of registration",
+      "content": "A certificate of registration issued under this Act shall not be transferred to a third party."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Duplicate certificate of registration",
+      "content": "(1) A person whose certificate of registration is destroyed or lost may apply to the Director for a duplicate certificate in the prescribed manner and form on payment of a prescribed fee. (2) The Director may, within fourteen days of receipt of an application under subsection (1), issue a duplicate certificate of registration to the applicant."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Offences relating to registration",
+      "content": "(1) A person shall not— (a) make or cause to be made, an unauthorised entry, alteration or erasure on a register, certificate of registration or on a certified copy of a register or certificate of registration; (b) procure or attempt to procure registration under this Act by fraud, misrepresentation or the concealment of a material fact; (c) impersonate a registered practitioner or use the title or designation of a registered legal assistant , paralegal or legal aid service provider while not registered as a legal assistant , paralegal or legal aid service provider under this Act; or (d) forge a certificate of registration or other document issued under this Act. (2) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand penalty units or to imprisonment for a term not exceeding five years, or to both. Part V – Provision of legal aid granted by Legal Aid Board"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Application for legal aid",
+      "content": "(1) Subject to sections 43 , 44 and 45 a person who intends to access legal aid shall apply to the Director in a prescribed manner and form on payment of a prescribed fee. (2) A person who intends to apply for legal aid on behalf of another shall apply to the Director in a prescribed manner and form on payment of a prescribed fee."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Grant of legal aid",
+      "content": "(1) The Director shall, within thirty days of receipt of an application under section 34 , grant or reject the application and inform the applicant of the decision. (2) The Director may grant legal aid to any applicant in criminal or civil matter who in the opinion of the Director — (a) has insufficient means to enable the applicant to pay for legal services ; and (b) having regard to the circumstances of the case or matter, it is in the interest of justice that the applicant should be provided with legal aid in that case or matter. (3) Despite subsection (2), the Director shall not grant legal aid for the purpose of civil proceedings in any court unless the Director is satisfied that an applicant has reasonable grounds for taking, defending or being a party to these proceedings. (4) The Director may at any time exercise discretion to invite any person to apply for legal aid if it appears to the Director that such person may be— (a) eligible for legal aid under this section; and (b) ignorant of that person’s right to apply for legal aid . (5) For the purposes of this section— \"interest of justice\" shall include consideration for equity and fairness, as determined by the Board ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Effect of legal aid certificate",
+      "content": "Subject to this Act, a person in respect of whom a legal aid certificate has been granted shall be entitled to legal aid in the matter to which the legal aid certificate relates and to be provided either by a— (a) Legal Aid Counsel, Legal Aid Assistant or paralegal of the Legal Aid Board ; or (b) practitioner ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Alternative dispute resolution",
+      "content": "Where in any contemplated proceedings, the parties thereto apply for legal aid under this Act and the Director considers that the dispute is of a nature which could properly be the subject of alternative dispute resolution , the Director may, as a condition of the granting of legal aid , require the parties to submit the dispute to alternative dispute resolution subject to the consent of the parties."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Appeal against refusal of Director to grant legal aid",
+      "content": "(1) The Director shall, where the Director rejects an application for a legal aid certificate— (a) notify the applicant in writing stating the reasons for the decision; and (b) inform the applicant of the applicant’s right to appeal to the Board . (2) Where the Director refuses to grant a legal aid certificate under subsection (1), the applicant may appeal to the Board within thirty days of the Director ’s decision. (3) The Board may, in determining an appeal under subsection (2)— (a) set aside the decision of the Director rejecting the application for legal aid if the Board is satisfied that grounds exist which qualify or entitle the person to be granted legal aid ; or (b) dismiss the appeal. (4) The Board shall, where the Board dismisses an appeal under subsection (3)— (a) record, in writing, the reasons, for the dismissal; and (b) inform the applicant of the reasons for dismissal."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Termination of legal aid",
+      "content": "(1) Subject to subsection (2), the Director may, at any time for any reason which the Director considers to be sufficient, terminate legal aid granted under this Act in any criminal or civil matter. (2) The Director shall not terminate legal aid granted under sections 43 , 44 , 45 , 46 and 47 without leave of the court. (3) The Director shall, where the Director terminates legal aid granted under subsection (1)— (a) record, in writing, the reasons for that termination; and (b) inform the legally aided person of that person’s right to appeal to the Board . (4) Where the Director terminates legal aid granted under this Act, the legally aided person may appeal to the Board within thirty days of termination. (5) The Board may, in determining an appeal under subsection (3)— (a) set aside the decision of the Director terminating legal aid granted if the Board is satisfied that grounds exist which qualify or entitle the person to continue to be granted legal aid ; or (b) dismiss the appeal. (6) Where the Board dismisses an appeal under subsection (5), the Board shall — (a) record, in writing, the reasons, for that dismissal; and (b) inform the legally aided person of the reasons for dismissal. Part VI – Legal Aid Fund"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Continuation of Fund",
+      "content": "(1) The Fund established under the repealed Act shall continue to exist as if established under this Act, for purposes of providing legal services to persons granted legal aid in accordance with this Act. (2) The Fund consists of monies that may— (a) be appropriated by Parliament for the purposes of the Fund ; (b) be paid to the Fund by way of fees, legal aid contributions or costs; and (c) vest in, or accrue to, the Fund . (3) The Board may— (a) accept moneys by way of grants or donations from any source in Zambia, and subject to the approval of the Minister responsible for Finance, from any source outside the Republic; or (b) raise by way of loans or otherwise, the monies that it may require for the performance of the Legal Aid Board ’s functions; and (c) charge and collect fees provided by the Legal Aid Board ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Applications of monies of Fund",
+      "content": "The Board may apply the moneys of the Fund for— (a) purposes of providing legal services to persons granted legal aid in accordance with this Act; (b) the remuneration of practitioners under section 13 ; and (c) other expenses incurred by a practitioner while representing a legally aided person under this Act except for a practitioner providing legal aid under the Legal Practitioners Act. [ Cap. 30 ]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Administration of Fund and accounts",
+      "content": "(1) The Board is responsible for the administration of the Fund . (2) The Minister shall, by statutory instrument, provide for prudent controls of the Fund relating to— (a) fiscal controls and accounting procedures governing the Fund ; (b) reporting procedures for matter relating to the Fund ; and (c) investment of the monies of the Fund . (3) The Board shall cause to be kept proper books of account and other records relating to the accounts of the Fund . (4) The Fund shall be audited annually by the Auditor-General or an auditor appointed by the Auditor-General. (5) The auditor’s fees shall be paid by the Board . Part VII – Legal aid granted by court A. Criminal cases"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Application for legal aid in court",
+      "content": "(1) A person charged with an offence before a court may apply to the court for legal aid and the court may grant a legal aid certificate under this Act, if the court considers that— (a) the accused has insufficient means to enable the accused to pay for legal services ; (b) having regard to the circumstances of the case, it is desirable in the interests of justice that the accused be provided with legal aid . (2) A person who is convicted of, or sentenced for, an offence by a court and intends to appeal against that conviction or sentence or against any judgement or order affecting that person which was made in any criminal case may apply for legal aid to the court that convicted or sentenced that person. (3) A person who becomes a respondent in an appeal in a criminal cause or matter before any court may apply for legal aid to that court . (4) The court shall, where a court rejects an application for the grant of legal aid under subsections (1), (2) or (3)— (a) record, in writing, the reasons for the rejection; and (b) inform the accused or respondent of the accused or respondent’s right to appeal to a superior court . (5) A court may, in determining an appeal under subsection (4)— (a) set aside the decision of a lower court refusing the application for legal aid if the superior court is satisfied that grounds exist which qualify or entitle the accused or respondent to be granted legal aid and may cause the issuance of a legal aid certificate; or (b) dismiss the appeal. (6) The court shall, where a court dismisses an appeal under subsection (5)— (a) record, in writing, the reasons, for that dismissal; and (b) inform the accused or respondent of the accused or respondent’s right to appeal to an appropriate superior court . (7) Where a court dismisses an appeal under subsection (6), the accused or respondent may appeal to the appropriate superior court . (8) A court shall on the grant of legal aid under this section notify the Director . (9) The Director shall on receipt of the notice under subsection (8), issue a legal aid certificate and assign to the person granted legal aid for purposes of the criminal proceedings to which the certificate relates— (a) a Legal Aid Counsel or Legal Aid Assistant; or (b) a registered practitioner ;"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Legal aid granted at initiative of court",
+      "content": "(1) Despite section 43 , a court shall grant a legal aid certificate in the prescribed manner and form where— (a) a person is— (i) charged with a specified offence ; or (ii) charged with an offence other than a specified offence and the court before which the person appears considers that, having regard to the circumstances of the case, it is desirable in the interests of justice that the person be granted legal aid ; (b) the case is not the subject of a preliminary inquiry; and (c) the court before which the person appears considers that the person has insufficient means to enable that person to pay for legal services . (2) A court shall grant a legal aid certificate in a prescribed form if during preliminary inquiry held under the Criminal Procedure Code the court considers that— (a) having regard to the circumstances of the case, it is necessary in the interests of justice that the accused be represented by a practitioner at that inquiry; and (b) the accused has insufficient means to enable the accused to pay for legal services . [ Cap. 88 ] (3) Whenever a court commits a person for trial before the High Court and the court considers that the accused has insufficient means to enable the accused to engage a practitioner to represent the accused, the committing court shall cause the issuance of a legal aid certificate in the prescribed form. (4) Despite section 43 , where a juvenile is brought before a court and is unrepresented, the court shall grant a legal aid certificate in a prescribed manner and form. (5) A court shall on the grant of legal aid under this section notify the Director . (6) The Director shall, on receipt of a notice under subsection (5) assign to the person granted legal aid for purposes of the criminal proceedings to which the certificate relates— (a) a Legal Aid Counsel or Legal Aid Assistant; or (b) a registered practitioner . (7) The Minister shall, by statutory instrument, prescribe for the purposes of this Part, certain class of offences as specified offences. B. Civil cases"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Legal aid in civil cases where State is party",
+      "content": "(1) A court may at any time grant legal aid to a person who is a party in any civil proceedings, whether at first instance or on appeal, in which the State is also a party if the court considers that— (a) the person satisfies the conditions under which legal aid may be granted to that person under this Act; and (b) it is in the interests of justice that the person be represented by a practitioner , other than the Director . (2) The powers of a court under subsection (1) shall be exercisable whether or not legal aid is applied for or granted under any other provision of this Act. (3) The court may, in granting legal aid under this section, specify one or more practitioners and the Director shall allocate the person requiring legal representation concerned to the practitioner so specified. (4) Where a legal aid certificate is granted under this section, the court may order the legally aided person to contribute to the cost of the legal aid afforded to that person to an extent that the court considers just and reasonable having regard to that person’s means and the maximum contribution to legal aid payable."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Cases involving point of law of public importance",
+      "content": "Where, in any proceedings before a court , any party to the case is unrepresented and the court considers that a point of law of public importance is likely to arise in the case, the court may grant legal aid to that party for the purposes of the proceedings in the prescribed form."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Grant of legal aid in civil matter",
+      "content": "(1) A court shall, on the grant of legal aid in a civil matter under this Act, notify the Director . (2) The Director shall, on receipt of the notice under subsection (1), assign to the person granted legal aid for the purposes of the civil proceedings— (a) a Legal Aid Counsel or Legal Aid Assistant; or (b) a registered practitioner . (3) A Legal Aid Counsel, Legal Aid Assistant or practitioner shall, on receipt of a notice of the assignment from the Director , undertake legal representation of the person to whom a legal aid certificate is granted."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VII",
+      "section": "48",
+      "title": "Person may refuse or dispense with legal aid",
+      "content": "(1) Despite anything to the contrary contained in this Act, a person may refuse legal aid granted under this Part. (2) Where a person refuses legal aid under subsection (1), the court shall— (a) cancel the grant of legal aid to that person; (b) permit that person to conduct the case in person or by a practitioner of that person’s choice without legal representation which is arranged by the Director ; and (c) record reasons put forward by that person for the refusal. (3) A court shall, where in any proceedings commenced an accused person refuses legal aid or the court cancels the grant of legal aid to the accused person, continue with and conclude those proceedings without legal aid . (4) A cancellation of grant of legal aid under tis section shall not affect the right of the Director to require a person to contribute to the cost of any legal aid that may have been provided before the cancellation."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VII",
+      "section": "49",
+      "title": "Categories of civil cases for which legal aid may not be granted",
+      "content": "The Minister may, in consultation with the Board and the Chief Justice, specify the categories of civil cases to which legal aid may not be granted under this Act. Part VIII – Contribution and costs of legal aid"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Consultation fees for legal aid",
+      "content": "(1) The Director may require any person seeking legal aid from the Legal Aid Board to pay a consultation fee as prescribed. (2) The Director may waive the whole or part of a consultation fee payable under subsection (1), where the Director is satisfied that the person is unable to pay that fee. (3) Despite subsection (1), the Board may specify the types of services under legal aid that do not require payment of consultation fees."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Legal aid contribution",
+      "content": "(1) The Director may, in granting legal aid to any person under this Act, require that person to contribute to the cost of that legal aid to an extent which seems to the Director to be just and reasonable having regard to that person’s means or otherwise as prescribed. (2) The Director may waive the whole or part of a contribution payable under subsection (1) where the Director is satisfied that the person is unable to pay that contribution. (3) The Board may determine different methods of calculating a contribution to the cost of legal aid for criminal and civil cases. (4) Any contribution that remains unpaid by a person required to pay a contribution under subsection (1) shall be recoverable as a civil debt as if the sum is adjudged to be payable to the Board . (5) Where damages, costs or any property is recovered on behalf of a legally aided person , the costs incurred by the Director on behalf of the legally aided person less any contribution made by that person under subsection (1) shall be deducted by the Legal Aid Board from the monies relating to damages, costs or the property so recovered. (6) Where the court or the Director grants legal aid under this Act, and the Director makes a contribution order under subsection (1), the Director may direct that the grant of legal aid shall not take effect before the contribution is made. (7) Where a legally aided person fails to pay any contribution under this section when it is due, the Director may, cancel the grant of legal aid where the Director is satisfied that the person— (a) was able to pay the legal aid contribution when it was due; and (b) has failed or refused to do so. (8) The Director shall not cancel a grant of legal aid under subsection (7), without according a legally aided person an opportunity to be heard on the matter."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Ascertainment of means",
+      "content": "(1) The Director , in ascertaining the means of any person for the purpose of this Act, shall take into account— (a) that person’s income; and (b) the personal and real property of that person, except that person’s dwelling house, the household, furniture the tools or implements of that person’s trade. (2) The subject-matter of any dispute in relation to which legal aid is granted shall not be taken into account in assessing a person’s means. (3) The Director shall, in assessing a person’s means, determine a person’s commitments for purposes of deductions of resources which would otherwise be that person’s means."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Costs awarded to legally aided person",
+      "content": "(1) Where a court in respect of any proceedings before the court awards costs to a legally aided person , the costs should be paid to the Legal Aid Board and only the Director shall be capable of giving good discharge of the costs so payable. (2) The Director may, for the purpose of receiving any costs payable to the Director under subsection (1), take steps and pursue remedies that could have been taken or pursued by a legally aided person to whom costs were awarded and the costs of taking those steps or pursuing those remedies may be recovered and received by the Legal Aid Board . (3) Costs paid to the Legal Aid Board in pursuance of this section may be paid into and shall form part of the Fund , except that a legally aided person may be paid out of the costs paid to the Legal Aid Board the amount, or a portion of the amount that the Director considers just and equitable, of any contribution made by the legally aided person under section 51 . (4) Subject to this section, the costs awarded by a court to a legally aided person shall be the costs which would have been payable if the services performed under legal aid had been performed by a practitioner in private practice on the instruction of a client without benefit of legal aid , and taxed accordingly."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "Deductions from awards to legally aided person",
+      "content": "(1) The Director shall deduct an amount as determined by the Board from— (a) damages or compensation awarded to a legally aided person by court ; and (b) an amount payable to a legally aided person under settlement. (2) Deductions paid to the Legal Aid Board under this section may be paid into and shall form part of the Fund ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "Costs",
+      "content": "(1) Where a court awards costs against a legally aided person , those costs shall not exceed the contribution which that person was required to make or which the court considers that person could reasonably have been required to make under section 51 , whichever is the greater. (2) Costs awarded by a court against a legally aided person shall be paid out of moneys from the Fund ."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VIII",
+      "section": "56",
+      "title": "Register",
+      "content": "(1) The Director shall establish and maintain a register in the prescribed manner and form of— (a) persons granted legal aid under this Act; (b) registered practitioners, legal assistants, paralegals and legal aid service providers under this Act; and (c) any other matter as may be prescribed. (2) The registers shall be kept in the custody of the Director at the offices of the Legal Aid Board and shall be open for inspection to members of the public during normal office hours. (3) The Director shall, on an application by any person, issue to the person a certified extract from a register or a copy of a certificate of registration on payment of a fee as prescribed. Part IX – General provisions"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IX",
+      "section": "57",
+      "title": "Appeals",
+      "content": "(1) A person who is aggrieved with a decision of the Legal Aid Board , may appeal to the Minister within thirty days of receipt of the decision. (2) A person who is aggrieved with a decision of the Minister on appeal may appeal to the High Court."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IX",
+      "section": "58",
+      "title": "Information on right to legal aid by judges, magistrates, correctional and police officers, prosecutors or law enforcement officers",
+      "content": "(1) A Judge, judicial officer , correctional officer, police officer, prosecutor or any law enforcement officer shall inform a person in a court , correctional centre, police station, police post or any other place of detention, of that person’s right to engage the services of a practitioner or to apply for legal aid as provided under this Act. (2) Information required to be provided under subsection (1), on the right to apply for legal aid shall be provided to a suspect or accused person prior to any questioning or at the time of deprivation of liberty. (3) A police officer, correctional officer or any other law enforcement officer shall facilitate and assist any detained person who requests legal services to apply to the Legal Aid Board for legal aid ."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part IX",
+      "section": "59",
+      "title": "General offences",
+      "content": "(1) A practitioner , legal assistant , paralegal or legal aid service provider shall not demand, request or receive legal fees from a legally aided person in relation to services rendered under this Act. (2) A practitioner , legal assistant , paralegal or legal aid service provider who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding ten thousand penalty units. (3) A person who wilfully obstructs a person held in detention from accessing legal aid under this Act commits an offence and is liable, on conviction, to a fine not exceeding ten thousand penalty units."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part IX",
+      "section": "60",
+      "title": "Administrator-General may be administrator ad litem in certain cases",
+      "content": "(1) The Director may request the Administrator-General to apply to the court for a grant of administration for the limited purposes of bringing or defending proceedings where— (a) legal aid has been granted under this Act for the purpose of bringing or defending proceedings for the benefit of the estate of a deceased person or for the purpose of bringing proceedings under the Fatal Accidents Acts, 1846 to 1908, of the Parliament of the United Kingdom for the benefit of any dependant of a deceased person; and (b) it appears to the Director that there is no person able and willing to take probate or letters of administration, or to be appointed administrator under the provisions of section 36 of the Local Courts Act. [ Cap. 29 ] (2) The Court may, on an application under subsection (1), where the court considers necessary appoint the Administrator-General to be an administrator for the limited purpose specified under that subsection. (3) Subsection (1) shall not be limited by the provisions of section 32 of the Administrator-General’s Act. [ Cap. 58 ] (4) This section shall not be deemed to— (a) limit the power of the Administrator-General to apply for a grant of probate or letters of administration under any other written law; or (b) render the Administrator-General personally liable in any way for any act done by the Administrator-General in pursuance of the Administrator-General’s duties as an administrator appointed under this section."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part IX",
+      "section": "61",
+      "title": "Regulations",
+      "content": "(1) The Minister may, on the recommendation of the Legal Aid Board , by statutory instrument, make Regulations for the better carrying out of the provisions of this Act. (2) Despite the generality of subsection (1), the Regulations may make provisions for— (a) the form of any certificate, application and other document which may be required for the purposes of this Act; (b) the manner in which the means of any person who may be eligible for legal aid shall be computed; (c) the manner of payment of any consultation fee required to be made by a person seeking legal aid ; (d) the manner of payment and recovery of any legal aid contribution required to be made by a person to whom legal aid is granted; (e) the manner of payment and recovery of any deduction required from awards to a person to whom legal aid is granted; (f) the manner of payment of any fees required under this Act; and (g) reports and information required by the Director for the purposes of this Act to be supplied by public officers and other persons."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part IX",
+      "section": "62",
+      "title": "Repeal of Act No. 30 of 1967",
+      "content": "The Legal Aid Act, 1967 is repealed."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part IX",
+      "section": "63",
+      "title": "Act to bind Republic",
+      "content": "This Act binds the Republic."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part IX",
+      "section": "64",
+      "title": "Savings and transitional provisions",
+      "content": "The Second Schedule applies to the savings transitional provisions. First Schedule (Section 4(3)) Part I – Administration of Legal Aid Board 1. Seal of Legal Aid Board (1) The seal of the Legal Aid Board shall be a device that may be determined by the Board and shall be kept by the Secretariat. (2) The affixing of the seal shall be authenticated by the Chairperson, the Vice Chairperson, the Director or any other person authorised in that behalf by a resolution of the Board. (3) Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not be required under seal, may be entered into or executed without seal on behalf of the Legal Aid Board by the Director or any other person generally or specifically authorised by the Board in that behalf. (4) Any document purporting to be a document under the seal of the Legal Aid Board shall be received in evidence and shall be deemed to be so executed or issued, without further proof, unless the contrary is proved. 2. Tenure of office and vacancy (1) Subject to this Act, a member of the Board shall hold office for a period of three years from the date of appointment and shall be eligible for re appointment for one further and final term of three years and shall not successively hold office for more than two terms. (2) The office of the member shall become vacant if that member— (a) dies; (b) is absent without reasonable excuse from three consecutive meetings of the Board of which the member has had notice; (c) ceases to be a representative of the organisation which nominated the member; (d) resigns from office; (e) is legally disqualified from performing the functions of a member; (f) is declared bankrupt; (g) is convicted of an offence involving fraud or dishonesty; or (h) is convicted of an offence against any other written law and is sentenced to a term of imprisonment of not less than six months without the option of a fine. (3) A member of the Board may resign from office by giving not less than one month’s notice, in writing, to the Chairperson and the Minister. (4) On the expiration of the period for which a member is appointed the member shall continue to hold office until a successor is appointed but in no case shall the further period exceed three months. 3. Filling of casual vacancy Whenever the office of a member becomes vacant before the expiry of the term of the office, the Minister may appoint another member in place of the member who vacates office but that member shall hold office for the unexpired part of the term. 4. Proceedings of Board (1) Subject to this Act, the Board may regulate its own procedure. (2) The Board shall meet for the transaction of business at least every three months at a place and time that the Chairperson may determine. (3) The Chairperson may, on giving notice of not less than fourteen days, call a meeting of the Board and may if the urgency of any particular matter does not permit the giving of that notice, a special meeting may be called by the Chairperson, on giving a shorter notice. (4) Six members of the Board shall form a quorum at any meeting of the Board. (5) There shall preside at any meeting of the Board— (a) the Chairperson; (b) in the absence of the Chairperson, the Vice-Chairperson; or (c) in the absence of the Chairperson and the Vice­Chairperson, a member that the members present may elect for the purpose of that meeting. (6) A decision of the Board on any question shall be by a majority of the members present and voting at the meeting and in the event of an equality of votes, the person presiding at the meeting shall have a casting vote in addition to the deliberative vote. (7) The Board may invite any person, whose presence is in its opinion desirable, to attend and to participate in the deliberations of the meeting of the Board that person shall have no vote. (8) The validity of any proceedings, act or decision of the Board shall not be affected by any vacancy in the membership of the Board or by any defect in the appointment of any member or by reason that any person not entitled to do so took part in the proceedings. 5. Committees of Board (1) The Board may, for the purpose of performing its functions under this Act, constitute a committee that the Board considers necessary and may delegate to any committee those of its functions that it considers fit. (2) The Board may appoint as members of a committee, persons who are, or are not members of the Board, except that at least one member of a committee shall be a member of the Board. (3) A person serving as a member of a committee shall hold office for a period that the Board may determine. (4) Subject to any specific or general directions of the Board, a committee may regulate its own procedure. 6. Allowance of members The members of the Board or any committee shall be paid allowances that the Emoluments Commission may, on the recommendation of the Minister, determine. 7. Disclosure of interest (1) If a member or person is present at a meeting of the Board or any committee of the Board at which any matter is the subject of consideration and in which matter the member or person knows that the member or person, or the member’s or person’s spouse, relative or associate, is directly or indirectly interested in a private capacity, the member or person as soon as is practicable after the commencement of the meeting, declare such interest and shall not, unless the Board or the committee otherwise directs, take part in any consideration or discussion of, or vote on any question touching that matter. (2) A declaration of interest made under subparagraph (1) shall be recorded in the minutes of the meeting at which it is made. (3) A person who contravenes subparagraph (1) commits an offence and is liable, on conviction, to a fine not exceeding ten thousand penalty units. 8. Immunity of members An action or other proceeding shall lie or be instituted against any member of the Board or a member of a committee for or in respect of any act or thing done or omitted to be done in good faith in the exercise or purported exercise of that member of the Board or committee member’s functions under this Act. 9. Prohibition of publication or disclosure (1) A person shall not without the consent in writing given by, or on behalf of the Board, publish or disclose to any person other than in the course of duties, the contents of any confidential document, communication, or information which relates to and which has come to the person’s knowledge in the course of the person’s duties under this Act. (2) A person shall not, having information which to the knowledge of that person has been published or disclosed in contravention of subparagraph (1), unlawfully publish or communication the information to another person. (3) Any person who knowingly contraventions subparagraphs (1) and (2), commits an offence and is liable on conviction to a fine not exceeding two hundred thousand penalty units or to imprisonment for a term not exceeding two years, or to both. Part II – Financial provisions 10. Funds of Legal Aid Board (1) The funds of the Board consists of monies that may— (a) be appropriated by Parliament for the purposes of operations of the Board; (b) be paid to the Board by way of grants or donations; and (c) vest in, or accrue to, the Board. (2) The Board may accept monies by way of grants or donations from any source in the Republic, and subject to the approval of the Minister from any source outside the Republic. (3) There shall be paid from the funds of the Board— (a) the salaries, allowances, loans, gratuities and pensions of staff of the Board and other payments for the recruitment and retention of staff; (b) travelling and other allowances for members of the Board or members of any committee of the Board when engaged on the business of the Board at rates that the Emoluments Commission may, on the recommendation of the Minister, determine; and (c) any other expenses incurred by the Board in the performance of the Board’s functions. 11. Investment of funds The Board may, with the approval of the Minister, invest in a manner that the Board considers necessary any of the Legal Aid Board’s funds which it does not immediately require for the performance of the Legal Aid Board’s functions. 12. Financial year The financial year of the Legal Aid Board shall be the period of twelve months ending on 31st December in each year. 13. Accounts (1) The Board shall cause to be kept proper books of accounts and other records relating to the Board’s accounts. (2) The accounts of the Legal Aid Board shall be audited annually by the Auditor-General or an auditor appointed by the Auditor-General. (3) The auditor’s fees shall be paid by the Board. 14. Annual report (1) As soon as is practicable, but not later than ninety days after the end of the financial year, the Board shall submit to the Minister a report concerning the activities of the Board during that financial year. (2) The report referred to in subparagraph (1) shall include information on the financial affairs of the Board and there shall be appended to the report— (a) an audited statement of financial position; (b) an audited statement of income and expenditure; (c) an audited statement of income and expenditure of the Fund; and (d) other information as the Minister may require. (3) The Minister shall cause to be prepared an annual statement of the income and expenditure of the Board and the Fund to be laid before the National Assembly. Second Schedule (Section 64) Savings and transitional provisions 1. Staff of Board (1) A person who, before the commencement of this Act, was an officer or employee of the former Board established under the repealed act, shall continue to be an officer or employee of the Board, if appointed or employed under this Act. (2) The service of the persons referred to in subparagraph (1) shall be treated as continuous service. (3) Nothing in this Act affects the rights and liabilities of any person employed or appointed by the former Board established under the repealed act, before the commencement of this Act. 2. Vesting of assets of board (1) On or after the commencement of this Act, there shall be transferred to, vest in and subsist against the Board by virtue of this Act and without further assurance the assets, rights, liabilities and obligations which immediately before the commencement of this Act were assets, rights, liabilities and obligations of the former Board. (2) Subject to subparagraph (1), every deed, bond and agreement, other than an agreement for personnel service, to which the former Board established under the repealed act was a party immediately before the commencement of this Act, whether or not, of a nature that rights, liabilities and obligations could be assigned, shall, unless its subject matter or terms make it impossible that it should have effect as modified as provided by this subparagraph, have effect, as if— (a) the Board had been party to it; (b) for any reference to the former Board established under the repealed act there were substituted, with respect to anything falling to be done on or after the commencement of this Act, a reference to the Board; and (c) for any reference to any officer of the former Board established under the repealed act not being a party to it and beneficially interested therein, there were substituted, with respect to anything required to be done on or after the commencement of this Act, reference to that officer of the Board that the Board shall designate. (3) Where under this Act, any assets, rights, liabilities and obligations of the former Board established under the repealed act are considered to be transferred to the Board in respect of which transfer a written law provides for registration, the Board shall make an application in writing to the appropriate registration authority for registration of the transfer. (4) The registration authority, referred to in subparagra"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "alternative dispute resolution",
+      "definition": "mechanisms such as mediation, conciliation, negotiation and arbitration aimed at preventing, settling or resolving a dispute",
+      "source_provision": "s2"
+    },
+    {
+      "term": "associate",
+      "definition": "assigned to the word in the Anti-Corruption Act, 2012",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Technical Education, Vocational and Entrepreneurship Training Authority established under the Technical Education, Vocational and Entrepreneurship Training Act, 1998",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Legal Aid Board constituted under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the person appointed as the Chairperson of the Board under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "civil society organisation",
+      "definition": "a registered non-state legal entity not established or operated for profit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "assigned to the word in the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the person appointed as Director of the Legal Aid Board under section 10",
+      "source_provision": "s2"
+    },
+    {
+      "term": "eligible person",
+      "definition": "a person to whom legal aid may be granted on the basis of the means test and in the interest of justice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "the Legal Aid Fund continued under section 40",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judicare",
+      "definition": "the provision of legal aid , free of charge or at a fee, by a practitioner registerd by the Legal Aid Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judicial officer",
+      "definition": "assigned to the words in the Judiciary Administration Act, 2016",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Lands Tribunal",
+      "definition": "the Lands Tribunal established under the Lands Tribunal Act, 2010",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal advice",
+      "definition": "the provision of advice on a question of the law and includes advice and assistance in the preparation of legal documents for purposes that are not related to any proceedings for which legal aid may be given",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal aid",
+      "definition": "assigned to the word under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal aid Board",
+      "definition": "the Legal Aid Board continued under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal aid service provider",
+      "definition": "a person who provides legal aid and includes a civil society organisation or a higher education institution law clinic registered under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal assistance",
+      "definition": "the assistance provided to a person in executing some legal act to protect the person’s rights or in taking some preparatory steps towards doing so in the context of formal court proceedings, including steps that are preliminary or incidental to formal court proceedings, or steps aimed at arriving at, or giving effect to a compromise to avoid or bring to an end formal proceedings, including court -annexed mediation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal assistant",
+      "definition": "a person who— (a) holds a degree in law or equivalent from an accredited university",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal education",
+      "definition": "the provision of law-related education through the general dissemination of information about the law to the population or specific groups of persons",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal information",
+      "definition": "information on legal rights, responsibilities, procedures, available remedies and how to exercise them",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legally aided person",
+      "definition": "a person who is granted legal aid under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legally disqualified",
+      "definition": "having no legal capacity as provided in section 4 of the Mental Health Act, 2019",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local court",
+      "definition": "a court established under the Local Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "means test",
+      "definition": "an assessment to determine whether an applicant for legal aid has insufficient means to enable the applicant pay for legal services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "paralegal",
+      "definition": "a person registered as a paralegal under section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practitioner",
+      "definition": "a person admitted to practice as an advocate under the Legal Practitioners Act and in private practice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public service",
+      "definition": "assigned to the words in the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered higher education institution law clinic",
+      "definition": "a legal clinic affiliated to a school of law of a higher education institution providing legal studies and registered by the Legal Aid Board to provide legal aid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relative",
+      "definition": "assigned to the word under the Anti-Corruption Act, 2012",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed act",
+      "definition": "the Legal Aid Act, 1967",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specified offence",
+      "definition": "an offence of a class specified by the Minister, by statutory order, under section 43",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State institution",
+      "definition": "assigned to the words in the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subordinate court",
+      "definition": "a court established under the Subordinate Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Zambia Qualifications Authority",
+      "definition": "the Zambia Qualifications Authority established under the Zambia Qualifications Authority Act, 2011. [Act No. 13 of 2011 ]",
+      "source_provision": "s2"
+    }
+  ]
+}

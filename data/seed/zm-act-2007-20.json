@@ -1,0 +1,815 @@
+{
+  "id": "zm-act-2007-20",
+  "type": "statute",
+  "title": "Matrimonial Causes Act, 2007",
+  "title_en": "Matrimonial Causes Act, 2007",
+  "short_name": "Matrimonial Causes Act, 2007",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/2007/20/eng@2024-08-16",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act maybe cited as the Matrimonial Causes Act, 2007."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— \" adopted \", in relation to a child , means adopted under the Adoption Act or under the law of any place outside Zambia relating to the adoption of children; [Cap. 54] \" appeal \" includes an application for rehearing; “ child ” has the meaning assigned to the word in the Constitution; [Cap. 1] [definition of \"child\" inserted by section 2 of Act 6 of 2024 ] \" cross-petition \" includes an answer in which the respondent to a petition seeks a decree or declaration of a kind referred to in paragraph (a) or (b) of the definition of \" matrimonial cause \" in this subsection; \" decree \" means decree, judgment or order, and includes a decree nisi and an order dismissing a petition or application or refusing to make a decree or order; \" High Court \" means the High Court for Zambia established by Article 94 of the Constitution; [Cap. 1] \" matrimonial cause \" means— (a) proceedings for a decree of— (i) dissolution of marriage; (ii) nullity of marriage; or (iii) judicial separation; (b) proceedings for a declaration of the validity of the dissolution or annulment of a marriage by a decree or otherwise or of a decree of judicial separation, or for a declaration of the continued operation of a decree of judicial separation, or for an order discharging a decree of judicial separation; (c) proceedings with respect to the maintenance of a party to the proceedings , settlements, damages in respect of adultery, the custody or guardianship of children of the marriage or the maintenance, welfare, advancement or education of children of the family, being proceedings in relation to concurrent, pending or completed proceedings of a kind referred to in paragraphs (a) or (b) , including proceedings of such a kind pending at, or completed before, the commencement of this Act; (d) any other proceedings , including proceedings with respect to the enforcement of a decree , the service of process or costs, in relation to concurrent, pending or completed proceedings of a kind referred to in paragraphs, (a), (b) or (c), including proceedings of such a kind pending at, or completed before, the commencement of this Act; or (e) proceedings seeking leave to institute proceedings for a decree of dissolution of marriage or of judicial separation, or proceedings in relation to proceedings seeking such leave; \" petition \" includes a cross-petition ; \" petitioner \" includes a cross-petitioner; \" proceedings \" includes cross-proceedings; \" respondent \" includes a petitioner against whom there is a cross-petition ; \" rules \" means the rules made under section one hundred and four; \" Supreme Court \" means the Supreme Court of Zambia established by Article 92 of the Constitution; and [Cap. 1] \" welfare officer \" means any Social Welfare Officer employed in the public service. (2) For the purposes of this Act, the date of a petition shall be taken to be the date on which the petition was filed in the registry of the High Court ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "The provisions of this Act shall apply to marriages solemnised in accordance with the Marriage Act or the law of a foreign state and shall not apply to marriages contracted in accordance with customary law. [Cap. 50]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "High Court to have jurisdiction in matrimonial causes",
+      "content": "(1) The High Court , hereinafter referred to as “the Court” shall have and exercise, subject to the provisions of this Act, jurisdiction and power in relation to matrimonial causes instituted or continued under this Act. (2) Notwithstanding subsection (1) of section eleven of the High Court Act or any other written law, the jurisdiction of the Court in divorce and matrimonial causes and related matters shall, after the commencement of this Act, be exercised only in accordance with the provisions of this Act. [Cap. 27] (3) The Court shall have jurisdiction in proceedings for divorce or for a decree of nullity of marriage if either party to the marriage— (a) is domiciled in Zambia at the date of the commencement of the proceedings ; or (b) is resident in Zambia at the date of the commencement of the proceedings , and has been ordinarily so resident for a period of not less than twelve months immediately preceding that date."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Certain children deemed to be children of family",
+      "content": "(1) For the purposes of the application of this Act in relation to a marriage— (a) a child adopted since the marriage by the husband and wife or by either of them with the consent of the other; (b) a child of the husband and wife born before the marriage, whether legitimated by the marriage or not; and (c) a child of either the husband or wife, including a child born outside wedlock to either one of them and a child adopted by either of them, if at the relevant time the child was ordinarily a member of the household of the husband and wife and accepted by both as a member of the family; shall be deemed to be a child of the family, and a child of the husband and wife: Provided that a child born before the marriage, whether legitimated by the marriage or not, who has been adopted by another person or other persons shall be deemed not to be a child of the marriage. (2) For the purposes of paragraph of subsection (1) , in relation to any proceedings the relevant time is— (a) the time immediately preceding the time when the husband and wife ceased in live together or, if they have ceased no more than one occasion to live together, the time immediately preceding the time when they last ceased to live together before the institution of the proceedings ; or (b) if the husband and wife were living together at the time when the proceedings were instituted, the time immediately preceding the institution of the proceedings . (3) The provisions of subsections (1) and (2) shall apply in relation to a purported marriage that is void as if the purported marriage were a marriage. Part II – Dissolution of marriage"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Restriction on petitions for divorce within one year of marriage",
+      "content": "(1) No petition for divorce shall be presented to the Court unless, at the date of the presentation of the petition , one year has passed since the date of the marriage. (2) Nothing in subsection (1) shall prohibit the presentation of a petition based on matters which have occurred before the expiration of one year from the dare of the marriage."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Divorce not precluded by previous judicial separation",
+      "content": "(1) A person shall not be prevented from presenting a petition for divorce, or the Court from granting a decree of divorce, by reason only that the petitioner or respondent has at any time on the same facts or substantially the same facts as those proved in support of the petition , been granted a decree of judicial separation. (2) On a petition for divorce pursuant to subsection (1) , the Court may treat the decree as sufficient proof of any adultery, desertion or other fact by reference to which it was granted, but shall not grant a decree nisi of divorce without receiving evidence from the petitioner ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Ground for divorce",
+      "content": "A petition for divorce may be presented to the Court by either party to a marriage on the ground that the marriage has broken down irretrievably."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Proof of breakdown of marriage",
+      "content": "(1) For purposes of section eight the Court hearing a petition for divorce shall not hold the marriage to have broken down irretrievably unless the petitioner satisfies the Court of one or more of the following facts: (a) that the respondent has committed adultery and the petitioner finds it intolerable to live with the respondent ; (b) that the respondent has behaved in such a way that the petitioner cannot reasonably be expected to live with the respondent ; (c) that the respondent has deserted the petitioner for a continuous period of at least two years immediately preceding the presentation of the petition ; (d) that the parties to the marriage have lived apart for a continuous period of at least two years immediately preceding the presentation of the petition and the respondent consents to a decree being granted; or (e) that the parties to the marriage have lived apart for a continuous period of at least five years immediately preceding the presentation of the petition . (2) On a petition for divorce it shall be the duty of the Court to inquire, so far as it reasonably can, into the facts alleged by the petitioner and into any facts alleged by the respondent . (3) If the Court is satisfied on the evidence of any fact mentioned in subsection (1) , then, unless it is satisfied on all the evidence that the marriage has not broken down irretrievably, it shall grant a decree of dissolution of marriage. (4) A decree of dissolution of marriage shall not be made if the Court is satisfied that there is a reasonable likelihood of cohabitation being resumed."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Joinder of adulterer, etc.",
+      "content": "(1) Where in a petition for divorce or in an answer to such a petition , a party to the marriage is alleged to have committed adultery with a specified person, whether or not a decree of dissolution of marriage is sought on the grounds of the adultery, that person shall, except as provided by the rules , be made a party to the proceedings . (2) Where a person has been made a party to proceedings for a decree of dissolution of marriage in pursuance of subsection (1) , the Court may, on the application of that person, after the close of the case for the party to the marriage who alleged the adultery, if it is satisfied that there is not sufficient evidence to establish that the person committed adultery with the other party to the marriage, remove that person from the proceedings ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Claim for damages",
+      "content": "(1) A party to a marriage, whether husband or wife, may, in a petition for divorce on the ground that the other party to the marriage has committed adultery with a person, or on grounds including that ground, claim damages from that person on the ground that that person has committed adultery with the other party to the marriage and, subject to this section, the Court may award damages accordingly. (2) Damages shall not be awarded against a person where the adultery of the respondent with that person has been condoned, whether subsequently revived or not, or if a decree of dissolution of the marriage on the ground of the adultery of the respondent with that person, or on grounds including that ground, is not made. (3) Damages shall not be awarded under this Act in respect of an act of adultery committed more than three years before the date of the petition . (4) The Court may direct in what manner the damages awarded shall be paid or applied and may, if it thinks fit, direct that they shall be settled for the benefit of the respondent or the children of the family."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Provisions relating to adultery",
+      "content": "(1) For the purposes of paragraph (a) of subsection (1) of section nine, a petitioner shall not be entitled to rely on adultery committed by the respondent if, after it became known to the petitioner that the respondent had committed adultery, the parties have lived with each other for a period exceeding, or periods together exceeding, six months. (2) If the parties have lived with each other after the adultery for a period of six months or less, that time shall be disregarded in determining for the purposes of paragraph (c) of subsection (1) of section nine whether the petitioner finds it intolerable to live with the respondent ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Unreasonable behaviour",
+      "content": "Where in any proceedings for divorce the petitioner alleges that the respondent has behaved in such a way that the petitioner cannot be expected to live with the respondent , but the parties to the marriage have lived with each other for a period or periods not exceeding six months after the date of the occurrence of the final incident relied on by the petitioner and held by the Court to support the petitioner 's allegation, that fact shall be disregarded in determining for the purposes of paragraph (b) of subsection (1) of section nine whether the petitioner cannot reasonably be expected to live with the respondent"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Constructive desertion",
+      "content": "(1) A married person whose conduct constitutes just cause or excuse for the other party to the marriage to live separately or apart, and occasions that other party to live separately or apart, shall be deemed to have wilfully deserted that other party without just cause or excuse, notwithstanding that the person may not in fact have intended the conduct to occasion that other party to have separately or apart. (2) For the purposes of paragraph of subsection (1) of section nine, the Court may treat a period of desertion as having continued at the time when the deserting party was incapable of continuing the necessary intention, due to mental illness or otherwise, if the evidence before the Court is such that, had that party not been so incapable, the Court would have inferred that the respondent 's desertion continued at that time."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Refused to resume cohabitations",
+      "content": "(1) Where a husband and wife are parties to an agreement for separation, whether oral, in writing or constituted by conduct, the refusal by one of them, without reasonable justification, to comply with the other's bona fide request to resume cohabitation constitutes, as from the date of the refusal, wilful desertion without just cause or excuse on the pan of the party so refusing. (2) For the purposes of subsection (1) \"reasonable justification\" means reasonable justification in all the circumstances, including the conduct of the other party to the marriage since the marriage, whether that conduct took place before or after the agreement for separation."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Consent in two year separation",
+      "content": "Provision shall be made by rules of court for the purpose of ensuring that where pursuant to paragraph (d) of subsection (1) of section nine the petitioner alleges that the respondent consents to a decree being granted, the respondent has been given sufficient information to enable the respondent to understand the consequences to the respondent of the respondent 's consenting to a decree being granted and the steps which the respondent must take to indicate that the respondent consents to the grant of a decree ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part II",
+      "section": "17",
+      "title": "Meaning of separation",
+      "content": "(1) For purposes of paragraphs (d) and (e) of subsection (1) of section nine, the parties to a marriage may be held to have separated notwithstanding that the cohabitation was brought to an end by the action or conduct of only one of the parties. (2) A decree of dissolution of marriage may be made upon the fact specified in paragraph (e) of subsection (1) of section nine notwithstanding that there was in existence at any relevant time— (a) a decree or order of a court suspending the obligation of the parties to the marriage to cohabit; or (b) an agreement between those parties for separation."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part II",
+      "section": "18",
+      "title": "Refusal of decree in five year cases on ground of grave hardship to respondent",
+      "content": "(1) The respondent to a petition for divorce in which the petitioner alleges five years separation may oppose the grant of a decree on the ground that the dissolution of the marriage will result in grave financial or other hardship to the respondent and that it would in all the circumstances be wrong to dissolve the marriage. (2) Where the grant of a decree to opposed under this section, then— (a) if the Court finds that the petitioner is entitled to rely in support of the respondent ’s petition on the fact of five years' separation and does not rely on any other fact mentioned in subsection (1) of section nine; and (b) If apart from this section the Court would grant a decree on the petition ; the Court shall consider all the circumstances, including the conduct of the parties to the marriage and the interests of those parties and of any children or other persons concerned, and if the Court is of the opinion that the dissolution of the marriage will result in grave financial or other hardship to the respondent and that it would in all the circumstances be wrong to dissolve the marriage, it shall dismiss the petition . (c) For the purpose of this section hardship shall include the loss of the change of acquiring any benefit which the respondent might acquire if the marriage were not dissolved."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part II",
+      "section": "19",
+      "title": "Effect of resumption of cohabitation",
+      "content": "(1) For the purposes of proceedings for a decree of dissolution of marriage, in calculating any period for which the parties have been living separately and apart, and in considering whether such period has been continuous, no account shall be taken of any one period, not exceeding six months, during which the parties resumed cohabitation with a view to reconciliation. (2) for the purpose of subsection (1) , a period of cohabitation shall be deemed to have continued during any interruption of the cohabitation that, in the opinion of the Court was not substantial."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part II",
+      "section": "20",
+      "title": "Collusion to be a bar",
+      "content": "The Court may, in its discretion, refuse to make a decree of dissolution of marriage if the petitioner , in bringing or prosecuting the proceedings , has been guilty of collusion."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part II",
+      "section": "21",
+      "title": "Discretionary bar",
+      "content": "The Court may, in its discretion, refuse to make a decree of dissolution of marriage upon the ground specified in section eight, if, since the marriage— (a) the petitioner has committed adultery that has not been condoned by the respondent or, having been so condoned, has been revived; (b) the petitioner has been guilty of cruelty to the respondent ; (c) the petitioner has wilfully deserted the respondent before the happening of the matters constituting the ground relied upon by the petitioner or, where that ground involves matters occurring during, or extending over a period, before the expiration of that period; or (d) the habits of the petitioner have, or the conduct of the petitioner has, conduced or contributed to the existence of the ground relied upon by the petitioner ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part II",
+      "section": "22",
+      "title": "Restriction on dissolution of marriage where petition for decree of nullity of marriage is before High Court",
+      "content": "Where a petition for a decree of nullity of any marriage is before the Court, the Court shall not make a decree of dissolution of that marriage unless the Court has dismissed the petition for a decree of nullity of that marriage."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part II",
+      "section": "23",
+      "title": "Relief for respondent in divorce proceedings",
+      "content": "If in any proceedings for divorce the respondent alleges and proves any of the facts referred to in paragraphs (a) to (e) of subsection (1) of section nine, treating the respondent as the petitioner and the petitioner as the respondent for the purposes of that subsection, the Court may give to the respondent the relief to which the respondent would have been entitled if the respondent had presented a petition seeking that relief. Part III – Presumption of death and dissolution of marriage"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Proceedings for decree of presumption of death and dissolution of marriage",
+      "content": "(1) Any married person who alleges that reasonable grounds exist for supposing that the other party to the marriage is dead may present a petition to the Court to have it presumed that the other party is dead and to have the marriage dissolved, and the Court, if satisfied that such reasonable grounds exist, may make a decree of presumption of death and dissolution of the marriage. (2) In such proceedings the fact that for a period of seven years or upwards the other party to the marriage has been continually absent from the petitioner , and the petitioner has no reason to believe that the party has been living within that time, shall be evidence that he or she is dead until the contrary is proved. (3) Part VII shall apply to a decree under this section as it applies to a decree of dissolution of marriage. Part IV – Reconciliation"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Reconciliation",
+      "content": "(1) Where proceedings for divorce have been Instituted by a party to a marriage the Court shall require the advocate for the petitioner to certify whether the advocate has discussed with the petitioner the possibility of reconciliation and given the petitioner the names and addresses of persons qualified to help effect a reconciliation between parties to a marriage who have become estranged. (2) If, in such proceedings , appears at any time to the Court from the evidence or the attitude of the parties, or of either of them, that there is a reasonable possibility of a reconciliation between the parties to the marriage, the Court may— (a) adjourn the proceedings for such period as it thinks fit to afford the parties an opportunity to consider a reconciliation and to enable attempts to be made to effect such a reconciliation; or (b) interview the parties in chambers with or without counsel, as the Court thinks proper, with a view to effecting a reconciliation. (3) If not less than fourteen days after an adjournment under paragraph (a) of subsection (2) has taken place, either of the parties to the marriage requests that the hearing be proceeded with, the Court shall resume the hearing. (4) The power conferred on the Court by subsection (2) is additional to any other power of the Court to adjourn proceedings ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Statements, etc. made in attempts effect reconciliation",
+      "content": "Evidence of anything said or of any admission made in the course of an endeavour to effect a reconciliation under this Part is not admissible in any court. Part V – Nullity of marriage"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Grounds for decree to nullity of marriage",
+      "content": "(1) A marriage celebrated after the commencement of this Act shall be void on the following grounds: (a) that the marriage is not a valid marriage under the provisions of the Marriage Act due to the fact that— (i) the parties are within the prohibited degrees of consanguinity or affinity; (ii) either party to the marriage was a child at the time the marriage was celebrated; [subparagraph (ii) substituted by section 3 of Act 6 of 2024 ] (iii) the parties have not complied with the requirements of the Act with respect to the solemnisation of the marriage as specified in subsection (2) of section thirty-two of that Act; (b) that either party to the marriage was lawfully married to some other person at the time of the marriage; or (c) the parties to the marriage are of the same sex. (2) Nothing in this section shall be construed as validating any marriage which is by law void but with respect to which a decree of nullity has not been granted. [Cap. 50]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Prohibited degrees of consanguinity and affinity",
+      "content": "The prohibited degrees of consanguinity and affinity referred to in subparagraph (i) of paragraph (a) of subsection (1) of section twenty-seven are those set out in the Schedule."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Grounds on which marriage is voidable",
+      "content": "A marriage which is celebrated after the commencement of this Act, not bang a marriage that is void, shall be voidable on the grounds that— (a) the marriage has not been consummated due to the incapacity of either party to consummate it; (b) the marriage has not been consummated due to the wilful refusal of the respondent to consummate it; (c) either party to the marriage did not validly consent to it, whether in consequence of duress, mistake, unsoundness of mind or otherwise; (d) at the time of the marriage either party, though capable of giving a valid consent, was suffering, whether continuously or intermittently, from a mental disorder within the meaning of the Mental Disorders Act of such a kind or to such an extent as to be unfitted for marriage; [Cap. 305] (e) at the time of the marriage the respondent was suffering from a sexually transmitted disease in a communicable farm; or (f) at the time of the marriage the respondent was pregnant by someone other than the petitioner . [Cap. 305]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Bars to relief where marriage is voidable",
+      "content": "(1) High Court shall not, in proceedings instituted after the commencement of this Act, grant a decree of nullity on the ground that a marriage is voidable if the respondent satisfies the Court— (a) that the petitioner , with knowledge that it was open to the petitioner to have the marriage avoided, so conducted oneself in relation to the respondent as to lead the respondent reasonably to believe that the petitioner would not seek to do so; and (b) that it would be unjust for the respondent to grant the decree . (2) Notwithstanding subsection (1) , the Court shall not grant a decree of nullity under section twenty-nine on the grounds specified in paragraphs (c), (d), (e) or (f) that section unless it is satisfied that proceedings were instituted within three years from the date of the marriage, (3) Notwithstanding subsection (1) and (2) , the Court shall not grant a decree of nullity under section twenty-nine on the grounds specified in paragraph (e) or (f) of that section unless it is satisfied that the petitioner was at the time of the marriage ignorant of the facts alleged."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Incapacity to consummate marriage",
+      "content": "A decree of nullity of marriage shall not be made on the ground that the marriage is voidable under paragraph (a) of section twenty-nine unless the Court is satisfied that the incapacity to consummate the marriage also existed at the time when the hearing of the petition commenced and that— (a) the incapacity is not curable; (b) the respondent refuses to submit to such medical examination as the court considers necessary for the purpose of determining whether the incapacity is curable; or (c) the respondent refuses to submit to proper treatment for the purpose of curing the incapacity."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Application of sections 41 and 43 to nullity proceedings",
+      "content": "Sections forty-one and forty-three shall apply in relation to proceedings for nullity of marriage as if for any reference in those provisions to divorce there were substituted a reference to nullity of marriage."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Effect of decree of nullity in case of voidable marriage",
+      "content": "(1) A decree of nullity granted after the commencement of this Act in respect of a voidable marriage shall operate to annul the marriage only as respects anytime after the decree has been made absolute, and the marriage shall, notwithstanding the decree , be treated as if it had existed up to that time. (2) Without prejudice to the operation of subsection (1) in other respects, a decree of nullity under this Act of avoidable marriage does not render illegitimate a child of the parties born since, or legitimated during, the marriage. Part VI – Judicial separation"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Ground for judicial separation",
+      "content": "(1) A petition for judicial separation may be presented to the Court by a party to a marriage on the ground that one or more of the facts specified in paragraphs (a) to (e) of subsection (1) of section nine exists and the provisions of section ten shall apply for the purposes of a petition for judicial separation alleging any such fact, as they apply in relation to a petition for divorce alleging that fact. (2) The Court hearing a petition for judicial separation shall inquire, so far as it reasonably can into the facts alleged by the petitioner and into any facts alleged by the respondent but shall not be concerned to consider whether the marriage has broken down irretrievably. (3) Subject to section thirty-nine, if the Court is satisfied on the evidence adduced by the petitioner in support of any fact referred to in paragraphs (c) to (e) of subsection (1) of section nine, the Court shall grant a decree of judicial separation. (4) Sections twenty-five and twenty-six shall apply for the purpose of encouraging the reconciliation of parties to proceedings for judicial separation and of enabling the parties to a marriage to refer to the Court for its opinion an agreement or arrangement relevant to actual or contemplated proceedings for judicial separation, as they apply to proceedings for divorce."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Effect of judicial separation",
+      "content": "A decree of judicial separation relieves the petitioner from the obligation to cohabit with the other party to the marriage while the decree remains in operation, but, except as provided by this Part, does not otherwise affect the marriage or the status, rights and obligations of the parties to the marriage."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Effect of judicial separation on devolution of property",
+      "content": "(1) Where a party to a marriage dies intestate as to any property while a decree of judicial separation is in operation that property shall devolve as if that party had survived the other party to the marriage. (2) Where upon, or in consequence of, the making of a decree of judicial separation a husband is ordered to pay maintenance to his wife, and the maintenance is not duly paid, the husband is liable for necessaries supplied for the wife's use."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Exercise of joint powers not affected",
+      "content": "Nothing in this Part prevents a wife, during separation under a decree of judicial separation from joining in the exercise of any power given to herself and her husband jointly."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Decree of judicial separation not to bar subsequent for dissolution of marriage",
+      "content": "(1) A decree of judicial separation does not prevent the institution by either party to the marriage of proceedings for a decree of dissolution of marriage. (2) The Court may, in any proceedings for a decree of dissolution of marriage on the same, or substantially the same, facts as those on which a decree of judicial separation has been made, treat the decree of judicial separation as sufficient proof of the facts constituting the ground on which that decree was made. (3) Notwithstanding subsection (2) , the Court shall not grant a decree of dissolution of marriage without considering evidence given by the petitioner in support of the petition ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Discharge of decree on resumption of cohabitation",
+      "content": "Where, after a decree of judicial separation has been made, the parties have voluntarily resumed cohabitation, either party may apply for an order discharging the decree ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Application of this Part to decrees made before commencement of this Act",
+      "content": "The provisions of this Act apply to and in relation to a decree of judicial separation made before the commencement of this Act as if such a decree was made after the commencement of this Act. Part VII – Decree nisi and decree absolute"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Decree nisi in first instance",
+      "content": "A decree nisi of dissolution of marriage or nullity of marriage of a voidable marriage under this Act shall in the first instance, be a decree nisi ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Decree absolute where children under twenty-one years, etc.",
+      "content": "(1) A decree nisi of dissolution of a marriage or of nullity of a voidable marriage shall not become absolute unless the Court, by order, has declared that it is satisfied— (a) that there are no children of the family in relation to whom this section applies; or (b) that the only children of the family in relation to whom this section applies are the children specified in the order and that— (i) proper arrangements in all the circumstances have been made for the welfare and, where appropriate, education or advancement of those children; or (ii) there are special circumstances by reason of which the decree nisi should become absolute notwithstanding that the Court is not satisfied that such arrangements have been made. (2) In this section, \"children of the family in relation to whom this section applies\" means— (a) the children of the family who are under the age of twenty-one years at the date of the decree nisi ; and (b) any children of the family in relation to whom the Court has, in pursuance of subsection (3) , ordered that this section shall apply. (3) The Court may, in a particular case, if it is of opinion that there are special circumstances which justify its so doing, order that this section shall apply in relation to a child of the marriage who has attained the age of twenty-one years at the date of the decree nisi ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "When decree becomes absolute",
+      "content": "(1) Subject to this section, a decree nisi made on or after the commencement of this Act becomes absolute by force of this sectional the expiration of a period of six weeks from the making of the decree . (2) An application for a decree nisi to be made absolute may be made by either party to the marriage. (3) Where an appeal is instituted before a decree nisi has become absolute the decree nisi , unless reversed or rescinded, becomes absolute by force of this section— (a) at the expiration of a period of twenty-eight days from the day on which the appeal is determined or discontinued; or (b) on the day on which the decree would have become absolute under subsection (1) if no appeal had been instituted, whichever is the later. (4) A decree nisi shall not become absolute by force of this section where either of the parties to the marriage has died. (5) In this section “ appeal ”, in relation to a decree nisi , means— (a) an appeal , application for leave to appeal against or an intervention or an application for leave to intervene relating to— (i) the decree nisi ; or (ii) an order under section forty-two in relation to the proceedings in which the decree nisi was made; or (b) an application under sections forty-six, forty-seven, forty-eight or forty-nine tor rescission of the decree or an appeal or application for leave to appeal arising out of such an application. (6) For the purposes of this section, where an application for leave to appeal or to intervene, or for a rehearing, is granted, the application shall be deemed not to have been determined or discontinued so long as— (a) the leave granted remains capable of being exercised; or (b) an appeal , intervention or rehearing instituted in pursuance of the leave is pending."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Certificate as to decree absolute",
+      "content": "(1) Where a decree nisi becomes absolute, a memorandum of the fact and of the date on which the decree became absolute shall be prepared and filed by the Registrar of the High Court . (2) Where a decree nisi has become absolute, the Registrar of the High Court shall, on payment of the appropriate fee, issue to any person applying for the same a certificate that the decree has become absolute. (3) A certificate given under subsection (2) is in all courts and for all purposes, evidence of the matters specified in the certificate."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Proceedings after decree nisi",
+      "content": "(1) Subject to section eighty where a decree of dissolution of marriage has been made but has not become absolute, any person who is not a party to the proceedings may show cause why the decree should not be made absolute on account of material facts not having been brought before the Court, and in such a case the Court may— (a) rescind the decree ; (b) require further inquiry; or (c) otherwise deal with the case as it thinks lit. (2) Where a decree of divorce has been granted and no application for it to be made absolute has been made by the party to whom it was granted, the party against whom it was granted may apply to the Court, at any time after the expiration of three months from the earliest date on which that party could have made such an application, for the decree nisi to be made absolute. (3) On an application under subsection (2) , the Court may exercise any of the powers mentioned in paragraphs (a) to (c) of subsection (1) ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Rescission of decree nisi where parties reconciled, etc.",
+      "content": "Notwithstanding anything contained in this Part, where a decree nisi has been made in proceedings for a decree of dissolution of marriage, the Court may, at any time before the decree becomes absolute, upon the application of either of the parties to the marriage, rescind the decree if the Court is satisfied that the parties have become reconciled."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Rescission of decree nisi on ground of fraud, etc.",
+      "content": "Where a decree nisi has been made but not become absolute the Court may, on the application of any person who is not a party to the proceedings , if it is satisfied that there has been a miscarriage of justice by reason of fraud, perjury, suppression of evidence or any other circumstances, rescind the decree and, if it thinks fit, order that the proceedings be reheard."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VII",
+      "section": "48",
+      "title": "Rescission of decree nisi on ground of miscarriage of justice",
+      "content": "Where a decree nisi has been made, but has not become absolute, the Court may, on the application of a party to the proceedings or on the intervention of the Attorney-General, if it is satisfied that there has been a miscarriage of justice by reason of fraud, perjury, suppression of evidence or of any other circumstances, rescind the decree and, if it thinks fit order the rehearing of the proceedings ."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VII",
+      "section": "49",
+      "title": "Rescission of decree where consent in relation to two years' separation obtained by misinterpretation",
+      "content": "Where a decree has been made but not become absolute in any case where the petitioner in support of the petitioner 's petition relied only on the fact of two years' separation coupled with the respondent 's consent to a decree being granted and no other fact, the Court may, on an application made by the respondent at anytime before the decree is made absolute, rescind the decree if it is satisfied that the petitioner misled the respondent whether intentionally or unintentionally, about any matter which the respondent took into account in deciding to consent."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VII",
+      "section": "50",
+      "title": "Re-marriage",
+      "content": "Where a decree of dissolution of marriage under this Act has become absolute, a party to the marriage may marry again as if the marriage had been dissolved by death. Part VIII – Financial relief for parties to marriage and children of family"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Definition of marriage",
+      "content": "In this Part “marriage” includes a purported marriage that is void or has been declared to be such."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Maintenance pending suit",
+      "content": "(1) On a petition for divorce, nullity of marriage or judicial separation, the Court may make an order for maintenance pending suit. (2) An order made under subsection (1) may require either party to the marriage to make to the other such periodical payments for that party's maintenance and for such periods, beginning not earlier than the date of the presentation of the petition and ending on the date of the determination of the suit, as the Court thinks reasonable."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Consideration by Court of certain agreements or arrangement",
+      "content": "(1) The parties to a marriage, or either of them, may, in accordance with rules of court, on application made before or after the presentation of a petition for divorce, refer to the Court any agreement or arrangement made or proposed to be made between them, which relates to, arises out of, or is connected with, the proceedings for divorce which are contemplated or, as the case may be, have begun. (2) Where an agreement is referred to the Court under subsection (1) , the Court may express an opinion, if it thinks it desirable to do so, on the reasonableness of the agreement or arrangement and give such directions, if any, in the matter as it thinks fit."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "General powers of Court",
+      "content": "(1) The Court, in exercising its powers under this Part, upon granting a decree of divorce, a decree of nullity of marriage or a decree of judicial separation or at any time thereafter, whether, in the case of a decree of divorce or of nullity of marriage, before or after the decree is made absolute, may do any or all of the following: (a) order that either party to the marriage shall make to the other such periodical payments, for such period, as may be specified in the order; (b) order that either party to the marriage shall secure to the other to the satisfaction of the Court such periodical payments, for such period as may be specified in the order; (c) order that either party to the marriage shall pay to the other, such lump sum or sums as may be specified in the order; (d) order that a party to the marriage shall make to such person as the Court may specify in the order for the benefit of a child of the family, or to such a child , such periodical payments, for such period, as may be specified in the order; (e) order that a party to the marriage shall secure to such person as the Court may specify in the order for the benefit of a child of the family, or to such a child , such periodical payments, for such period, as may be specified in the order; (f) order that a party to the marriage shall pay to such person as the Court may specify in the order for the benefit of a child of the family, or to such a child , such lump sum as may be specified in the order. (2) The power of the Court to make orders under paragraphs (a) , (c) (d), (e) and (f) of subsection (1) shall not be exercised for the benefit of a child who has attained the age of twenty-one years unless the Court is of opinion that there are special circumstances that justify the making of such an order for the benefit of that child. (3) The Court may, subject to the restriction referred in subsection (2) , make anyone or more of the orders referred to in paragraphs (d) , (e) and (f) of subsection (1) — (a) in any proceedings for divorce, nullity of marriage or judicial separation, before granting a decree ; and (b) where any such proceedings are dismissed after the beginning of the trial, either immediately or within such reasonable period after the dismissal. (4) Without prejudice to the generality of paragraph (e) or (f) of subsection (1) — (a) an order under this section that a party to a marriage shall pay a lump sum to the other party may be made for the purpose of enabling that other party to meet any liabilities or expenses reasonably incurred by the party in maintaining themselves or any child of the family before making an application for an order under this section in the applicant’s favour; (b) an order under this section for the payment of a lump sum to or for the benefit of a child of the family may be made for the purpose of enabling any liabilities or expenses reasonably incurred by orbited benefit of that child before the making of an application for an order under this section in the applicant’s favour to be met; and (c) an order under this section for the payment of a lump sum may provide for the payment of that sum by instalments of such amount as the Court may specify in the order and may require the payment of the instalments to be secured to the satisfaction of the Court. (5) The power of the Court under subsection (1) or paragraph (a) of subsection (4) to make an order in favour of a child of the family shall be exercised from time to time and where the Court makes an order in a favour of a child under this section it may, from time to time, subject to the restrictions mentioned in subsection (2) , make a further order in the child’s favour of any of the kinds referred to in paragraphs (d), (e) and (f) of subsection (1) . (6) Where an order is made under paragraph (a) , (b) or (c) of subsection (1) on or after the granting of a decree of divorce or nullity of marriage, neither the order nor any settlement made in pursuance of the order shall lake effect unless the decree has been made absolute."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "Property adjustment orders in connection with divorce proceedings , etc.",
+      "content": "(1) The Court may, upon granting a decree of divorce, a decree of nullity of marriage or a decree of judicial separation or at any time thereafter, whether, in the case of a decree of divorce or of nullity of marriage, before or after the decree is made absolute, make any one or more of the following orders: (a) an order that a party to the marriage shall transfer to the other party, to any child of the family or to such person as the Court may specify in the order for the benefit of such a child , such property as may be specified in the order, being property to which the first-mentioned party is entitled, either in possession or reversion; (b) an order that settlement of such property as may be specified, being property to which a party to a marriage is entitled, be made to the satisfaction of the Court for the benefit of the other party to the marriage and of the children of the family or either or any of them; (c) an order varying for the benefit of the parties to the marriage and of the children of the family or either or any of them any ante-nuptial settlement, including a settlement made by will or codicil, made by the parties to the marriage; (d) an order extinguishing or reducing the interest of either of the parties to the marriage under the settlement; subject, in the case of an order made under paragraph (a) to the restrictions imposed by this Act on the making of orders for the transfer of property in favour of children who have attained the age of twenty-one. (2) The Court may make an order under paragraph (c) of subsection (1) notwithstanding that there are no children of the family. (3) Where an order is made under section sixty-one on or after granting a decree of divorce or nullity of marriage, neither the order nor any settlement made in pursuance of the order shall take effect unless the decree has been made absolute."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VIII",
+      "section": "56",
+      "title": "Powers of court in maintenance proceedings",
+      "content": "(1) Subject to the provisions of this section, the Court may, in any matter or cause in which application is made for the maintenance of a party to a marriage, or of children of the family, other than proceedings for an order for maintenance pending the disposal of proceedings , make such an order on such application as it thinks proper having regard to— (a) the income, earning capacity and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future; (b) the financial needs, obligations and responsibilities which each of the parties to the marriage has or is likely to have in the foreseeable future; (c) the standard of living enjoyed by the family before the breakdown of the marriage; (d) the age of each party to the marriage and the duration of the marriage; (e) any physical or mental disability of either of the parties to the marriage; (f) the contributions made by each of the parties to the welfare of the family, including any contribution made by looking after the home or caring for the family; (g) in the case of proceedings for divorce or nullity of marriage, the value to either of the parties to the montage of any benefit, such as a pension, which as a result of the dissolution or annulment of the marriage, that party will lose the chance of acquiring. (2) In making an order under subsection (1) , the Court shall seek to place the parties, so far as it is practicable and just to do so, having regard to their conduct, in the financial position in which they would have be on if the marriage had not broken down and each had properly discharged their financial obligations and responsibilities towards the other. (3) Subject to subsection (5) , the Court shall in deciding whether to exercise its powers under paragraphs (d), (e) or (f) of subsection (1) of section fifty-four, subsections (2) or (4) of section fifty-four or section fifty-five in relation to a child of the family and if so in what manner, have regard to all the circumstances of the case including— (a) the financial needs of the child ; (b) the income, earning capacity, if any, property and other financial resources of the child ; (c) any physical or mental disability of the child ; (d) the standard of living enjoyed by the family before the breakdown of the marriage; and (e) the manner in which the child was being and in which the parties to the marriage expected the child to be educated and trained. (4) In exercising its powers under this section the Court shall seek to place the child , so far as it is practicable and just to do so, having regard to the considerations mentioned in relation to the panics to the marriage in subsection (2) , in the financial position in which the child would have been if the marriage had not broken down and each of those parties had properly discharged their financial obligations and responsibilities towards the child. (5) The Court shall in deciding whether to exercise its powers under paragraphs (d), (e) or (f) of subsection (1) of section fifty-four and subsections (2) or (4) of section fifty-four against a party to a marriage in favour of a child of the family who is not the child of that party and, if so, in what manner, have regard, among the circumstances of the case— (a) to whether that party had assumed any responsibility for the child 's maintenance and, if so, to the extent to which, and the basis upon which, that party assumed such responsibility and to the length of time for which that party discharged such responsibility; (b) to whether in assuming and discharging such responsibility that party did so knowing that the child was not his or her own; and (c) to the ability of any other person to maintain the child ."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VIII",
+      "section": "57",
+      "title": "Commencement of proceedings for ancillary relief, etc.",
+      "content": "(1) Subject to subsection (2) and to the rules of court, where a petition for divorce, nullity of marriage or judicial separation has been presented, proceedings for maintenance pending suit under section fifty-two, for a financial provision order under section, fifty-four or for a property adjustment order under section fifty-five may be begun, at any time after the presentation of the petition . (2) Rules of court may provide that— (a) the applications for any relief under subsection (1) shall be made in the petition or answer; and (b) that applications for any relief which are not made by petition or answer, or which are not made until after the expiration of such period following the presentation of the petition or filing of the answer as may be prescribed, shall be made only with the leave of the Court."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VIII",
+      "section": "58",
+      "title": "Neglect by party to marriage to maintain other party or child of family",
+      "content": "(1) Either party to a marriage may apply to the Court for an order under this section on the ground that the respondent — (a) being the husband, has wilfully neglected— (i) to provide reasonable maintenance for the applicant; or (ii) to provide or to make a proper contribution towards, reasonable maintenance for any child of the family to whom this section applies; or (b) being the wife, has wilfully neglected to provide, or to make a proper contribution towards, reasonable maintenance— (i) for the applicant in a case where, by reason of the impairment of the applicant’s earning capacity through age, illness or disability of mind or body, having regard to any resources of the applicant and the respondent respectively which are, or should properly be made, available for the purpose, it is reasonable in all the circumstances to expect the respondent so to provide or contribute; or (ii) for any child of the family to whom this section applies, (2) The Court shall not entertain an application under this section unless it would have jurisdiction to entertain proceedings by the applicant for judicial separation. (3) This section applies to any child of the family for whose maintenance it is reasonable; in all the circumstances to expect the respondent to make a proper contribution. (4) Where the child of the family to whom the application under this section relates is not the child of the respondent , the Court, in deciding— (a) whether the respondent has been guilty of wilful neglect to provide, or to make a proper contribution towards, reasonable maintenance for the child; and (b) what order, if any, to make under this section in favour of the child ; shall have regard to the matters referred to in subsection (5) of section fifty-six. (5) Where on an application under this section it appears to the Court that the applicant or any child of the family to whom the application relates is in immediate need of financial assistance, but it is not yet possible to determine what order, if any, should be made on the application, the Court may make an interim order for maintenance requiring the respondent to make to the applicant until the determination of the application such periodical payments as the Court thinks reasonable. (6) Where on application under this section the applicant satisfies the Court of any ground specified in subsection (1) , the Court may make one or more of the following orders: (a) an order directing the respondent to make such periodical payments to the applicant for such period as the Court may specify in the order; (b) an order directing the respondent to secure to the applicant such periodical payments for such period as the Court may specify in the order; (c) an order directing the respondent to pay to the applicant such lump sum as the Court may specify in the order; (d) an order that the respondent shall make to such person as the Court may specify in the order for the benefit of a child to whom the application relates, or to that child, such periodical payments, for such period, as the Court may specify in the order; (e) an order that the respondent shall secure to such person as the Court may specify in the order for the benefit of that child, or to that child to the satisfaction of the Court, such periodical payments, for such period, as the Court may specify in the order; (e) border that the respondent shall pay to such person as the Court may specify in the order for the benefit of a child, or to that child, such lump sum, is the Court may specify in the order; subject, in the case of an order made under paragraph (d) , (e) or (f) the restrictions imposed by this Act on the making of financial provision orders in favour of children who have attained the age of twenty-one. (7) Without prejudice to paragraphs (e) or (f) of subsection (6) , an order under this section for the payment of a lump sum— (a) may be made for the purpose of enabling any liabilities or expenses reasonably incurred in maintaining the applicant or any child of the family to whom the application relates before the making of the application is met; and (b) may provide for the payment of that sum by instalments of such amount as may be specified in the order and may require the payment of the instalments to be secured to the satisfaction of the Court."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VIII",
+      "section": "59",
+      "title": "Duration of periodic payment orders for party to marriage",
+      "content": "(1) The Court in an order for periodical payments or secured periodical payments order made in favour of a party to a marriage shall specify the term of the order as the Court thinks fit, subject to the following limits: (a) in the case of a periodical payments order, the term shall begin not earlier than the date of the making of an application for the order, and shall be so defined as not to extend beyond the death of either of the parties to the marriage or, where the order is made on or after the grant of a decree of divorce or nullity of marriage, the remarriage of the party in whose favour the order is made; and (b) in the case of a secured periodical payments order, the term shall begin not earlier than the date of the making of an application for the order, and shall be so defined as not to extend beyond the death or, where the order is made on or after the grant of such a decree , the remarriage of the party in whose favour the order is made. (2) Where a periodical payments or secured periodical payments order in favour of a party to a marriage is made otherwise than on or after the grant of a decree of divorce or nullity of marriage, and the marriage in question is subsequently dissolved or annulled but the order continues in force, the order shall notwithstanding anything in it, cease to have effect on the remarriage of that party, except in relation to any arrears due under it on the date of the remarriage. (3) If after the grant of a decree dissolving or annulling a marriage either party to that marriage remarries, that party shall not be entitled to apply, by reference to the grant of that decree , for a financial provision order in the party’s favour, or for a property adjustment order, against the other party to that marriage."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VIII",
+      "section": "60",
+      "title": "Duration of periodical payment orders for children of family",
+      "content": "(1) Subject to subsection (3) , no financial provision order and no order for a transfer of property under paragraph (a) of subsection (1) of section fifty-five shall be made in favour of a child who has attained the age of twenty-one. (2) Subject to subsection (3) the term to be specified in a periodical payments or secured periodical payments order in favour of a child may begin with the date of the making of an application for the order in question or any later date but shall not extend beyond the date of the child’s twenty-first birthday. (3) Subsections (1) and (2) shall not apply in the case of a child who has attained the age of twenty-one but is below the age of twenty-five if it appears to the Court that— (a) the child is, or will be, or if an order were made without complying with those provisions would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not the child is also, or will also be, in gainful employment; or (b) there are special circumstances which justify the making of an order without complying with either or both of those provisions. (4) Any periodical payments order in favour of a child shall, notwithstanding anything in the order, cease to have effect on the death of the person liable to make the payments under the order, except in relation to any arrears due under the order on the date of the death."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VIII",
+      "section": "61",
+      "title": "Preparation of instrument for securing payments by order of Court",
+      "content": "(1) Where the Court decides to make an order requiring any payments to be secured or for a settlement of property— (a) it may direct that the matter be referred to a legal practitioner to draw up the instrument to be executed by all necessary parties; and (b) where the order is to be made on proceedings for divorce, nullity of marriage or judicial separation it may, if it thinks fit, defer the grant of the decree in question until the instrument has been duly executed. (2) the Court may make such order as it thinks just as to the payment of the costs and expenses of and incidental to the preparation of the instrument and its execution."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VIII",
+      "section": "62",
+      "title": "Variation, etc. of orders for financial relief",
+      "content": "(1) Subject to the provisions of this section, where the Court has made an order to which this section applies, the Court shall have power to vary or discharge the order or to suspend any provision thereof temporarily and to revive the operation of any provision so suspended. (2) This section applies to the following orders: (a) any order for maintenance pending suit and any interim order for maintenance; (b) any periodical payments order; (c) any secured periodical payments order; (d) any order made under paragraph (c) of subsection (4) of section fifty-five or paragraph (b) of subsection (7) of section fifty-eight for payment of a lump sum by instalments; (e) any order for a settlement of property under paragraph (b) of subsection (1) of section fifty-five or for a variation of settlement under paragraph (c) or (d) of subsection (1) of section fifty-five, being an order made on or after the grant of a decree of judicial separation. (3) The powers exercisable by the Court under this section in relation to an order shall be exercisable also in relation to any instrument executed in pursuance of the order. (4) The Court shall not exercise the powers conferred by this section in relation to an order for a settlement under paragraph (b) of subsection (1) of section fifty-five or for a variation of settlement under paragraph (c) or (d) of subsection (1) of section fifty-five, except on an application made in proceedings — (a) for the recission of the decree of judicial separation by reference to which the order was made; (b) for the dissolution of the marriage in question. (5) No property adjustment order shall be made on an application for the variation of a periodical payments or secured periodical payments order made, whether in favour of a party to a marriage or in favour of a child of the family, under section fifty-five and no order of the payment of a lump sum shall be made on an application for the variation of a periodical payments or secured periodical payments order in favour of a party to a marriage, whether made under section fifty-five, or under section fifty-eight. (6) Where the person liable to make payments under a secured periodical payments order has died, an application under this section relating to that order may be made by the person entitled to payments under the order or by the personal representatives of the deceased person, but no such application shall, except with the permission of the Court, be made after the end of the period of six months from the date on which representation in regard to the estate of that person is first taken out. (7) In exercising the power is conferred by this section the Court shall have regard to all the circumstances of the case, including any change in any of the matters to which the Court was required to have regard when making the order to which the application relates and, where the party against whom that order was made has died, the changed circumstances resulting in the person’s death. (8) The personal representatives of a deceased person against whom a secured periodical payments order was made shall not be liable for having distributed any part of the estate of the deceased after the expiration of the period of six months referred to in subsection (6) on the ground that they ought to have taken into account the possibility that the Court might permit an application under this section to be made after that period by the person so entitled to payments under the order: but this section shall not prejudice any power to recover any part of the estate so distributed arising by virtue of the making of an order in pursuance of this section. (9) In considering for the purposes of subsection (6) the question when representation was first taken out, a grant limited to settled and or to trust property shall be left out of account unless a grant limited to the remainder of the estate has previously been made or is made at the same time."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VIII",
+      "section": "63",
+      "title": "Payment of certain arrears to be unfavourable without leave of Court",
+      "content": "(1) A person shall hot be entitled to enforce through the Court the payment of any arrears due under an order for maintenance pending suit, an interim order for maintenance or any financial provision order without the leave of the Court if those arrears became due more than twelve months before proceedings to enforce the payment of them are begun, (2) The Court hearing an application for the grant of leave under this section may refuse leave or may grant leave subject to such restrictions and conditions, including conditions as to the allowing of time for payment by instalments, as the Court thinks proper, or may remit the payment of the arrears or of any part thereof; (3) An application for the grant of leave under this section shall be made in such manner as may be prescribed by rules of court."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VIII",
+      "section": "64",
+      "title": "Orders for repayment in certain cases of sums paid under certain orders",
+      "content": "(1) Where on an application made under this section in relation to an order to which this section applies it appears to the Court that by reason of— (a) change in the circumstances of the person entitled to, or liable to make, payments under the order since the order was made; or (b) the changed circumstances resulting from the death of the person so liable; the amount received by the person entitled to payments under the order in respect of a period after those circumstances changed or after the death of the person liable to make payments under the order, as the case may be, exceeds the amount which the person so liable or the person's personal representatives should have been required to pay, the Court may order the respondent to the application to pay to the applicant such sum, not exceeding the amount of the excess, as the Court thinks just. (2) This section applies to the following orders: (a) any order for maintenance pending suit and any interim order for maintenance; (b) any periodical payments order; and (c) any secured periodical payments order. (3) An application under this section may be made by the person liable to make payments under an order to which this section applies or the person's personal representatives and may be made against the person entitled to payments under the order or the person's personal representatives. (4) Any application under this section may be made for— (a) the variation or discharge of the order to which this section applies; or (b) leave to enforce, or the enforcement of, the payment of arrears under that order. (5) An order under this section for the payment of any sum may provide for the payment of that sum by instalments of such amount as may be specified in the order."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VIII",
+      "section": "65",
+      "title": "Maintenance agreement",
+      "content": "(1) If a maintenance agreement includes a provision purporting to restrict any right to apply to the Court for an order containing financial arrangements, then— (a) that provision shall be void; but (b) any other financial arrangements contained in the agreement shall not thereby be rendered void or unenforceable and shall, unless they are void or unenforceable for any other reason and subject to sections sixty-six and sixty-seven, be binding on the parties to the agreement. (2) In this section and in section sixty-six “maintenance agreement” means any agreement in writing made whether before or after the commencement of this Act, between the parties to a marriage, being— (a) an agreement containing financial arrangements, whether made during the continuance or after the dissolution or annulment of the marriage; or (b) a separation agreement which contains no financial arrangements in a case where no other agreement in writing between the same parties contains such arrangements; \"financial arrangements\" means provisions governing the rights and liabilities towards one another when living separately of the parties to a marriage including a marriage which has been dissolved or annulled in respect of the making or securing of payments or the disposition or use of any property, including such rights and liabilities with respect to the maintenance or education of any child , whether or not a child of the family."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VIII",
+      "section": "66",
+      "title": "Alteration of agreements by court during life of parties",
+      "content": "(1) Where a maintenance agreement is for the time being subsisting and each of the parties to the agreement is for the time being either domiciled or resident in Zambia then subject to subsection (3) , either party may apply to the Court for an order under this section. (2) If the Court is satisfied either— (a) that by reason of a change in the circumstances in the light of which any financial arrangements contained in the agreement were made or, as the case may be, financial arrangements were omitted from including a change foreseen by the parties when making the agreement, the agreement shall be altered as to make different, or as the case may be, so as to contain, financial arrangements; or (b) that the agreement does not contain proper financial arrangements with respect to any child of the family; then subject to subsections (3) and (4), the Court may by order make such alterations in the agreement— (i) by varying or revoking any financial arrangements contained in it; or (ii) by inserting in it financial arrangements for the benefit of one of the parties to the agreement or of a child of the family; as may appear to the Court to be just having regard to all the circumstances, including, if relevant, the matter mentioned in subsection (3) of section fifty-six, and the agreement shall have effect thereafter as if any alteration made by the order had been made by agreement between the parties and for valuable consideration. (3) Where the Court decides to alter, by order under this section, an agreement by inserting provision for the making or securing by one of the parties to the agreement of periodical payments for the maintenance of a child of the family or by increasing the rate of of the periodical payments which the agreement provides shall be made or secured by one of the parties for the maintenance of such a child , then, in deciding the term for which under the agreement as altered by the order the payments, or as the case may be, the additional payments attributable to the increase are to be made or secured for the benefit of the child , the Court shall apply the provisions of subsections (2) and (3) of section sixty as to age limits as if the order in question were a periodical payments or secured periodical payments order in favour of the child ."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VIII",
+      "section": "67",
+      "title": "Alteration of agreements by court after death of one party",
+      "content": "(1) Where a maintenance agreement within the meaning of section sixty-five provides for the continuation of payments under the agreement after the death of one of the parties and that party dies domiciled in Zambia, the surviving party or the personal representatives; of the deceased party may, subject to subsections (2) and (3) apply to the Court for an order under section sixty-five (2) An application under this section shall not, except with the permission of the Court, be made after the end of the period of six months from the date on which representation in regard to the estate of the deceased is first taken out. (3) if a maintenance agreement is altered by the Court on an application made under subsection (1) , the like consequences shall ensue as if the alteration had been made immediately before the death by agreement between the parties and for valuable consideration. (4) The provisions of this section shall not render the personal representatives of the deceased liable for having distributed any part of the estate of the deceased after the expiration of the period of six months referred to in subsection (2) on the ground that they ought to have taken into account the possibility that the Court might permit an application under this section to be made by the surviving party after that period, but this subsection shall not prejudice any power to recover any part of the estate so distributed arising from the making of an order in pursuance of this section. (5) Subsection (9) of section sixty-two shall apply for the purposes of subsection (2) as it applies for the purposes of subsection (6) of section sixty-two."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VIII",
+      "section": "68",
+      "title": "Avoidance of transactions intended to prevent or reduce financial relief",
+      "content": "(1) For the purposes of this section \"financial relief\" means relief under any of the provisions of sections fifty-two, fifty-four, fifty-five, fifty-eight and sixty-two except subsection (5) and section sixty-six, and any reference in this section to defeating a person's claim for financial relief is a reference to preventing financial relief from being granted to that person, or to that person for the benefit of a child of the family, or reducing the amount of any financial relief which might be so granted, or frustrating or impending the enforcement of any order which might be or has been made at this instance under any of those provisions. (2) Where proceedings for financial relief are brought by one person against another, the Court may, on the application of the first mentioned person— (a) if it is satisfied that the other party to the proceedings is, with the intention of defeating the claim for financial relief, about to make any disposition or to transfer out of the jurisdiction or otherwise deal with any property, make such order as it thinks fit for restraining the other party from so doing or otherwise for protecting the claim; (b) if it is satisfied that the other party has with that intention, made a reviewable disposition and that if the disposition were set aside financial relief or different financial relief would be granted to the applicant, make an order setting aside the disposition; (c) if it is satisfied, in a case where an order has been obtained under any of the provisions mentioned in subsection (1) by the applicant against the other party, that the other party has with that intention, made a reviewable disposition, make an order setting aside the disposition; and an application for the purposes of paragraph (b) shall be made in the proceedings for the financial relief in question. (3) Where the Court makes an order under paragraphs (b) or (c) of subsection (2) setting aside a disposition it shall give such consequential directions as it thinks fit for giving effect to the order including directions requiring the making of any payments or the disposal of any property. (4) Any disposition made by the other party to the proceedings for financial relief in question whether before or after the commencement of those proceedings is a reviewable disposition for the purposes of paragraphs (b) and (c) of subsection (2) unless it was made for valuable consideration other than marriage to a person who at the time of the disposition, acted in relation to it in good faith and without notice of any intention on the part of the other party to defeat the applicant claim for financial relief. (5) Where an application is made under this section with respect to a disposition which took place less than three years before the date of the application or with respect to a disposition or other dealing with property which is about to take place and the Court is satisfied— (a) in a case falling within paragraphs (a) or (b) of subsection that the disposition or other dealing would, apart from this section, have the consequence; or (b) in a case falling within paragraph (c) subsection (2) , that the disposition has had the consequence; of defeating the applicants claim for financial relief, it shall be presumed, unless the contrary is shown, that the person who disposed of or is about to dispose of or deal with the property did so or, as the case may be, is about to do so, with the intention of defending the applicant’s claim for financial relief. (6) In this section \"disposition\" does not include any provision contained in a will or codicil but, with that exception, includes any conveyance, assurance or gift of property of any description, whether made by an instrument or otherwise."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VIII",
+      "section": "69",
+      "title": "Orders for repayment in certain cases of sums paid after cessation of order on remarriage of party",
+      "content": "(1) Where— (a) a periodical payments or secured periodical payments order in favour of a party to a marriage, in this section referred to as \"a payments order\", has ceased to have effect by reason of the remarriage of that party; and (b) the person liable to make payments under the order or the person's personal representatives made payments in accordance with it in respect of a period after the date of the remarriage in the mistaken belief that the order was still subsisting: the person so liable or the person's personal representatives shall not be entitled to bring proceedings in respect of a cause of action arising out of the circumstances mentioned in paragraphs (a) and (b) against the person entitled to payments under the order or the person's personal representatives, but may instead make an application against that person or the person’s personal representatives under this section. (2) On an application under this section the Court may order the respondent to pay to the applicant a sum equal to the amount of the payments made in respect of the period mentioned in paragraph (b) of subsection (1) or, if it appears to the Court that it would be unjust to make that order, it may either order the respondent or pay to the applicant such lesser sum as it thinks fit or dismiss the application. (3) An application under this section may be made to the Court for leave to enforce or the enforcement of, payment of arrears under the order in question. (4) An Order under this section for the payment of any sum may provide for the payment of that sum by instalments of such amount as may be specified in the order. (5) The collecting officer under an attachment of earnings order made to secure payment under a payments order, shall not be liable— (a) for any act done by the collecting officer in pursuance of the payments order after the date on which that order ceased to have effect by reason of the remarriage of the person entitled to payments under it; or (b) for any act done by the collecting officer after that date in accordance with any enactment or rule of court specifying how payments made to the officer in compliance with the attachment of earnings order are to be dealt with, if the act was one which the officer would have been under a duty to do had the payments order not so ceased to have effect and the act was done before notice in writing of the fact that the person so entitled had remarried was given to the officer by or on behalf of that person, the person liable to make payment under the payments order or the personal representatives of either of those persons. (6) In this section \"collection officer\" in relation to an attachment of earnings order, means the officer of the High Court to whom a person makes payments in compliance with the order."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VIII",
+      "section": "70",
+      "title": "Payment etc. under order made in favour of a person suffering from mental disorder",
+      "content": "Where the Court makes an order under this Part requiring payments, including a lump sum payment to be made, or property to be transferred, to a party to a marriage and the Court is satisfied that the person in whose favour the order is made is incapable, by reason of mental disorder within the meaning of the Mental Disorders Act, of managing and administering the person’s property and affairs then, subject to any order, direction or authority made or given in relation to that person under that Act, the Court may order the payment to be made, or as the case may be, the property to transferred, to such persons having charge of that person as the Court may direct. [Cap. 305] Part IX – Protection and custody of children"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part IX",
+      "section": "71",
+      "title": "Restriction or decrees for dissolution, annulment or separation affecting children",
+      "content": "(1) The Court shall not make absolute a decree of divorce or nullity of marriage, or grant a decree of judicial separation, unless the Court, by order, has declared that it is satisfied— (a) that for the purposes of this section there are no children of the family to whom this section applies; (b) that the only children who are or may be children of the family to whom this section applies are the children named in the order and that— (i) arrangements for the welfare of every child so named have been made and are satisfactory or are the best that can be devised in the circumstances; or (ii) it is impracticable for the party or parties appearing before the Court to make any such arrangements; or (c) that there are circumstances making it desirable that the decree should be made absolute or should be granted, as the case may be, without delay notwithstanding that there are or maybe children of the family to whom this section applies and that the Court is unable to make a declaration in accordance with paragraph (b) . (2) The Court shall not make an order declaring that it is satisfied as mentioned in paragraph (2) of subsection (1) unless it has obtained a satisfactory undertaking from either or both of the parties to bring the question of the arrangements for the children named in the order before the Court within a specified time. (3) If the Court makes absolute a decree of divorce or of nullity of marriage, or grants a decree of judicial separation, without having made an order under subsection (1) the decree shall be void but, if such an order was made, no person shall be entitled to challenge the liability of the decree on the ground that conditions prescribed by subsections (1) and (2) were not fulfilled. (4) If the Court refuses to make an order under subsection (1) in any proceedings for divorce, nullity of marriage or judicial separation, it shall, on an application by either partly to the proceedings , make an order declaring that it is not satisfied as mentioned in that subsection. (5) This section applies to the following children of the family; (a) any child of the family who at the date of the order under subsection (1) is— (i) under the age of twenty-one, or (ii) under the age of twenty-five and is receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not the child is also in gainful employment; and (b) any other child of the family to whom the Court by an order under that subsection directs that this section shall apply; and the Court may give such a direction if it is of the opinion that there are special circumstances which make it desirable in the interest of the child that this section should apply to child . (6) In this section \"welfare\", in relation to a child , includes the custody and education of the child and financial provision for the child ."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part IX",
+      "section": "72",
+      "title": "Orders for custody and education of children in cases of divorce etc. and for the custody in cases of neglect",
+      "content": "(1) The Court may make such order as it thinks fit for the custody and education of any child of the family who is under the age of twenty-five— (a) in any proceedings for divorce, nullity of marriage or judicial separation, before or on granting a decree or at any time thereafter, whether, in the case of a decree of divorce or nullity of marriage, before or after the decree is made absolute; or (b) whore any such proceedings are dismissed after the beginning of the trial, either forthwith or within a reasonable period after the dismissal: and in any case in which the Court has power by virtue of this subsection to make an order in respect of a child it may instead, if it thinks fit, direct that proper proceedings be taken for making the child award of court. (2) Where the Court makes an order under section sixty, the Court shall also have power to make such order as at thinks fit with respect to the custody of any child of the family who is for the time being under the age of twenty-five, but the power conferred by this subsection and any order made in exercise of that power shall have effect only as respects any period when an order is in force under that section and the child is under that age. (3) Where the Court grants or makes absolute a decree of divorce or grants a decree of judicial separation, it may include in the decree a declaration that either party to the marriage in question is unfit to have the custody of the children of the family. (4) Where a decree of divorce or judicial separation contains a declaration referred to in subsection (3) , then, if the party to whom the declaration relates is a parent of any child of the family, that party shall not, on the death of the other parent, be entitled as of right to the custody or the guardianship of that child. (5) Where an order in respect of child is made under this section, the order shall not affect the rights over or with respect to the child of any person, other than many to the marriage in question, unless the child is the child of one or both of the parties to that marriage and that person was a party to the proceedings on the application for an order under this section. (6) The power of the Court under paragraph (a) of subsection (1) or subsection (2) to make an order with respect to a child shall be exercisable from time to time; and where the Court makes an order under paragraph (b) of subsection (1) with respect to a child it may from time to time until that child attains the age of twenty-five make a further order with respect to the child's custody and education. (7) The Court shall have power to vary or discharge an order made under this section or to suspend any provision thereof temporarily and to revive the operation of any provision so suspended."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part IX",
+      "section": "73",
+      "title": "Power to provide for supervision of children",
+      "content": "(1) Where the Court has jurisdiction under this Part to make an order for the custody of a child and it appears to the Court that there are exceptional circumstances making it desirable that the child should be under the supervision of an independent person, the Court may, for any period during which the child is, in exercise of that jurisdiction, committed to the custody of any person, order that the child be under the supervision of an officer appointed under this section as a welfare officer . (2) Where a child is under the supervision of any person in pursuance of this section the jurisdiction possessed by court to vary any financial provision order in the child 's favour or any order made with respect to the child 's custody or education under this Part shall, subject to any rules of court, be exercisable at the instance of the Court itself."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part IX",
+      "section": "74",
+      "title": "Additional jurisdiction in proceeding by a wife",
+      "content": "(1) Without prejudice to any jurisdiction exercisable by the Court apart from this section, the Court shall have jurisdiction to enter proceedings by a wife, notwithstanding that the husband is not domiciled in Zambia— (a) in the case of any proceedings under this Act, other than proceedings under section twenty four or section five to sixty-seven, if— (i) the wife has been deserted by her husband, or (ii) the husband has been deported from the Zambia under the immigration and Deportation Act, and the husband was immediately before the desertion or deportation domiciled in Zambia; [Cap. 123] (b) in the case of proceedings for divorce or nullity of marriage, if the wife is resident in Zambia and has been ordinarily resident there for a period of three years immediately preceding the commencement of the proceedings ."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part IX",
+      "section": "75",
+      "title": "Powers of court in custody etc. proceedings",
+      "content": "(1) In proceedings in which application has been made with respect to the custody, guardianship, welfare, advancement or education of children of a marriage— (a) The Court shall regard the interest of the children as the paramount consideration; and (b) subject to paragraph (a) the Court may make such order in respect of those matters as it Thinks proper. (2) The Court may adjourn any proceedings referred to in subsection (1) until a report has been obtained from a welfare officer or from some other suitable person appointed for this purpose by the Court, on such matters relevant to the proceedings as the Court considers desirable and may receive the report in evidence. (3) In proceedings with respect to the custody of children of a marriage, the Court may, if it is satisfied that its desirable to do so, make an order placing the children, or such of them as it thinks fit, in the custody of a person other than a party to the marriage. (4) Where the Court makes an order placing a child of a marriage in the custody of a party to the marriage, or of a person other than a party to the marriage, it may include in the order such provision as it thinks proper for access to the child by the other party to the marriage, or by the parties or a party to the marriage, as the case may be."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part IX",
+      "section": "76",
+      "title": "Power of court to make orders on dismissal of petition",
+      "content": "(1) Except as provided by this section, the Court shall not make an order under this Part in favour of the petitioner where the petition for the principal relief has been dismissed. (2) Where— (a) the petition for the principal relief has been dismissed after a hearing on the merits; and (b) the Court is satisfied that— (i) the proceedings for the principal relief were instituted in good faith to obtain that relief; and (ii) there is no reasonable likelihood of the parties becoming reconciled; the Court may, if it considers that it is desirable to do so, make an order under this Part in favour of the petitioner . (3) The Court shall not make an order by virtue of subsection (2) unless the proceedings for the order have been heard at the same time as, or immediately after, the proceedings for the principal relief. (4) In this section \"principal relief\" means relief of a kind referred to in paragraph (a) or (b) of the definition of \" matrimonial cause \" in subsection (1) of section two. Part X – Intervention"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part X",
+      "section": "77",
+      "title": "Intervention by Attorney-General on request from Court",
+      "content": "In any proceedings under this Act where the Court requests the Attorney-General to do so, the Attorney General may intervene in contest or argue any question arising in the proceedings ."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part X",
+      "section": "78",
+      "title": "Intervention of Attorney-General in other cases",
+      "content": "In proceedings under this Act for a decree of dissolution or nullity of marriage, judicial separation or in relation to the custody or guardianship of children, where the Attorney-General has reason to believe that there are matters relevant to the proceedings that have not been, or may not be, but ought to be, made known to the Court, the Attorney-General may, at any time before the proceedings are finally disposed of, intervene in the proceedings ."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part X",
+      "section": "79",
+      "title": "Delegation by Attorney-General",
+      "content": "(1) The Attorney-General may either generally or in relation to a matter or class of matters, by writing under the Attorney-General's hand, delegate all or any of the Attorney-General's powers and functions under this Part, except this power of delegation, to the person occupying from time to time, while the delegation is in force, the office of Solicitor-General or to any advocate. (2) A delegation under this section is revocable not will and does not prevent the exercise of a power or the performance of a function by the Attorney-General."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part X",
+      "section": "80",
+      "title": "Interventions by other persons",
+      "content": "(1) In proceedings under this Act for a decree of dissolution or nullity of marriage or judicial reparation or where a person applies to the Court for leave to intervene in the proceedings and the Court is satisfied that the person may be able to prove facts relevant to the proceedings that have not been or may not be, but ought to be, made known to the Court, the Court may, at any time before the proceedings are finally disposed of, make an order entitling that person to intervene in the proceedings . (2) An order under this section may be made upon such conditions as the Court thinks fit, including the giving of security for costs."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part X",
+      "section": "81",
+      "title": "Rescission of decree nisi in consequence of intervention",
+      "content": "Where an intervention takes place under this Part after a decree nisi has been made and it is proved that the petitioner has been guilty of collusion with intent because a perversion of justice or that material facts have not been brought before the Court, the Court may rescind the decree ."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part X",
+      "section": "82",
+      "title": "Proceedings not to be taken to be finally disposed of before decree absolute",
+      "content": "For the purposes of this Part, where a decree nisi has been made in any proceedings , the proceedings shall not be taken to have been finally disposed of until the decree nisi has become absolute."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part X",
+      "section": "83",
+      "title": "Procedure on interventions",
+      "content": "A person intervening under this Part and section forty-five shall be deemed to be a party in the proceedings with all the rights, duties and liabilities of a party. Part XI – Appeals"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part XI",
+      "section": "84",
+      "title": "No appeal after decree absolute",
+      "content": "An appeal does not lie from a decree of dissolution of marriage or nullity of a voidable marriage after the decree has become absolute."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part XI",
+      "section": "85",
+      "title": "Appeals",
+      "content": "(1) A person aggrieved by a decree of the High Court exercising its jurisdiction under this Act may, with in such time as may be prescribed by the rules , appeal from the decree to the Supreme Court . (2) Upon an appeal under this section, the Supreme Court may affirm, reverse or vary the decree appealed against, and may— (a) make such decree as in its opinion should have been made at first instance or on appeal , as the case may be; or (b) order a rehearing at first instance on such terms and conditions, if any, as it thinks fit. Part XII – Recognition foreign decrees"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part XII",
+      "section": "86",
+      "title": "86 Recognition of decrees made outside Zambia",
+      "content": "(1) A dissolution or annulment of marriage effected in accordance with the law of a foreign country shall be recognised as valid in Zambia where, at the date of the institution of the proceedings that resulted in the dissolution or annulment of marriage, the party at whose instance the dissolution or annulment was effected, or if it was effected at the instance of both parties, either of those parties was— (a) In the case of the dissolution of a marriage or the annulment of a voidable marriage, domiciled in that foreign country; or (b) in the case of the annulment of a void marriage, domiciled or resident in that foreign country. (2) For the purposes of subsection (1) — (a) where a dissolution of a marriage was effected in accordance with the law of a foreign country at the instance of a deserted wife who was domiciled in that foreign country either immediately before her marriage or immediately before the desertion, she shall be deemed to have been domiciled in that foreign country at the date of the institution of the proceedings that resulted in the dissolution; and (b) a wife who, at the date of the institution of the proceedings that resulted in a dissolution or annulment of her marriage in accordance with the law of a foreign country, was resident in that foreign country, and had been so resident for a period of three years immediately preceding that date shall be deemed to have been domiciled in that foreign country at that date. (3) A dissolution or annulment of a marriage effected in accordance with the law of a foreign country, not being a dissolution or annulment to which subsection (2) applies, shall be recognised as valid in Zambia if its validity would have been recognised under the law of the foreign country in which, in the case of a dissolution, the parties were domiciled at the date of the dissolution or in which, in the case of an annulment, either party was compiled at the date of annulment. (4) Any dissolution or annulment of a marriage that would be recognised as valid under the common law rules of private international law but to which none of the preceding provisions of this section applies shall be recognised as valid in Zambia and the operation of this subsection shall not be limited by any implication from those provisions. (5) For the purposes of this section, the Court, in considering the validity of a dissolution or annulment effected under the law of a foreign county, may treat as proved any facts found by a court of the foreign country or otherwise established for the purposes of the law of the foreign country. (6) A dissolution or annulment of a marriage shall not be recognised as valid by virtue of subsection (1) or (3) where, under the common law rules of private international law, recognition of its validity would be refused on the ground that a partly to the marriage had been denied natural justice. (7) Subsections (1) to (6) apply in relation to dissolution and annulment effected, whether by decree , legislation or otherwise, before or after the commencement of this Act. (8) In this section \"foreign country\" means in country, or part of a country, outside Zambia. Part XIII – Evidence"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part XIII",
+      "section": "87",
+      "title": "Standard of proof",
+      "content": "(1) For the purposes of this Act, a matter of fact shall be taken to be proved if it is established to the reasonable satisfaction of the Court. (2) Where a provision of this Act requires the Court to be satisfied of the existence of any ground or fact or as to any other matter, it is sufficient if the Court is reasonably satisfied of the existence of that ground or fact or as to that other matter."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part XIII",
+      "section": "88",
+      "title": "Evidence of husbands and wives",
+      "content": "(1) The evidence of a husband or wife shall be admissible in any proceedings to prove that marital intercourse did or did not take place between them during any period. (2) In proceedings for the nullity of marriage, evidence on the question of sexual capacity shall be heard in camera unless in any case the judge is satisfied that in the interests of justice any such evidence ought to be heard in open court."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part XIII",
+      "section": "89",
+      "title": "Evidence as to adultery",
+      "content": "(1) A witness in proceedings under this Act who being a party, voluntarily gives evidence on the witness’ own behalf, or whether the witness is a party or not, is called by a party may be asked, and is bound to answer a question the answer to which may show, or tend to show, adultery by or with the witness where proof of that adultery would be material to the decision of the case. (2) Except as provided by subsection (1) , a witness in proceedings under this Act, whether a party to the proceedings or not, is not liable to be asked or bound to answer, a question the answer to which may show, or lend to show, that the witness has committed adultery."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part XIII",
+      "section": "90",
+      "title": "Proof of marriage, etc.",
+      "content": "In proceedings under this Act, the Court may receive as evidence of the facts stated in it a document purporting to be either the original or certified copy of a certificate, entry or record of a birth, death or marriage alleged to have taken place whether in Zambia or elsewhere."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part XIII",
+      "section": "91",
+      "title": "Conviction for crimes to be evidence",
+      "content": "(1) In any proceedings under this Act, evidence that a party to a marriage has been convicted, whether in Zambia or elsewhere, of a crime is evidence that the party did the acts or things constituting the crime. (2) In proceedings under this Act, a certificate of the conviction of a person of a crime by a court in Zambia or a court of any part of the Commonwealth, being a certificate purporting to be signed by the Registrar or other proper officer of that court, is evidence of the fact of the conviction and of any particulars of the crime or of the conviction, including the date on which the crime was committed, and of any sentence of imprisonment imposed, that are included in the certificate. Part XIV – Enforcment of decrees"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part XIV",
+      "section": "92",
+      "title": "Attachment",
+      "content": "(1) Subject to the rules , the Court may enforce by attachment or by sequestration an order made under this Act for payment of maintenance or costs or in respect of the custody of, or access to, children. (2) The Court shall order the release from custody of a person who has been attached under this section upon being satisfied that the person has complied with the order in respect of which the person was attached and may, at any time, if the Court is satisfied that it is just and equitable to do so, order the release of such a person notwithstanding that the person has not complied with that order. (3) Where a person who has been attached under this section in consequence of the person’s failure to comply with an order for the payment of maintenance or costs becomes a bankrupt, the person shall not be kept in custody under the attachment longer than six months after the person becomes a bankrupt unless the Court otherwise orders."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part XIV",
+      "section": "93",
+      "title": "Recovery of money as judgement debt",
+      "content": "(1) Where a decree made under this Act orders the payment of money to a person, any moneys payable under the decree may be recovered as a judgment debt in a court of competent jurisdiction. (2) A decree made under this Act may be enforced by leave of the Court and on such terms and conditions as the Court thinks fit, against the estate of a party after the party's death."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part XIV",
+      "section": "94",
+      "title": "Summary of enforcement of orders for maintenance",
+      "content": "Without prejudice to any power relating to enforcement of decrees exercisable under this Act apart from this section, an order for payment made for maintenance made under this Act shall be deemed to be a maintenance order for the purposes of the Maintenance Orders Act, and may be enforced under the Maintenance Orders (Enforcement) Act [Cap. 56; Cap. 55]"
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part XIV",
+      "section": "95",
+      "title": "Enforcement by other means",
+      "content": "Subject to this Act, the rules may make provision for the enforcement of decrees made under this Act by means other than those specified in the preceding provisions of this Part."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part XIV",
+      "section": "96",
+      "title": "Enforcement of existing decrees",
+      "content": "A decree made in a matrimonial cause before the commencement of this Act may be enforced— (a) in the manner in which it could be enforced if this Act had not been passed; or (b) subject to the rules , in the manner in which a like decree made under this Act may be enforced. Part XV – General provisions"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part XV",
+      "section": "97",
+      "title": "Institution of proceedings",
+      "content": "(1) Subject to subsection (2) , a matrimonial cause of a kind referred to in paragraph (a) or (b) of the definition of \" matrimonial cause \" in subsection (1) of section two of this Act shall be instituted by petition . (2) A respondent may in the answer to the petition seek any decree or declaration that the respondent could have sought in a petition or any relief referred to in paragraph (c) of the definition of \" matrimonial cause \" contained in subsection (1) of section two. (3) Proceedings of a kind referred to in paragraph (c) of the definition of \" matrimonial cause \" in subsection (1) of section two that are in relation to proceedings under this Act for a decree or declaration of a kind referred to in paragraph (a) or (b) of that definition— (a) may he instituted by the same petition as that by which the proceedings for that decree or declaration are instituted; and (b) except as permitted by the rules or by leave of the Court, shall not be instituted in any other manner. (4) The Court shall, so far as is practicable, hear and determine at the same time all proceedings instituted by the one petition ."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part XV",
+      "section": "98",
+      "title": "Duty of Court",
+      "content": "Except as provided by this Act, the Court, upon being satisfied of the existence of any ground in respect of which relief is sought, shall make the appropriate decree ."
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part XV",
+      "section": "99",
+      "title": "Hearing to be in open court",
+      "content": "(1) Except to the extent to which the rules make provision for proceedings or part of proceedings to be heard in chambers, the jurisdiction under this Act of the Court shall, subject to subsection (2) , be exercised in open court. (2) Where, in proceedings under this Act, the Court is satisfied that there are special circumstances that make it desirable in the interests of the proper administration of justice, that the proceedings , or any part of the proceedings , should not be heard in open court, it may order that any persons, not being parties to the proceedings or their advocates, shall be excluded during the hearing of the proceedings or any part of the proceedings , as the case may be."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part XV",
+      "section": "100",
+      "title": "Restriction on publication of evidence",
+      "content": "(1) Except as provided by this section, a person shall not, in relation to any proceedings under this Act, print or publish, or cause to be printed or published, any account of evidence in the proceedings , or any other account or particulars of the proceedings other than— (a) the names, addresses and occupations of the parties and witnesses, and the name or names of the judge constituting the Court and of the advocates; (b) a concise statement of the nature and grounds of the proceedings and of the charges, defences and counter charges, in support of which evidence has been given; (c) submissions on any points of law arising in the course of the proceedings , and the decision of the Court on those points; or (d) the judgment of the Court and observations made by the Court in giving judgment. (2) The Court may, if thinks fit in any particular proceedings , order that the matters referred to in paragraphs (a) , (b) , (c) and (d) of subsection (1) or any of them, shall not be printed or published. (3) A person who contravenes subsection (1) , or prints or publishes, or causes to be printed or published, any matter, or part of a matter, in contravention of an order of a court under subsection (2) , commits an offense and is liable, upon conviction, to a fine not exceeding fifty thousand penalty units or to imprisonment for a term not exceeding twelve months or to both."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part XV",
+      "section": "101",
+      "title": "Injunctions",
+      "content": "(1) Without prejudice to any other powers of the Court, the Court may, upon application made by either party to the marriage whether or not an application has been made by either party for any other relief under this Act, grant an injunction or other order, as the case may be— (a) for the personal protection of a party to the marriage or of any child of the marriage; (b) restraining a party to the marriage from entering or remaining in the matrimonial home or the premises in which the other party to the marriage resides, or restraining a party to the marriage from entering or remaining in a specified area, being an area in which the matrimonial home is, or which is the location of the premises in which the other party to the marriage resides; (2) In exercising its powers under subsection (1) , the Court may make an order relieving a party to a marriage from any obligation to perform marital services or render conjugal rights. (3) If the Court is satisfied that a person has knowingly and without reasonable cause contravened or failed to comply with an injunction or other order under this section, then, without prejudice to the power of the Court to punish that person for contempt, the Court may— (a) order that person to pay a fine not exceeding two hundred thousand penalty units; (b) require that person to enter into a recognizance, with or without sureties, in such amount as the Court considers reasonable to ensure that such person will comply with the injunction or other order, or order that person to be imprisoned until the person enters into such recognizance or until the expiration or three months, whichever list occurs; (c) order that person to deliver up to the Court such documents as the Court thinks fit; or (d) make such other orders as the Court considers necessary to enforce compliance with the injunction or other order, (4) (1) The Court exercising jurisdiction under this Act may grant an injunction, by interlocutory order or otherwise, including an injunction in aid of the enforcement of a decree , in any case in which it appears to the Court to be just or convenient to do so, either unconditionally or upon such terms and conditions as the Court thinks just."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part XV",
+      "section": "102",
+      "title": "Costs",
+      "content": "In proceedings under this Act, the Court may, subject to the rules , make such orders as to costs and security for costs, whether by way of interlocutory order or otherwise, as the Court thinks just."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part XV",
+      "section": "103",
+      "title": "Frivolous or vexatious proceedings",
+      "content": "(1) The Court may, at any stage of proceedings under this Act, if it is satisfied that the proceedings are frivolous or vexatious, dismiss the proceedings . (2) The Court may, at any stage of proceedings under this Act, if it is satisfied that the allegations made in respect of a party to the proceedings are frivolous or vexatious, order that party be dismissed from the proceedings ."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part XV",
+      "section": "104",
+      "title": "Rules",
+      "content": "(1) The Chief Justice may, by statutory instrument, make rules for or in relation to the practice and procedure of the High Court in its exercise of jurisdiction under this Act, (2) The rules of court referred to in subsection (1) may be made for the purposes of— (a) for regulating and prescribing the practice and procedure of the Court in matrimonial causes and any matters incidental to or relating to any such practice and procedure including the manner in which, and the time within which, any applications under the provisions of this Act are to be made to the Court; (b) prescribing matters relating to the costs of proceedings and the assessment or taxation of those costs; (c) prescribing the forms and petitions to be used in connection with any cause or matter before the Court and the fees to be charged in respect of proceedings under this Act; (d) referring claims or applications for or relating to the custody of children or maintenance or any other matter before the Court to a welfare officer or other suitable person for investigation, report and recommendation; (e) providing, in appropriate cases, for legal aid, for parties before the Court and the remission of court fees; (f) providing for the manner of service of any document requiring to be served or for the manner of dispensing with such service; and (g) for resulting or prescribing any other matter which is to"
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part XV",
+      "section": "105",
+      "title": "Divorce and matrimonial proceedings commenced before commencement of this Act",
+      "content": "A petition for divorce, nullity of avoid or voidable marriage or judicial separation which was filed in the High Court and which was not concluded or is pending at the commencement of this Act shall be heard and determined in accordance with the provisions in this Act. Schedule (Section 27 and 28) Prohibited decrees of cohabitant and affinity Marriage of a man is prohibited if the woman is, or has been that man's— Consanguinity Affinity Ancestress Wife's mother Descendant Wife's grandmother Sister Wife's daughter Father's sister Wife's son's daughter Mother's sister Wife's daughter's daughter Brother’s daughter Father's wife Sister's daughter Grandfather's wife Son's wife Son's son's wife Daughter's son's wife Marriage of a woman is prohibited if the man is, or has been that woman's— Consanguinity Affinity Ancestor Husband's Father Descendant Husband's grandfather Brother Husband's son Father's brother Husband’s son's son Mother's brother Husband’s daughter's son Brother's son Grandmother's husband Sister's son Grandmother's husband Daughter's husband Son's daughter's husband Daughter's daughter's husband History of this document 16 August 2024 this version Amended by Matrimonial Causes (Amendment) Act, 2024 12 September 2007 Published in Government Gazette Commenced Read this version 06 September 2007 Assented to Related documents Is amended by Matrimonial Causes (Amendment) Act, 2024 [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appeal",
+      "definition": "an application for rehearing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "assigned to the word in the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cross-petition",
+      "definition": "an answer in which the respondent to a petition seeks a decree or declaration of a kind referred to in paragraph (a) or (b) of the definition of \" matrimonial cause \" in this subsection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "decree",
+      "definition": "decree, judgment or order, and includes a decree nisi and an order dismissing a petition or application or refusing to make a decree or order",
+      "source_provision": "s2"
+    },
+    {
+      "term": "High Court",
+      "definition": "the High Court for Zambia established by Article 94 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "petition",
+      "definition": "a cross-petition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "petitioner",
+      "definition": "a cross-petitioner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proceedings",
+      "definition": "cross-proceedings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "respondent",
+      "definition": "a petitioner against whom there is a cross-petition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rules",
+      "definition": "the rules made under section one hundred and four",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Supreme Court",
+      "definition": "the Supreme Court of Zambia established by Article 92 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "welfare officer",
+      "definition": "any Social Welfare Officer employed in the public service. (2) For the purposes of this Act, the date of a petition shall be taken to be the date on which the petition was filed in the registry of the High Court .",
+      "source_provision": "s2"
+    },
+    {
+      "term": "marriage",
+      "definition": "a purported marriage that is void or has been declared to be such.",
+      "source_provision": "s51"
+    }
+  ]
+}

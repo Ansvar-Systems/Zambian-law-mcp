@@ -1,0 +1,44 @@
+{
+  "id": "zm-act-1974-2",
+  "type": "statute",
+  "title": "Gaming Machines (Prohibition) Act, 1974",
+  "title_en": "Gaming Machines (Prohibition) Act, 1974",
+  "short_name": "Gaming Machines (Prohibitio...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1974/2/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Gaming Machines (Prohibition) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless context otherwise requires— \" gaming machine \" means a machine for playing a game of chance, being a game which requires no action by any player other than the actuation or manipulation of the machine."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Penalty for keeping gaming machine for the purpose of gaming",
+      "content": "(1) Any person who, not being the holder of a casino licence under the Casino Act— (a) keeps; or (b) allows to be kept; on any premises a gaming machine for the purpose of gaming shall be guilty of an offence and liable to a fine not exceeding ten thousand penalty units or to imprisonment for a period not exceeding one year, or to both. (2) When any person is convicted of an offence under the provisions of sub-section (1), the court by which he is convicted shall, in addition to any fine or imprisonment imposed under subsection (1), order the forfeiture to the Government of the gaming machine which was the subject-matter of the offence. [As amended by Act No. 13 of 1994 ] [ Cap. 157 ]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Repeal of Cap. 431 of the 1971 edition",
+      "content": "The Gaming Machine Act is hereby repealed. History of this document 31 December 1996 this version Consolidation 22 February 1974 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "gaming machine",
+      "definition": "a machine for playing a game of chance, being a game which requires no action by any player other than the actuation or manipulation of the machine.",
+      "source_provision": "s2"
+    }
+  ]
+}

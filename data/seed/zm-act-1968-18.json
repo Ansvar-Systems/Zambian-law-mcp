@@ -1,0 +1,43 @@
+{
+  "id": "zm-act-1968-18",
+  "type": "statute",
+  "title": "Calculation of Taxes (Consequential Provisions) Act, 1968",
+  "title_en": "Calculation of Taxes (Consequential Provisions) Act, 1968",
+  "short_name": "Calculation of Taxes (Conse...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1968/18/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "This Act may be cited as the Calculation of Taxes (Consequential Provisions) Act, shall be deemed to have come into operation on the 16th January, 1968, and shall be read as one with the Taxation law."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \"Taxation law\" means the law of the Republic or the former Protectorate of Northern Rhodesia or the former Federation of Rhodesia and Nyasaland relating to taxation of incomes and profits which is in force or has effect in the Republic in relation to the year of assessment or charge year in respect of which tax is calculated and computed in pursuance of section three; \"tax\" means any tax as defined in the Taxation law and includes any interest or addition for non-payment of tax payable under the Taxation law in respect of unpaid tax."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Calculation and computation of tax",
+      "content": "Any tax chargeable, leviable or collectable in respect of any year of assessment or charge year prior to and including the charge year ending on the 31st March, 1968, shall be calculated and computed in kwacha and ngwee in pursuance of the Bank of Zambia Act, save that where a rate of tax referred to in the Taxation law relating to the year of assessment or charge year in question includes an amount of money which, prior to the 16th January, 1968, was expressed or determined in pence, the amount of tax shall be calculated and computed on the basis that each penny included in that rate of tax is equal to five-sixths of an ngwee. [ Cap. 360 ] History of this document 31 December 1996 this version Consolidation 16 January 1968 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Taxation law",
+      "definition": "the law of the Republic or the former Protectorate of Northern Rhodesia or the former Federation of Rhodesia and Nyasaland relating to taxation of incomes and profits which is in force or has effect in the Republic in relation to the year of assessment or charge year in respect of which tax is calculated and computed in pursuance of section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tax",
+      "definition": "any tax as defined in the Taxation law and includes any interest or addition for non-payment of tax payable under the Taxation law in respect of unpaid tax.",
+      "source_provision": "s2"
+    }
+  ]
+}

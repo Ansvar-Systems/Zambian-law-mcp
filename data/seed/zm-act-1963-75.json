@@ -1,0 +1,50 @@
+{
+  "id": "zm-act-1963-75",
+  "type": "statute",
+  "title": "International Bank Loan Act, 1963",
+  "title_en": "International Bank Loan Act, 1963",
+  "short_name": "International Bank Loan Act...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1963/75/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the International Bank Loan Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, the expression \"the loan\" means the loan made by the International Bank for Reconstruction and Development to the former Federation of Rhodesia and Nyasaland in an aggregate principal amount equivalent to nineteen million dollars pursuant to a loan agreement dated the 16th June, 1958, between the former Federation of Rhodesia and Nyasaland and the International Bank of Reconstruction and Development."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Assumption by Government of liability for one-half of loan",
+      "content": "The Government hereby assumes one-half of the obligation of the former Federation of Rhodesia and Nyasaland to pay principal, interest and other charges and premium, if any, in respect of the loan."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Sums borrowed and interest and other charges and premium, if any, charged on and payable out of general revenues and assets",
+      "content": "(1) One-half of the principal, interest and other charges and premium, if any, in respect of the loan are hereby charged on and shall be payable out of the general revenues and assets of the Republic. (2) The Minister shall repay out of the general revenues and assets of the Republic, which are hereby appropriated for the purpose, such sum or sums as may be necessary for meeting the obligation assumed under section three. [As amended by S.I. No. 159 of 1965]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to issue instruments, including bonds",
+      "content": "Notwithstanding anything contained in any other written law, the Government is hereby authorised to issue such instruments, including bonds, as may be necessary for the purpose of any agreement which may have been entered into or may after the commencement of this Act be entered into by the Government with the International Bank for Reconstruction and Development in respect of the obligation assumed under section three. History of this document 31 December 1996 this version Consolidation 01 January 1964 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the loan",
+      "definition": "the loan made by the International Bank for Reconstruction and Development to the former Federation of Rhodesia and Nyasaland in an aggregate principal amount equivalent to nineteen million dollars pursuant to a loan agreement dated the 16th June, 1958, between the former Federation of Rhodesia and Nyasaland and the International Bank of Reconstruction and Development.",
+      "source_provision": "s2"
+    }
+  ]
+}

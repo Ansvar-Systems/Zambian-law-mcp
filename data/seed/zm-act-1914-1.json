@@ -1,0 +1,50 @@
+{
+  "id": "zm-act-1914-1",
+  "type": "statute",
+  "title": "Authentication of Documents Act, 1914",
+  "title_en": "Authentication of Documents Act, 1914",
+  "short_name": "Authentication of Documents...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1914/1/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Authentication of Documents Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" authentication \", when applied to a document , means the verification of any signature thereon; \" document \" means any deed, contract, power of attorney, affidavit, or other writing, but does not include an affidavit sworn before a Commissioner of the High Court. [As amended by S.I. No. 72 of 1964]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "How documents executed outside Zambia are to be authenticated",
+      "content": "Any document executed outside Zambia shall be deemed to be sufficiently authenticated for the purpose of use in Zambia if— (a) in the case of a document executed in Great Britain or Ireland it be duly authenticated by a notary public under his signature and seal of office; (b) in the case of a document executed in any part of Her Britannic Majesty's dominions outside the United Kingdom it be duly authenticated by the signature and seal of office of the mayor of any town or of a notary public or of the permanent head of any Government Department in any such part of Her Britannic Majesty's dominions; (c) in the case of document executed in any of Her Britannic Majesty's territories or protectorates in Africa it be duly authenticated by the signature and seal of office of any notary, magistrate, permanent head of a Government Department, Resident Commissioner or Assistant Commissioner in or of any such territory or protectorate; (d) in the case of a document executed in any place outside Her Britannic Majesty's dominions (hereinafter referred to as a \"foreign place\") it be duly authenticated by the signature and seal of office— (i) of a British Consul-General, Consul or Vice-Consul in such foreign place; or (ii) of any Secretary of State, Under-Secretary of State, Governor, Colonial Secretary, or of any other person in such foreign place who shall be shown by the certificate of a Consul or Vice-Consul of such foreign place in Zambia to be duly authorised under the law of such foreign place to authenticate such document . [As amended by No. 42 of 1957; G.N. No. 222 of 1964 and S.I. No. 72 of 1964]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Authentication by magistrate in Her Britannic Majesty's dominions",
+      "content": "Notwithstanding anything in the last preceding section contained, it shall be sufficient authentication of a document executed in any part of Her Britannic Majesty's dominions for use in Zambia which affects or relates to property not exceeding in value or amount four hundred kwacha if there be appended to or endorsed on such document a statement signed by a magistrate of the part of Her Britannic Majesty's dominions in which such document is executed— (a) that the person executing such document is a person known to him; or (b) that two other persons known to him have severally testified before him that the person executing such document is a person known to each of them. [As amended by S.I. No. 72 of 1964]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Saving as to affidavit sworn before a Commissioner of the High Court",
+      "content": "An affidavit sworn before and attested by a Commissioner of the High Court beyond the confines of Zambia shall require no further authentication and may be used in all cases and matters in which affidavits are admissible as freely as if it had been duly made and sworn to within Zambia. [As amended by S.I. No. 72 of 1964] History of this document 31 December 1996 this version Consolidation 21 February 1914 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "document",
+      "definition": "any deed, contract, power of attorney, affidavit, or other writing, but does not include an affidavit sworn before a Commissioner of the High Court. [As amended by S.I. No. 72 of 1964]",
+      "source_provision": "s2"
+    }
+  ]
+}

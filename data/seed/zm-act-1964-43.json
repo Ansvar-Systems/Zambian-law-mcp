@@ -1,0 +1,81 @@
+{
+  "id": "zm-act-1964-43",
+  "type": "statute",
+  "title": "Emergency Powers Act, 1964",
+  "title_en": "Emergency Powers Act, 1964",
+  "short_name": "Emergency Powers Act, 1964",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1964/43/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Emergency Powers Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" the Constitution \" means the Constitution of the Republic ; [Cap. 1] \" emergency proclamation \" means a proclamation under the Constitution declaring that a state of public emergency exists; \" emergency regulations \" means regulations made under section three; \" enactment \" means an instrument having the force of law other than the Constitution and this Act; \" the President \" means the President of the Republic ; \" the Republic \" means the Republic of Zambia."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Emergency regulations",
+      "content": "(1) Whenever an emergency proclamation is in force the President may, by statutory instrument, make such regulations as appear to him to be necessary or expedient for securing the public safety, the defence of the Republic , the maintenance of public order and the suppression of mutiny, rebellion and riot, and for maintaining supplies and services essential to the life of the community. (2) Without prejudice to the generality of the powers conferred by subsection (1), emergency regulations may so far as appears to the President to be necessary or expedient for any of the purposes mentioned in that subsection— (a) make provision for the detention of persons or the restriction of their movements, and for the deportation and exclusion from the Republic of persons who are not citizens of Zambia; (b) authorise— (i) the taking of possession or control on behalf of the Republic of any property or undertaking; (ii) the acquisition on behalf of the Republic of any property other than land; (c) authorise the entering and search of any premises; (d) provide for amending any enactment , for suspending the operation of any enactment , and for applying any enactment with or without modification; (e) provide for charging, in respect of the grant or issue of any license, permit, certificate or other document for the purposes of the regulations, such fee as may be prescribed by or under the regulations; (f) provide for payment of compensation and remuneration to persons affected by the regulations; (g) provide for the apprehension, trial and punishment of persons offending against the regulations: Provided that nothing in this paragraph shall authorise the making of provision for the trial of persons by military courts. (3) Emergency regulations may provide for empowering such authorities or persons as may be specified in the regulations to make orders and rules for any of the purposes for which such regulations are authorised by this Act to be made, and may contain such incidental and supplementary provisions as appear to the President to be necessary or expedient for the purposes of the regulations. (4) Emergency regulations shall specify the area to which they apply, and may contain provision for the exclusion of persons from the area so specified if it consists of only a part of the Republic ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Repugnancy with other enactments",
+      "content": "Emergency regulations and any orders or rules made in pursuance of emergency regulations shall have effect notwithstanding anything inconsistent therewith contained in any enactment ; and any provision of an enactment which may be inconsistent with any emergency regulation or any such order or rule shall, whether or not that provision has been amended, modified or suspended in its operation under section three, to the extent of such inconsistency have no effect so long as such regulation, order or rule remains in force."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Duration, etc., of emergency regulations",
+      "content": "(1) All emergency regulations , if not sooner revoked, shall cease to have effect when the emergency proclamation in pursuance of which they have been made ceases to have effect. (2) No emergency regulations shall have effect— (a) during a period when an emergency proclamation is in force by virtue of having been approved by a resolution of the National Assembly under the Constitution ; (b) during a period when an emergency proclamation is in force by virtue of having been extended by a resolution of the National Assembly under the Constitution ; unless the National Assembly has, by a like resolution in such case, affirmed that those regulations shall have effect during that period."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Proof of documents",
+      "content": "Every document purporting to be an instrument made or issued by the President or other authority or person, shall be received in evidence, and shall, until the contrary is proved, be deemed to be an instrument made or issued by the President or that authority or person. History of this document 31 December 1996 this version Consolidation 24 October 1964 Commenced Related documents Subsidiary legislation Title Emergency Regulations, 1993 Statutory Instrument 37 of 1993 Emergency (Essential Supplies and Services) Regulations, 1988 Statutory Instrument 38 of 1988 [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Constitution",
+      "definition": "the Constitution of the Republic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency proclamation",
+      "definition": "a proclamation under the Constitution declaring that a state of public emergency exists",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency regulations",
+      "definition": "regulations made under section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enactment",
+      "definition": "an instrument having the force of law other than the Constitution and this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the President",
+      "definition": "the President of the Republic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the Republic",
+      "definition": "the Republic of Zambia.",
+      "source_provision": "s2"
+    }
+  ]
+}

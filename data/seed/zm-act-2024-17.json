@@ -1,0 +1,898 @@
+{
+  "id": "zm-act-2024-17",
+  "type": "statute",
+  "title": "Health Professions Act, 2024",
+  "title_en": "Health Professions Act, 2024",
+  "short_name": "Health Professions Act, 2024",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/2024/17/eng@2024-12-26",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Health Professions Act, 2024."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" accreditation \" means a process of assessing the quality of a service to ensure that the service meets the required standard; \" approved supervisor \" means a health practitioner fully registered for at least three years, of the same community of practice with the supervised person; \" associate \" has the meaning assigned to the word in the Anti­-Corruption Act, 2012; [ Act No. 3 of 2012 ] \" Board \" means the Board of the Council constituted under section 5 ; \" certificate of accreditation \" means a certificate issued under section 54 to provide health care service; \" certificate of approval \" means a certificate issued to a continuous professional development programme provider under Part V ; \" certificate of registration \" means a provisional registration, temporary registration, full registration, specialist registration and limited registration issued at the relevant provisions of this Act; \" Chairperson \" means the person appointed as Chairperson under section 5 ; \" Code of Ethics \" means the code of professional conduct adopted and published by the Council under section 65 ; \" community of practice \" means a group of health practitioners who share a common interest or expertise, within a specified field of practice regardless of the differences in the scope of practice ; \" Council \" means the Health Professions Council of Zambia continued under section 3 ; \" Disciplinary Committee \" means the Disciplinary Committee constituted under section 73 ; \" emergency medical care \" means the rescue evaluation, treatment and care of an illness or injured person in an emergency situation and the continuation of treatment and care during the transportation of that person to, or between, health facilities; \" Emoluments Commission \" means the Emoluments Commission established by the Constitution; [ Cap. 1 ] \" financial year \" means a period from 1st January to 31st December in each year; \" health care service \" means a service provided by a health practitioner or health facility for the prevention, diagnosis, treatment and management of an illness and the preservation of mental and physical wellbeing and includes the provision of telemedicine, emergency medical care and medical services outside a health facility ; \" health facility \" means a site, fixed or mobile, that provides services for the prevention, diagnosis and treatment of disease or illness and includes a diagnostic centre, a hospice and a hospital ; \" health practitioner \" means a person registered as a health practitioner under section 9 ; \" health profession \" means a profession as may be prescribed whose membership is required to be registered under this Act; \" health professional \" means a health practitioner , a trainee and a graduate of a health learning programme ; \" higher education \" has the meaning assigned to the words in the Higher Education Act, 2013; [ Act No. 4 of 2013 ] \" Higher Education Authority \" has the meaning assigned to the words in the Higher Education Act, 2013; [ Act No. 4 of 2013 ] \" higher education institution \" has the meaning assigned to the words in the Higher Education Act, 2013; [ Act No. 4 of 2013 ] \" hospice \" means a place where a sick or terminally ill person receives medical, nursing, nutritional, psychological and spiritual care; \" hospital \" means a health institution providing in patient health care service under the supervision of a medical doctor, which includes the provision of the following health services: (a) medicine; (b) surgery; (c) obstetrics and gynaecology; or (d) paediatrics; \" imminent harm \" includes— (a) improper stocking or dispensing of expired drugs; (b) engaging unlicensed practitioners; (c) stocking or using expired reagents; (d) offering health care services beyond licensed scope; or (e) any other circumstance as the Council may consider necessary; \" inspector \" means a person appointed as an inspector under section 80 ; \" internship \" means a period of supervised practice for a health practitioner registered on provisional or temporary registration undertaken at an approved internship site ; \" internship site \" means a health facility that offers internship ; \" internship site certificate \" means a certificate issued under section 59 to offer internship training for health practitioners; \" learning programme \" has the meaning assigned to the words in the Higher Education Act, 2013, and includes internship and continuing professional development; [ Act No. 4 of 2013 ] \" legally disqualified \" means the absence of legal capacity as provided under section 4 of the Mental Health Act, 2019; [ Act No. 6 of 2019 ] \" licence \" means a licence issued by the Council under section 41 ; \" licensure examinations \" means examinations administered by the Council under section 29 ; \" peer \" means a member of the same health profession with similar specialisation and an equivalent number of years of practice; \" premises \" has the meaning assigned to the word in the Public Health Act; [ Cap. 295 ] \" practising certificate \" means a certificate issued to a health practitioner under section 20 ; \" quality assurance information \" means information from a medical record showing the nature of diagnosis and treatment given to a patient, without identifying the patient; \" register \" means the register referred to under section 85 ; \" Registrar \" means the person appointed as Registrar under section 7 ; \" relative \" has the meaning assigned to the word in the Anti-Corruption Act, 2012; [ Act No. 3 of 2012 ] \" repealed Act \" means the Health Professions Act, 2009, repealed under section 94 ; [ Act No. 24 of 2009 ] \" specialist \" means a person registered as a specialist under section 12 ; \" scope of practice \" means the limit of practice within which a health practitioner is allowed to perform and the conditions under which the health practitioner is allowed to practice; \" trainee \" means a person receiving knowledge, skill or competence in a health learning programme and is required to interact with patients or patients’ samples; and \" Zambia Qualifications Authority \" has the meaning assigned to the words in the Zambia Qualifications Authority Act, 2011. [ Act No. 13 of 2011 ] Part II – The Health Professions Council of Zambia"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Continuation of Health Professions Council of Zambia",
+      "content": "The Health Professions Council of Zambia established under the repealed Act is continued as if established under this Act as a body corporate with perpetual succession and a common seal, capable of suing and being sued in its corporate name and with power, subject to the provisions of this Act, to do all acts and things that a body corporate may, by law, do or perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Functions of Council",
+      "content": "(1) The functions of the Council are to— (a) register health professionals; (b) regulate the professional practice and conduct of health professionals; (c) maintain appropriate practice standards among health professionals that are consistent with the principle of self-regulation and the promotion of high standards of public health; (d) approve curriculum for health learning programmes as prescribed for purposes of accreditation by the Higher Education Authority; (e) administer licensure examinations ; (f) promote the integrity, and enhance the status, of the health profession ; (g) licence public and private health facilities; (h) monitor the quality of health care services; (i) represent, coordinate and develop the health profession and promote its interests; (j) develop, promote and enforce internationally comparable practice standards in the Republic; (k) investigate, hear and determine allegations of professional misconduct and impose sanctions as may be necessary; (l) protect and safeguard the public in all matters relating to the practice of the health profession ; (m) approve internship sites and continuous professional development programmes for health practitioners; (n) provide continuous professional development to health practitioners; (o) accredit health care services; (p) promote public awareness in matters relating to the health profession ; (q) promote awareness among health practitioners in matters relating to the education, practice and regulation of the health profession ; (r) collaborate with higher education institutions, Government departments and other institutions to improve the quality of the health profession ; and (s) advise the Minister on matters relating to the health profession . (2) The Council may determine— (a) the fees payable for an inspection conducted or other services rendered for the purposes of this Act; and (b) what portion of any fee is payable in respect of any part of a year and the date on which the fee or portion of the fee is payable."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Constitution of Board",
+      "content": "(1) There is constituted the Board of the Council consisting of the following part-time members appointed by the Minister: (a) a representative of the Ministry responsible for health; (b) a representative of the Attorney-General; (c) a representative of the Zambia Medical Association; (d) a representative of the Zambia Medicines Regulatory Authority; (e) a dean of a faculty training health professionals at a recognised higher education institution ; (f) a representative of the Churches Health Association of Zambia; (g) a representative of the Pharmaceutical Society of Zambia; (h) one member of the public who is distinguished in the service of the health profession ; and (i) one member of the private sector association who is distinguished in the service of the health profession . (2) The Ministry, institutions and organisations referred to in subsection (1)(a) to (g) shall nominate their representatives for appointment by the Minister. (3) The Minister shall appoint the Chairperson of the Board from among the members. (4) The members shall elect the Vice- Chairperson from among themselves. (5) A person shall not be nominated or appointed as a member of the Board if that person— (a) is an undischarged bankrupt; (b) has been convicted of an offence involving fraud or dishonesty under any written law; (c) has been convicted of an offence under this Act or any other written law and sentenced to imprisonment for a term exceeding six months without an option of a fine; (d) has been found guilty of professional misconduct; (e) is legally disqualified ; or (f) is an employee of the Council . (6) The First Schedule applies to the Board ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Functions of Board",
+      "content": "(1) Subject to the other provisions of this Act, the Board shall perform the functions of the Council and provide strategic policy direction to the Council . (2) Despite the generality of subsection (1) , the functions of the Board are to— (a) approve the policies, programmes and strategies of the Council ; (b) approve the annual budget estimates and financial statements of the Council ; (c) approve the annual workplan, action plans and activity reports of the Council ; (d) monitor and evaluate the performance of the Council against budgets and plans; (e) promote the effective corporate governance of the Council ; and (f) advise the Minister on matters relating to the health profession . (3) The Minister may give the Board general or specific directions relating to the performance of its functions and the Board shall give effect to those directions to the extent that the directions are not inconsistent with this Act. (4) The Minister may enter into specific performance contracts with the Board for a specific period which shall be consistent with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Registrar , Secretary and other staff",
+      "content": "(1) The Board shall appoint a Registrar who shall be— (a) the chief executive officer of the Council ; and (b) responsible for the day-to-day administration of the Council under the direction of the Board . (2) A person qualifies for appointment as Registrar if that person— (a) is a health practitioner who has not previously been found guilty of professional misconduct; (b) holds a bachelor’s degree or an equivalent qualification in health sciences which is recognised and validated by the Zambia Qualifications Authority Act, 2011; [ Act No. 13 of 2011 ] (c) holds a postgraduate degree or an equivalent qualification which is recognised and validated by the Zambia Qualifications Authority ; (d) has at least five years relevant experience at senior management level; (e) is of good character and good professional standing; and (f) has not been convicted of an offence and sentenced to imprisonment for a term exceeding six months without the option of a fine. (3) The Board shall appoint a Secretary who shall perform Board secretarial functions. (4) The Board shall appoint other staff of the Council that the Board considers necessary for the performance of the Council ’s functions. (5) The Emoluments Commission shall, on the recommendation of the Board , determine the emoluments of the Registrar , Secretary and other staff of the Council . (6) The Board shall determine conditions of service, other than emoluments of the Registrar , Secretary and other staff of the Council . (7) The Board shall consult the Minister before making a recommendation under subsection (5) and (6) . Part III – Registration of health practitioners"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Prohibition of practising without registration",
+      "content": "(1) A person shall not practice as a health practitioner , unless that person is registered as a health practitioner in accordance with this Act. (2) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand penalty units or to imprisonment for a term not exceeding five years, or to both."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Application for provisional registration certificate",
+      "content": "(1) A person who intends to be registered as a health practitioner shall apply to the Council for a provisional registration certificate in a prescribed manner and form on payment of a prescribed fee. (2) Subject to the provisions of this Act, the Council shall, within thirty days of receipt of an application under subsection (1) , grant or reject the application. (3) The Council shall, where the Council grants an application under subsection (2) , issue the applicant with a provisional registration certificate if the applicant meets the requirements for provisional registration as prescribed. (4) The Council shall, where the Council rejects an application under subsection (3) , inform the applicant, in a prescribed manner and form, stating the reasons for the rejection. (5) A person holding a provisional certificate of registration may engage in practice under the supervision of an approved supervisor . (6) A provisional certificate of registration issued under subsection (3) shall be valid for two years. (7) Despite subsection (6) , a person who intends to renew that person’s provisional certificate of registration may apply to the Council for renewal in a prescribed manner and form on payment of a prescribed fee. (8) The Council may, on receipt of an application referred to under subsection (7) , renew the provisional certificate of registration on terms and conditions that the Council may determine. (9) The Minister may, by statutory instrument, on the recommendation of the Council , make Regulations to regulate the scope of practice of holders of provisional certificates of registration."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Temporary registration",
+      "content": "(1) A person shall apply to the Council for temporary registration in the prescribed manner and form on payment of a prescribed fee if that person— (a) intends to practice as a practitioner in the Republic for a period exceeding six months; and (b) is registered as a health practitioner and is practising as a health practitioner outside the Republic. (2) The Council shall, within thirty days of receipt of the application under subsection (1) , grant or reject the application. (3) The Council shall, on receipt of an application referred to under subsection (1) , issue the applicant with a temporary certificate of registration if the applicant, in addition to the requirements under section 14 — (a) has passed the prescribed assessment as approved by the Council ; and (b) where applicable, provides a certificate of good standing from the relevant health professional body where the applicant previously practiced. (4) The Council shall, where the Council rejects an application referred to under subsection (1) , inform the applicant in a prescribed manner and form stating the reasons for the rejection. (5) A person holding a temporary certificate of registration may engage in practice under the supervision of an approved supervisor . (6) A temporary certificate of registration issued under subsection (3) shall be valid for a period of two years. (7) Despite subsection (6) , a person who intends to renew that person’s temporary certificate of registration may apply to the Council in a prescribed manner and form on payment of a prescribed fee. (8) The Council may, on receipt of an application referred to under subsection (7) , renew the temporary certificate of registration on terms and conditions as the Council may determine."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Application for full certificate of registration",
+      "content": "(1) A holder of a provisional certificate of registration or a temporary certificate of registration may, on the expiration of the provisional or temporary certificate of registration , apply to the Council for full registration in a prescribed manner and form on payment of a prescribed fee. (2) The Council shall, within thirty days of receipt of an application under subsection (1) , grant or reject the application. (3) The Council shall, where the Council grants an application under subsection (2) , issue the applicant with a full certificate of registration which shall have an unlimited period of validity, unless suspended or cancelled under this Act. (4) The Council shall, where it rejects an application under subsection (2) , inform the applicant in the prescribed manner and form stating the reasons for the rejection. (5) The Council may determine different fees for different categories or classes of health practitioners. (6) The Minister may, by statutory instrument, on the recommendation of the Council , make Regulations to regulate the scope of practice of holders of full certificates of registration."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Specialist registration",
+      "content": "(1) A health practitioner who intends to be registered as a specialist shall apply to the Council for registration in a prescribed manner and form on payment of a prescribed fee. (2) The Council shall, within thirty days of receipt of an application under subsection (1) , grant or reject the application. (3) The Council shall, where the Council grants an application under subsection (2) , register and issue a certificate of registration to a health practitioner as a specialist, if the health practitioner meets the requirements as prescribed. (4) The Council shall, where the Council rejects an application under subsection (2) , inform the applicant in a prescribed manner and form, stating the reasons for the rejection. (5) The Minister may, by statutory instrument, on the recommendation of the Council , make Regulations to regulate the scope of practice of a holder of a specialist certificate of registration ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Registration for limited period",
+      "content": "(1) The Council may, at the request of a health facility licensed under this Act, register a health practitioner who is qualified in another country to provide health care services in the Republic for a limited period of time at that health facility . (2) The Council shall register a health practitioner referred to under subsection (1) , for a limited period if the health practitioner — (a) holds an equivalent registration in the health practitioner ’s country of origin; and (b) is in good standing with a relevant professional body from the health practitioner ’s country of origin. (3) The Council may specify the terms and conditions relating to the registration under this section, including the acts to be performed, or the nature of supervision required, by the health practitioner . (4) A certificate of registration issued to a health practitioner under this section shall be valid for a period of six months. (5) The Council may, on the application of a health facility , renew the registration of a health practitioner on terms and conditions that the Council may determine. (6) For the purposes of this section, health care services includes training of health professionals."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Determination of application for registration as health practitioner",
+      "content": "The Council shall, in considering an application made under sections 9 , 10 , 11 , 12 and 13 , be satisfied that the applicant— (a) possesses knowledge, training and experience as prescribed; (b) holds a qualification recognised and validated by the Zambia Qualifications Authority ; (c) is a citizen or is resident in the Republic; (d) is of good character and good professional standing; and (e) meets other requirements that the Minister may, on the recommendation of the Council , prescribe by statutory instrument."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Disqualification from registration as health practitioner",
+      "content": "A person shall not qualify for registration as a health practitioner if that person is— (a) convicted of an offence involving fraud or dishonesty under this Act or any other written law in the preceding five years prior to the registration; (b) legally disqualified ; (c) an undischarged bankrupt; or (d) found guilty of professional misconduct by the Disciplinary Committee and the Disciplinary Committee orders the cancellation of the certificate of registration of that health practitioner ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Change of particulars",
+      "content": "A health practitioner registered under this Act shall notify the Registrar of any change in the particulars relating to the registration, within seven days of the change."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Suspension or cancellation of registration",
+      "content": "(1) Subject to this Act, the Council shall suspend or cancel the registration of a health practitioner where— (a) the Council has reasonable grounds to believe that the registration was obtained through fraud, misrepresentation or concealment of any material fact; (b) the health practitioner is found guilty of professional misconduct under this Act or the Code of Ethics and the Disciplinary Committee orders the suspension or cancellation of the health practitioner ’s certificate of registration ; (c) the health practitioner is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a term exceeding six months without an option of a fine; or (d) since the registration, circumstances have arisen disqualifying the health practitioner from registration. (2) The Council shall, before suspending or cancelling the registration of a health practitioner under subsection (1) , give the health practitioner an opportunity to be heard. (3) The Council may, before cancelling the registration of a health practitioner , suspend the health practitioner for a period and on terms and conditions that the Council may determine. (4) Where the Council cancels the registration of a health practitioner under this section, the name of the health practitioner shall be removed from the register and shall not be restored, except on conditions that may be prescribed and on payment of a prescribed fee."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Re-registration",
+      "content": "Subject to section 17(4) , where a certificate of registration is cancelled, the holder of the certificate of registration may apply for re-registration."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Prohibition of practise without practising certificate",
+      "content": "(1) A person shall not practise as a health practitioner without a practising certificate issued by the Council under this Act. (2) A person shall not offer employment to a person who does not hold a valid practising certificate issued under this Act. (3) A person who contravenes this section commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand penalty units or to imprisonment for a term not exceeding five years, or to both."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Practising certificate",
+      "content": "(1) A registered health practitioner shall apply to the Council for a practising certificate in the prescribed manner and form on payment of a prescribed fee. (2) The Council shall, where the applicant meets the requirements of this Act, within thirty days of the receipt of an application under subsection (1) , issue the applicant with a practising certificate in the prescribed form. (3) The Minister may, by statutory instrument, on the recommendation of the Council , make Regulations to provide for— (a) the terms and conditions for the issuance of a practising certificate ; (b) the type of continuous professional development and training and any other information required for the issuance of a practising certificate ; and (c) any other matter necessary for the purposes of this section."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Display of practising certificate",
+      "content": "A holder of a practising certificate shall display the practising certificate in a conspicuous place at the place of practice."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Renewal of practising certificate",
+      "content": "(1) A practising certificate shall be renewed annually in the prescribed manner and form on payment of a prescribed fee. (2) A practising certificate that is not renewed in accordance with subsection (1) is void."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Suspension or cancellation of practising certificate",
+      "content": "(1) Subject to this Act, the Council may suspend or cancel a practising certificate if the holder of a practising certificate — (a) obtained the practising certificate through fraud, misrepresentation or concealment of a material fact; (b) is an undischarged bankrupt; (c) is convicted of an offence under the Act or any other written law and sentenced to imprisonment for a term exceeding six months without an option of a fine; (d) is found guilty of professional misconduct and the Disciplinary Committee orders the suspension or cancellation of the practising certificate ; or (e) becomes legally disqualified . (2) The Council shall, before suspending or cancelling the practising certificate of a health practitioner under this section, give the health practitioner an opportunity to be heard. (3) The Council may, before cancelling the practising certificate of a health practitioner , suspend the health practitioner for a period and on terms and conditions that the Council may determine. (4) Where the certificate of registration is cancelled under this Act, the practising certificate held by the health practitioner shall be void and be surrendered to the Council ."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Maintenance of non-practising health practitioner on register",
+      "content": "The Council may, where the holder of a practising certificate does not intend to practice for a specified period of time, maintain the name of the holder of the practising certificate on the register in a non-practising category, for that period of time."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Prohibition of transfer of certificate of registration or practising certificate",
+      "content": "A certificate of registration or practising certificate issued under this Part is not transferable to a third party."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Duplicate practising certificate or certificate of registration",
+      "content": "(1) A health practitioner whose practising certificate or certificate of registration is destroyed or lost may apply to the Registrar for a duplicate certificate in the prescribed manner and form on payment of a prescribed fee. (2) The Registrar may, within fourteen days of receipt of an application under subsection (1) , issue a duplicate certificate of registration or practising certificate to the health practitioner."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Surrender of cancelled certificate of registration or practising certificate",
+      "content": "A health practitioner whose certificate of registration or practising certificate is cancelled shall, within seven days of being notified of the cancellation, surrender the certificate of registration or practising certificate to the Council ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Offences regarding registered health practitioners",
+      "content": "(1) A person shall not — (a) make or cause to be made, an unauthorised entry, alteration or erasure on a register , certificate of registration or practising certificate or on a certified copy of a register , certificate of registration or practising certificate ; (b) impersonate or use the title of a registered health practitioner while not registered as a health practitioner under this Act; (c) procure, or attempt to procure, registration under this Act, by fraud, false representation or the concealment of a material fact; (d) falsify a certificate of registration or practising certificate or other document issued under this Act; or (e) undertake to provide health care services in excess of the scope of practice prescribed for the registered health practitioner . (2) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding seven hundred thousand penalty units or to imprisonment for a term not exceeding seven years, or to both. Part IV – Licensure examinations"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Administration of licensure examination",
+      "content": "The Council shall administer a licensure examination to a person who applies for provisional registration prior to the issuance of a provisional certificate of registration to that person."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Application for licensure examination",
+      "content": "(1) A person who intends to sit for a licensure examination shall apply to the Council , thirty days before the date of the licensure examinations , in the prescribed manner and form on payment of a prescribed fee. (2) The Council may, within thirty days of the receipt of an application under subsection (1) , approve or reject an application in the prescribed manner and form. (3) A person shall only be granted a provisional certificate of registration in accordance with Part III of this Act if that person has passed the licensure examination. Part V – Continuous professional development programme"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Application for approval as continuous professional development provider",
+      "content": "(1) A person who intends to offer a continuous professional development programme for health practitioners shall apply to the Council for approval as a continuous professional development provider in the prescribed manner and form on payment of a prescribed fee. (2) The Council shall, within thirty days of the receipt of an application under subsection (1) , approve or reject the application. (3) The Council shall, where an applicant meets the requirements as prescribed, issue a certificate of approval in the prescribed manner and form. (4) The Council shall, where the Council rejects an application under this section, notify the applicant in the prescribed manner and form stating the reasons for the rejection."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Renewal of certificate of approval for continuous professional development provider",
+      "content": "(1) A certificate of approval shall be renewed annually in the prescribed manner and form on payment of a prescribed fee. (2) The Council shall renew the certificate of approval if the holder of a certificate of approval — (a) complies with the prescribed requirements; (b) has provided information that the Council may require as a condition for the renewal of the certificate of approval ; and (c) has paid the prescribed annual fees."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Variation of certificate of approval",
+      "content": "A holder of a certificate of approval may, at any time during the validity of the certificate of approval , apply to the Council for a variation of the terms and conditions of the certificate of approval in the prescribed manner and form on payment of a prescribed fee."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Surrender of certificate of approval",
+      "content": "A holder of a certificate of approval shall, where a holder of a certificate of approval does not intend to continue to provide the continuous professional development programme to which the certificate of approval relates, surrender the certificate of approval to the Council ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Transfer of certificate of approval",
+      "content": "A certificate of approval issued under this Part shall not be transferred to a third party without the prior approval of the Council ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Suspension or cancellation of certificate of approval",
+      "content": "(1) Subject to this Act, the Council may suspend or cancel a certificate of approval if the holder of the certificate of approval — (a) obtained the certificate of approval through fraud, misrepresentation or concealment of a material fact; (b) fails to comply with the terms and conditions of the certificate of approval ; (c) is an undischarged bankrupt; (d) becomes legally disqualified from providing the continuous professional development programme; or (e) has ceased to fulfil the eligibility requirements under this Act. (2) The Council shall, before suspending or cancelling the certificate of approval in accordance with subsection (1) , notify the holder of the certificate of approval of the Council’s intention to suspend or cancel the certificate of approval and shall — (a) give reasons for the intended suspension or cancellation; and (b) require the holder to show cause, within a period of not more than thirty days, why the certificate of approval should not be suspended or cancelled. (3) The Council shall not suspend or cancel a certificate of approval under this section if the holder takes remedial measures to the satisfaction of the Council within the period specified under subsection (2) . (4) The Council shall, in making its final determination on the suspension or cancellation of a certificate of approval , consider the submissions made by the holder of a certificate of approval under subsection (2) . (5) The Council may suspend or cancel a certificate of approval if the holder after being notified under subsection (2) fails to show cause or does not take any remedial measures, to the satisfaction of the Council, within the time specified in that subsection. (6) The holder of a certificate of approval shall, where a certificate of approval is cancelled in accordance with subsection (5) , surrender the certificate of approval to the Council. (7) The Council shall, where it suspends or cancels a certificate of approval under this section, publish the suspension or cancellation in a manner that the Council may determine."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Continuous professional development",
+      "content": "(1) The Minister may, by statutory instrument, on the recommendation of the Council , make regulations to provide for continuous professional development to be undertaken by a health practitioner . (2) Despite the generality of subsection (1) , the regulations may provide for— (a) the nature and extent of continuing professional development to be undertaken by a health practitioner ; (b) the criteria for recognition by the Council of a continuous professional development programme; (c) the minimum professional and technical training to be provided by a holder of a certificate of approval ; and (d) the requisite infrastructure of a holder of a certificate of approval , appropriate educational and training curriculum, qualifications of faculty personnel, suitable training equipment and staffing levels of health practitioners and other personnel. Part VI – Licensing of health facilities"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Prohibition of operating health facility without licence",
+      "content": "(1) A person shall not operate a health facility without a licence issued in accordance with this Part. (2) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand penalty units or to imprisonment for a term not exceeding five years, or to both."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Classes and levels of health facilities",
+      "content": "The Minister shall, on the recommendation of the Council , prescribe classes and levels of health facilities and the scope of service and requirements for each class and level of a health facility ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Application for licence to operate health facility",
+      "content": "(1) A person who intends to operate a health facility shall apply to the Council for a licence in the prescribed manner and form on payment of a prescribed fee. (2) The Council shall, within thirty days of the receipt of an application under subsection (1) , grant or reject the application. (3) The Council shall, where the Council rejects an application under this section, inform the applicant, in writing, stating the reasons for the rejection. (4) The Council shall inspect a health facility prior to the issuance of a licence under this Part and at least every two years thereafter."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Grant of licence",
+      "content": "(1) The Council shall, where an application meets the requirements of this Act, grant a licence to operate a health facility in a prescribed manner and form. (2) A licence shall be issued on terms and conditions that the Council may determine. (3) A licence granted under subsection (1) shall be valid for a period of one financial year."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Rejection of application",
+      "content": "(1) The Council shall reject an application for a licence to operate a health facility if a— (a) person in charge of the health facility is in violation of a provision of this Act; (b) health practitioner in charge of the health facility has not held a full certificate of registration for a period of at least three years before the date of the application; and (c) health facility does not meet other standards issued by the Council in the guidelines. (2) Subsection (1) shall not apply where the Council determines that the health practitioner is properly registered, has the relevant experience in another country and qualifies for full registration under section 11 ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Display of licence",
+      "content": "A licensed health facility shall display the licence in a conspicuous place at the health facility ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "Variation of licence",
+      "content": "A holder of a licence may, at any time during the validity of the licence , apply to the Council for a variation of the licence in a prescribed manner and form on payment of a prescribed fee."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Surrender of licence",
+      "content": "The holder of a licence shall, where the holder of a licence does not intend to continue to operate the health facility to which the licence relates, surrender the licence to the Council ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VI",
+      "section": "46",
+      "title": "Transfer of licence",
+      "content": "A licence issued under this Part shall not be transferred to a third party without the prior approval of the Council"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VI",
+      "section": "47",
+      "title": "Renewal of licence",
+      "content": "(1) A health facility that intends to renew a licence shall apply for renewal of the licence in the prescribed manner and form on payment of a prescribed fee. (2) The Council shall renew the licence if the health facility remains in compliance with the conditions of the licence under this Act. (3) A licence renewed under this section shall be valid for a period of one financial year ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VI",
+      "section": "48",
+      "title": "Suspension or revocation of licence",
+      "content": "(1) The Council shall suspend or revoke a licence if the holder of the licence — (a) obtained the licence through fraud, misrepresentation or concealment of a material fact; (b) is insolvent; (c) is legally disqualified from operating a health facility ; (d) is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a term exceeding six months without the option of a fine; or (e) contravenes any provisions of this Act or terms and conditions of a licence . (2) Where the registration of a health practitioner is cancelled under this Act, the licence held by a health facility where that health practitioner is in charge shall be revoked and surrendered to the Council . (3) The Council shall, before suspending or cancelling the licence in accordance with subsection (1) , notify the holder of the licence of the Council’s intention to suspend or cancel the licence and shall— (a) give reasons for the intended suspension or cancellation; and (b) require the holder to show cause, within a period of not more than thirty days, why the licence should not be suspended or cancelled. (4) The Council shall not suspend or cancel a licence under this section if the holder takes remedial measures to the satisfaction of the Council within the period specified under subsection (3) . (5) The Council shall, in making the Council ’s final determination on the suspension or cancellation of a licence , consider the submissions made by the holder of a licence under subsection (3) . (6) The Council may suspend or cancel a licence if the holder after being notified under subsection (3) fails to show cause or does not take any remedial measures, to the satisfaction of the Council, within the time specified in that subsection. (7) The holder of a licence shall, where a licence is cancelled in accordance with subsection (6) , surrender the licence to the Council. (8) The Council shall, where it suspends or cancels a licence under this section, publish the suspension or cancellation in a manner that the Council may determine."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VI",
+      "section": "49",
+      "title": "Immediate closure of health facility",
+      "content": "The Council may, where the Council finds that the continued operation of a health facility presents imminent harm to patients, order the immediate closure of the health facility and thereafter invoke the provisions of section 48 ."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VI",
+      "section": "50",
+      "title": "Prohibition of treatment or diagnosis without registered health practitioner",
+      "content": "(1) Subject to subsection (2) , a health facility shall not offer or give consultation, treatment or diagnosis, except by, or under, the supervision of a health practitioner with a valid practising certificate. (2) Subsection (1) shall not apply to the administration of continued treatment previously prescribed by a health practitioner with a valid practising certificate for a specified period. (3) The Minister may, by statutory instrument, on the recommendation of the Council , prescribe the qualifications and professional experience required of a registered health practitioner who is to supervise the operations of a health facility of a particular class of licence ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VI",
+      "section": "51",
+      "title": "Publication of licensed health facility",
+      "content": "The Council shall publish annually a list of licensed health facilities, showing their location and licence class, in a manner that the Council may determine."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VI",
+      "section": "52",
+      "title": "Offences relating to health facilities",
+      "content": "(1) A person commits an offence if that person— (a) contravenes any practice standards, procedures or guidelines for health facilities issued by the Council ; (b) being a holder of a licence under this Part, breaches any terms and conditions of the licence ; (c) performs an act or omits to act, thereby endangering public health or the lives of persons receiving health care services at a health facility ; (d) without a licence , operates a health facility or holds out as a health facility licensed under this Act; (e) without a licence , operates a health facility that uses the terms “clinic”, “surgery”, “health centre”, “consulting room”, “nursing home”, “ hospice ”, “ hospital ” or any other similar term; (f) engages or employs persons who are not qualified or registered under this Act at a licensed health facility ; or (g) contravenes any provisions of this Act. (2) A person convicted of an offence under subsection (1) is liable to a fine not exceeding five hundred thousand penalty units or to imprisonment for a term not exceeding five years, or to both, and to fifty thousand penalty units for each day during which the offence continues. Part VII – Accreditation of health care services"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VII",
+      "section": "53",
+      "title": "Prohibition of offering health care service without accreditation",
+      "content": "(1) A health facility shall not provide, or hold out as providing, health care services unless the health care service is accredited in accordance with this Part. (2) A health facility that contravenes subsection (1) commits an offence and is liable, on conviction to a fine not exceeding five hundred thousand penalty units, and to an additional fine of fifty thousand penalty units for each day during which the offence continues."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VII",
+      "section": "54",
+      "title": "Application for accreditation of health care service",
+      "content": "(1) A health facility that intends to provide a health care service shall apply to the Council for accreditation of the health care service in the prescribed manner and form on payment of a prescribed fee. (2) The Council shall, on receipt of an application under subsection (1) , direct an inspector to inspect the health facility in order to determine whether the health facility meets the requirements for the accreditation of the health care service as may be prescribed. (3) The Council shall, within thirty days of the inspection referred to in subsection (2) , grant or reject the application. (4) The Council shall, where a health facility meets the requirements for the accreditation of a health care service , grant a certificate of accreditation in the prescribed manner and form. (5) The Council shall, where the Council rejects an application under this section, inform the applicant, in writing, stating the reasons for the rejection. (6) The Minister shall, on the recommendation of the Council , prescribe health care services that require accreditation ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VII",
+      "section": "55",
+      "title": "Display of certificate of accreditation",
+      "content": "A holder of a certificate of accreditation shall display the certificate of accreditation in a conspicuous place at the health facility where the accredited health care service is being offered."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VII",
+      "section": "56",
+      "title": "Renewal of accreditation",
+      "content": "(1) A certificate of accreditation may be renewed annually in a prescribed manner and form on payment of a prescribed fee. (2) The Council may request for information, including quality assurance information , as a condition for the renewal of accreditation ."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VII",
+      "section": "57",
+      "title": "Suspension or revocation of accreditation",
+      "content": "(1) The Council may suspend or revoke a certificate of accreditation if the health facility — (a) breaches a requirement or condition of the accreditation ; (b) is closed or has its licence revoked under this Act; (c) contravenes the provisions of the Public Health Act or any other relevant written law; or [Cap. 295] (d) obtained the accreditation through fraud, misrepresentation or concealment of a material fact. (2) The Council shall, before suspending or revoking a certificate of accreditation under this section, give the health facility an opportunity to be heard. Part VIII – Internship sites"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VIII",
+      "section": "58",
+      "title": "Prohibition from offering internship without internship site certificate",
+      "content": "(1) A health facility shall not offer internship without an internship site certificate issued under this Act. (2) A health facility that contravenes subsection (1) is liable, on conviction, to a fine not exceeding five hundred thousand penalty units."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VIII",
+      "section": "59",
+      "title": "Application for internship site certificate",
+      "content": "(1) A health facility that intends to offer internship shall apply to the Council for an internship site certificate in a prescribed manner and form on payment of a prescribed fee. (2) The Council shall, within thirty days of receipt of an application under subsection (1) , approve or reject the application. (3) The Council shall, where an applicant meets the requirements as prescribed, issue an internship site certificate in a prescribed manner and form. (4) The Council shall, where the Council rejects an application under subsection (2) , notify the applicant, in writing, stating the reasons for the rejection. (5) An internship site certificate is valid for a period of one financial year ."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VIII",
+      "section": "60",
+      "title": "Renewal of internship site certificate",
+      "content": "The Council shall renew an internship site certificate issued under section 59 if the— (a) internship site complies with the prescribed requirements; (b) holder of the internship site certificate has provided information that the Council may require as a condition for the renewal of the internship site certificate ; and (c) proprietor or person in charge of an internship site has paid the prescribed annual fees."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VIII",
+      "section": "61",
+      "title": "Variation of internship site certificate",
+      "content": "A holder of an internship site certificate may, at any time during the validity of an internship site certificate , apply to the Council for a variation of the terms and conditions of the internship site certificate in the prescribed manner and form on payment of a prescribed fee."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VIII",
+      "section": "62",
+      "title": "Surrender of internship site certificate",
+      "content": "The holder of an internship site certificate shall surrender an internship site certificate to the Council where the holder of an internship site certificate does not intend to continue to provide internship training to which an internship site certificate relates."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VIII",
+      "section": "63",
+      "title": "Transfer of internship site certificate",
+      "content": "An internship site certificate shall not be transferred to a third party without the prior approval of the Council ."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VIII",
+      "section": "64",
+      "title": "Suspension or cancellation of internship site certificate",
+      "content": "(1) The Council shall suspend or cancel an internship site certificate if the holder— (a) obtained the internship site certificate through fraud, misrepresentation or concealment of a material fact; (b) is an undischarged bankrupt; (c) becomes legally disqualified from operating an internship site ; or (d) is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a term exceeding six months without an option of a fine. (2) The Council shall, before suspending or cancelling the internship site certificate under this section, give the holder of the internship site certificate an opportunity to be heard. Part IX – Disciplinary matters"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part IX",
+      "section": "65",
+      "title": "Code of Ethics",
+      "content": "The Council shall develop and publish a Code of Ethics for the health profession which shall bind all health professionals regulated under this Act."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part IX",
+      "section": "66",
+      "title": "Professional misconduct",
+      "content": "A health practitioner commits professional misconduct if that health practitioner — (a) contravenes the provisions of this Act; (b) unlawfully discloses or uses to the health practitioner ’s advantage any information acquired in the health practitioner ’s practice; (c) engages in conduct that is dishonest, fraudulent or deceitful; (d) is convicted of an offence under this Act or any written law and has been sentenced to imprisonment for a period exceeding six months without an option of a fine; (e) engages in any conduct that is— (i) prejudicial to the health profession ; or (ii) is likely to bring the health profession into disrepute; or (f) breaches the Code of Ethics or encourages or incites another health practitioner to breach or disregard the Code of Ethics ."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part IX",
+      "section": "67",
+      "title": "Initiation of disciplinary action",
+      "content": "(1) A person may lodge a complaint with the Council against a health practitioner where that person alleges that the health practitioner has contravened the Code of Ethics or any provision of this Act. (2) The Council may initiate disciplinary action under this section where the Council has reasonable grounds to believe that a health practitioner has contravened the Code of Ethics or any provision of this Act. (3) A complaint under subsection (1) shall be made to the Registrar in a prescribed manner and form."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part IX",
+      "section": "68",
+      "title": "Professional Conduct Committee",
+      "content": "(1) The Board shall constitute an ad hoc Professional Conduct Committee for each province and progressively in each district consisting of the following part-time members: (a) not more than four registered health practitioner ’s who are of the same qualifications as the health practitioner against whom the complaint was made; and (b) a legal practitioner. (2) The members shall elect the chairperson and vice-chairperson among the persons in subsection (1)(a) . (3) A person shall not be appointed as a member of the Professional Conduct Committee if that person is— (a) found guilty of professional misconduct; (b) an undischarged bankrupt; (c) legally disqualified from performing the functions of a member; or (d) convicted of an offence under this Act or any other law and sentenced to imprisonment for a term exceeding six months without the option of a fine. (4) The office of a member becomes vacant if the member— (a) dies; (b) is adjudged bankrupt under any written law; (c) is absent from three consecutive meetings of the Professional Conduct Committee of which the member has notice, without the prior approval of the Professional Conduct Committee; (d) resigns, by notice in writing, to the Council ; (e) is legally disqualified from performing the functions of a member; (f) is found guilty of professional misconduct; (g) is de-registered under this Act or any written law; or (h) is convicted of an offence under any other written law and sentenced to imprisonment for a term exceeding six months without the option of a fine. (5) The Council shall, when there is a vacancy in the membership of the Professional Conduct Committee before the expiry of the term of office, appoint another person to replace the member who vacates office, but that person shall only hold office for the remainder of the term."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part IX",
+      "section": "69",
+      "title": "Reference of matters to Professional Conduct Committee",
+      "content": "Except as otherwise expressly stated, before any matters are referred to the Disciplinary Committee the Council shall, in the prescribed manner, refer the matter for determination by the Professional Conduct Committee."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part IX",
+      "section": "70",
+      "title": "Functions of Professional Conduct Committee",
+      "content": "(1) Where a case has been referred to the Professional Conduct Committee, the Professional Conduct Committee shall, as prescribed, consider the case and, subject to the provisions of this section, determine either— (a) that no inquiry shall be held in the case by the Disciplinary Committee ; or (b) that the matter in question shall, in whole or in part, be referred to the Disciplinary Committee for inquiry. (2) Where the Professional Conduct Committee determines that no inquiry shall be held in a case by the Disciplinary Committee , the Registrar shall inform the complainant, if any, and the health practitioner of the decision of the Professional Conduct Committee on such terms as the Professional Conduct Committee may direct. (3) The Professional Conduct Committee shall, if the Professional Conduct Committee considers just, cause further investigations to be done by the Council or obtain such advice or assistance from any person, as it may consider necessary. (4) Where the Professional Conduct Committee determines that investigations are necessary, or where at the time when a Professional Conduct Committee is considering the case and no explanation has been furnished by the health practitioner against whom a complaint is lodged, the Professional Conduct Committee may make a provisional determination that the matter, in whole or part, be referred to the Disciplinary Committee . (5) The chairperson may, where a Professional Conduct Committee makes a provisional determination in accordance with subsection (4) and further investigations are concluded or an explanation is subsequently furnished by the practitioner, in consultation with the members of the Professional Conduct Committee and on the opinion of the majority of the members of the Professional Conduct Committee, direct that— (a) an inquiry shall not be held in the case by the Disciplinary Committee ; or (b) the matter be referred to the Disciplinary Committee for inquiry. (6) The Registrar shall, where a direction is given in accordance with subsection (5)(a) , inform the complainant, if any, and the practitioner of the decision of the Professional Conduct Committee on terms that the Professional Conduct Committee may direct."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part IX",
+      "section": "71",
+      "title": "Proceedings of Professional Conduct Committee",
+      "content": "(1) Subject to this Act, a Professional Conduct Committee may regulate its own procedure. (2) Three members of a Professional Conduct Committee shall form a quorum at a meeting or sitting of a Professional Conduct Committee provided that one of the three members shall be a legal practitioner. (3) There shall preside at a meeting or sitting of a Professional Conduct Committee— (a) the chairperson; (b) in the absence of the chairperson, the vice-chairperson; or (c) in the absence of both the chairperson and the vice-chairperson, another member that the members present shall elect for the purpose of that meeting. (4) A question at a sitting or meeting of a Professional Conduct Committee shall be decided by a majority of the members present at a sitting or meeting, and in the event of an equality of votes, the person presiding at the sitting or meeting shall have a casting vote in addition to that person’s deliberative vote. (5) A party to a hearing of a Professional Conduct Committee may appear in person or be represented by a legal practitioner or, if the party so elects, by any other person. (6) A person who is present at a meeting or sitting of a Professional Conduct Committee at which a matter is the subject of consideration and in which matter that person or that person’s relative or associate is directly or indirectly interested in a private capacity shall, as soon as is practicable after the commencement of the meeting or sitting, disclose that interest and shall not, unless the Professional Conduct Committee otherwise directs, take part in any consideration or discussion of, or vote on, any question relating to that matter. (7) A disclosure of interest made under this section shall be recorded in the minutes of the meeting or sitting at which it is made. (8) A Professional Conduct Committee shall cause to be kept a record of its proceedings."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part IX",
+      "section": "72",
+      "title": "Sanctions for professional misconduct by Professional Conduct Committee",
+      "content": "The Professional Conduct Committee may, where the Professional Conduct Committee determines that no inquiry shall be held in the case by the Disciplinary Committee but finds a health practitioner guilty of professional misconduct, impose any of the following sanctions: (a) counseling, mentorship or censure of the health practitioner ; (b) cautioning the health practitioner ; or (c) retraining or rehabilitaion of the health practitioner ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part IX",
+      "section": "73",
+      "title": "Disciplinary Committee",
+      "content": "(1) The Board shall constitute a Disciplinary Committee consisting of the following part-time members: (a) a chairperson who shall be a legal practitioner; (b) a vice-chairperson who shall be a legal practitioner; and (c) a health practitioner with knowledge and experience in matters relevant to the Act. (2) The chairperson of the Disciplinary Committee and the vice-­chairperson shall be legal practitioners eligible to be appointed as Judges of the High Court. (3) The Disciplinary Committee shall co-opt, as a member— (a) a peer of the health practitioner against whom a complaint of professional misconduct is made; and (b) a member of the relevant professional committee nominated by that professional committee. (4) A person shall not be appointed as a member of the Disciplinary Committee if that person— (a) is found guilty of professional misconduct under this Act or any written law; (b) is an undischarged bankrupt; (c) is legally disqualified ; (d) is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a period exceeding six months without the option of a fine. (5) A member of the Disciplinary Committee shall hold office for a term of three years and may be re-appointed for a further and final term of three years. (6) A member shall, on expiration of the term for which the member is appointed continue to hold office until another member is appointed but in no case shall an extension of the period exceed three months. (7) The office of a member of the Disciplinary Committee becomes vacant if the member— (a) dies; (b) is adjudged bankrupt under any written law; (c) is absent from three consecutive meetings of the Disciplinary Committee of which the member has notice, without the prior approval of the Disciplinary Committee ; (d) resigns by notice, in writing, to the Council ; (e) is legally disqualified from performing the duties of a member of the Disciplinary Committee ; (f) is found guilty of professional misconduct; or (g) is convicted of an offence under this Act or any other written law and sentenced to imprisonment for a period exceeding six months without the option of a fine. (8) The Council shall, where there is a vacancy in the membership of the Disciplinary Committee before the expiry of the term of office, appoint another person to replace the member who vacates office but that person shall only hold office for the remainder of the term."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part IX",
+      "section": "74",
+      "title": "Functions of Disciplinary Committee",
+      "content": "(1) The functions of the Disciplinary Committee are to hear and determine— (a) any complaint referred to the Disciplinary Committee by a Professional Conduct Committee against a health practitioner ; or (b) a disciplinary action initiated against a health practitioner under section 67(2) . (2) The Disciplinary Committee may publicise as the Disciplinary Committee considers appropriate, the facts relating to a health practitioner who is found guilty of, and punished for, professional misconduct."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part IX",
+      "section": "75",
+      "title": "Proceedings of Disciplinary Committee",
+      "content": "(1) Subject to the other provisions of this Act, the Disciplinary Committee may regulate its own procedure. (2) Three members of the Disciplinary Committee shall form a quorum at a meeting or sitting of the Disciplinary Committee . (3) The chairperson of the Disciplinary Committee or in the absence of the chairperson, the vice-chairperson shall preside at a meeting or sitting of the Disciplinary Committee . (4) A question at a meeting or sitting of the Disciplinary Committee shall be decided by a majority of the members present at the meeting or sitting of the Disciplinary Committee and in the event of an equality of votes, the person presiding at the meeting or sitting shall have a casting vote in addition to that person’s deliberative vote. (5) The proceedings of the Disciplinary Committee shall be in camera . (6) A party to a hearing of the Disciplinary Committee may appear in person or be represented by a legal practitioner or, if the party so elects, by any other person. (7) A decision of the Disciplinary Committee shall be in the form of a reasoned judgment and a copy of the judgment shall be supplied to each party to the proceedings and to every person affected by the decision. (8) If a person is present at a meeting or sitting of the Disciplinary Committee at which any matter is the subject of consideration, and in which matter that person or that person’s relative or associate is directly or indirectly interested in a private capacity, that person shall, as soon as is practicable after the commencement of the meeting or sitting, disclose the interest and shall not, unless the Disciplinary Committee otherwise directs, take part in any consideration or discussion of, or vote on, any question relating to that matter. (9) A disclosure of interest made under this section shall be recorded in the minutes of the meeting or sitting at which it is made. (10) The Disciplinary Committee shall cause to be kept a record of its proceedings."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part IX",
+      "section": "76",
+      "title": "Powers of Disciplinary Committee",
+      "content": "(1) The Disciplinary Committee may, for the purposes of a hearing, hear and receive evidence and may— (a) under the hand of the chairperson or the Registrar , summon witnesses and require the production of a book, record, document, electronic record or anything required for the purposes of the proceeding; and (b) through the chairperson or vice-chairperson, administer an oath to a witness. (2) A person summoned to attend before the Disciplinary Committee shall not— (a) refuse or fail, without reasonable excuse, to attend at the time and place specified in the summons or, having attended, leave without the permission of the Disciplinary Committee ; (b) having attended, refuse to be sworn or to affirm; (c) refuse, without lawful excuse, to answer fully and satisfactorily to the best of that person’s knowledge and belief, a question lawfully put to that person; or (d) refuse to produce a book, record, document or thing which that person has been required by summons to produce. (3) A person who contravenes subsection (2) commits an offence and is liable, on conviction, for that refusal or failure, to a fine not exceeding two hundred thousand penalty units. (4) Despite subsection (2) , a person shall not be compelled to answer any question or produce any book, record or document which that person would not be compelled to answer or produce on the trial of an action in the High Court. (5) A hearing before the Disciplinary Committee shall, for the purposes of Chapter XI of the Penal Code, be deemed to be a judicial proceeding. [Cap. 87] (6) A finding of fact which is shown to have been made by a court in the Republic shall, in any hearing before the Disciplinary Committee , be conclusive evidence of the fact so found. (7) The Disciplinary Committee shall, where the Disciplinary Committee has reasonable cause to believe that a health practitioner is legally disqualified , refer the matter for determination in accordance with the Mental Health Act, 2019. [ Act No. 6 of 2019 ] (8) The Disciplinary Committee shall, where a determination is made in accordance with the Mental Health Act, 2019, that a health practitioner is legally disqualified , suspend the practising certificate of the health practitioner . [ Act No. 6 of 2019 ] (9) The Disciplinary Committee may, for the purpose of any proceedings, use assessors or experts as the Disciplinary Committee considers necessary."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part IX",
+      "section": "77",
+      "title": "Sanctions for professional misconduct by Disciplinary Committee",
+      "content": "The Disciplinary Committee shall, where the Disciplinary Committee finds a health practitioner guilty of professional misconduct, after due inquiry, impose one or more of the following sanctions: (a) order the cancellation of the health practitioner ’s practising certificate or certificate of registration ; (b) order the suspension of the certificate of registration or practising certificate for a specified period and on conditions as determined by the Disciplinary Committee ; (c) censure the health practitioner ; (d) caution the health practitioner ; (e) impose an administrative penalty, not exceeding one hundred thousand penalty units, to be paid to the Council ; (f) border that the health practitioner , be re-trained or rehabilitated; (g) order the health practitioner to pay to the Council or to a party to the hearing the costs of, or incidental to, the proceedings; or (h) order the health practitioner to pay any party to the hearing or any other person, as restitution, the amount of loss caused by that person’s misconduct."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part IX",
+      "section": "78",
+      "title": "Reports by Disciplinary Committee",
+      "content": "The Disciplinary Committee shall, within fourteen days from the completion of a hearing, submit to the Board a report of the proceedings together with a copy of the record."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part IX",
+      "section": "79",
+      "title": "Rules relating to disciplinary proceedings",
+      "content": "(1) The Chief Justice may, by statutory instrument, and on the recommendation of the Council , make Rules relating to the— (a) manner and form for lodging of complaints under this Part; (b) mode of summoning persons before the Disciplinary Committee ; (c) manner and form of service of a summons requiring the attendance of a witness before the Disciplinary Committee and the production of a book, record, document or thing; (d) procedure to be followed and rules of evidence to be observed in proceedings before the Disciplinary Committee ; and (e) functions of assessors and experts to the Disciplinary Committee . (2) Rules made under subsection (1) may provide— (a) that before a matter is referred to the Disciplinary Committee it shall in a manner that may be provided by the Rules, have been brought before a Professional Conduct Committee, and investigated by the Council ; (b) for securing notices for the proceedings and specifying the time and manner of the proceedings; and (c) for securing that a party to the proceedings shall, if that person requires, be entitled to be heard by the Disciplinary Committee . Part X – Inspectorate"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part X",
+      "section": "80",
+      "title": "Inspectorate",
+      "content": "(1) The Council shall appoint a suitably qualified person as an inspector for the purposes of ensuring compliance with the provisions of this Act. (2) The Registrar shall issue an identity card to an inspector , which shall be prima facie evidence of the inspector ’s appointment. (3) An inspector shall, in performing the functions under this Act— (a) be in possession of the identification card referred to in subsection (2) ; and (b) show the identification card to any person who requests to see the card."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part X",
+      "section": "81",
+      "title": "Power of entry, search and inspection",
+      "content": "(1) An inspector may, for the purposes of enforcing the provisions of this Act, at any reasonable time, without prior notice— (a) enter and search premises that the inspector has reasonable cause to believe are being used contrary to the provisions of this Act; (b) search any person on the premises if the inspector has reasonable grounds to believe that the person has possession of an article, document or record that has a bearing on an inspection except that a person shall only be searched by a person of the same sex; (c) take extracts from, or make copies of any book, document or record that is on the premises and that has a bearing on an inspection; (d) demand the production of, and inspect, relevant certificates; or (e) make inquiries that may be necessary to ascertain whether the provisions of this Act or any other law on which an inspection is based have been complied with. (2) An inspector who removes anything from any premises shall— (a) issue a receipt for anything removed to the owner or the person in control of the premises ; and (b) return anything removed as soon as practicable after the thing has served the purpose for which it was removed. (3) A person commits an offence if that person— (a) delays or obstructs an inspector in the performance of that inspector ’s functions under this Act; (b) refuses to give an inspector such reasonable assistance as the inspector may require for the purpose of performing the inspector ’s functions; (c) impersonates an inspector or presents oneself to be an inspector ; or (d) willfully gives an inspector false or misleading information in answer to an inquiry made by the inspector . (4) A person who contravenes subsection (3) is liable, on conviction, to a fine not exceeding three hundred thousand penalty units or to imprisonment for a term not exceeding three years, or to both. (5) For the purposes of this section, “ premises ” includes a place where a health practitioner operates or practices."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part X",
+      "section": "82",
+      "title": "Report of inspection",
+      "content": "An inspector shall furnish the Council with a written report and any other information relating to an inspection, as the Council may direct."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part X",
+      "section": "83",
+      "title": "Code of conduct for inspector",
+      "content": "The Council shall develop a code of conduct for inspectors for the purposes of performing the functions under this Act. Part XI – General provisions"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part XI",
+      "section": "84",
+      "title": "Appeals",
+      "content": "(1) A person who is aggrieved by the decision of the Council may, within thirty days of the receipt of the decision, appeal to the Minister against the decision. (2) The Minister shall, within thirty days of receipt of an appeal under subsection (1) , determine the appeal and inform the appellant, in writing, of the Minister’s determination. (3) A person aggrieved by a decision of the Minister under this section may, within thirty days of receipt of the decision, appeal to the High Court. (4) A person aggrieved by the decision of the Professional Conduct Committee may appeal to the Disciplinary Committee within fourteen days from the date of the decision. (5) A person aggrieved by a decision of the Disciplinary Committee may, within thirty days of receipt of the decision, appeal to the High Court. (6) A decision of the Disciplinary Committee shall not take effect until the expiration of the time for lodging an appeal against the decision or, if an appeal is lodged, until the time the appeal is disposed of, withdrawn or struck out for want of prosecution. (7) The proceedings of the Disciplinary Committee shall not be set aside by reason only of some irregularity in those proceedings if such irregularity did not occasion a substantial miscarriage of justice."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part XI",
+      "section": "85",
+      "title": "Registers",
+      "content": "(1) The Council shall keep and maintain registers of— (a) registered health professionals; (b) holders of practising certificates and persons whose practising certificates have been cancelled; (c) the applications rejected and reasons for the rejection; (d) approved continuous professional development providers; (e) licensed health facilities; (f) accredited health care services; (g) internship sites; and (h) any other information that the Council may determine. (2) The registers referred to under subsection (1) shall contain particulars that may be prescribed. (3) The registers shall be kept in the custody of the Registrar at the offices of the Council and shall be open for inspection by members of the public during normal office hours on payment of a fee as prescribed. (4) The Registrar shall, on an application by any person, issue to the person a certified extract from the registers or a copy of a certificate of registration or practising certificate , on payment of a fee as prescribed."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part XI",
+      "section": "86",
+      "title": "Publications of copies of register",
+      "content": "(1) The Registrar shall, on the direction of the Board , cause copies of any of the registers including alterations of, or additions to those registers, to be printed and published in a manner and form that the Board may direct. (2) Subject to this Act, a copy of the last published and printed register shall be prima facie evidence in legal proceedings of what is contained in that register and the absence of the name of a health practitioner from that copy, is prima facie evidence that the health practitioner is not registered."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part XI",
+      "section": "87",
+      "title": "Jurisdiction over acts committed outside the Republic",
+      "content": "(1) A court shall have jurisdiction over a health practitioner for any act committed outside the Republic which, if it had been committed in the Republic, would have been an offence of professional misconduct under this Act. (2) Any proceedings against a health practitioner under this section which would be a bar to subsequent proceedings against the health practitioner , for the same offence, if the offence had been committed in the Republic, shall be a bar to further proceedings against the health practitioner under any written law relating to the extradition of persons, in respect of the same offence outside the Republic. (3) The Mutual Legal Assistance in Criminal Matters Act shall apply to proceedings under this Act. [Cap. 98]"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part XI",
+      "section": "88",
+      "title": "Offence by body corporate or unincorporated body",
+      "content": "Where an offence under this Act is committed by a body corporate or a body unincorporate, with the knowledge, consent or connivance of the director, manager, partner or shareholder of that body corporate or unincorporate body, that director, manager, partner or shareholder commits an offence and is liable, on conviction, to the penalty or term of imprisonment specified for that offence."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part XI",
+      "section": "89",
+      "title": "General penalty",
+      "content": "A person convicted of an offence under this Act for which a penalty is not specified is liable to a fine not exceeding two hundred thousand penalty units or to imprisonment for a term not exceeding two years, or to both."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part XI",
+      "section": "90",
+      "title": "Administrative penalty",
+      "content": "(1) The Council may impose an administrative penalty on a person for a failure to comply with a provision of this Act which is not an offence. (2) An administrative penalty shall not exceed the amount prescribed by the Minister for each day during which such failure continues. (3) An administrative penalty is payable to the Council within the period specified by the Council . (4) If any person fails to pay an administrative penalty, within the period specified in subsection (3) , the Council may, by way of civil action in a competent court, recover the amount of the administrative penalty from that person as an amount due and owing to the Council."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part XI",
+      "section": "91",
+      "title": "Guidelines",
+      "content": "(1) The Council may, in the performance of the Council ’s functions under this Act, issue guidelines that are necessary for the better carrying out of the provisions of this Act. (2) The Council shall publish the guidelines issued under this Act by notice in the Gazette or in a manner as the Council may determine, and the guidelines shall not take effect until they are so published. (3) The guidelines issued by the Council under this Act shall bind all persons regulated under this Act."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part XI",
+      "section": "92",
+      "title": "No execution on property of Council",
+      "content": "Despite anything contrary contained in any written law, where a judgment or order has been obtained against the Council , no execution or attachment, or process of any nature, shall be issued against the Council or against the property of the Council , but the Registrar shall cause to be paid out of the revenue of the Council such amounts as may, by the judgment or order, be awarded against the Council to the person entitled to the amounts."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part XI",
+      "section": "93",
+      "title": "Regulations",
+      "content": "(1) The Minister may, on the recommendation of the Board , by statutory instrument, make Regulations for the better carrying out of the provisions of this Act. (2) Without prejudice to the generality of subsection (1) , Regulations under subsection (1) may make provision for— (a) the forms, fees payable and the procedure for applications to be made under this Act; (b) the information and documents to be submitted in support of applications to be made under this Act; (c) the form and conditions of the register and the particulars to be entered on the register ; (d) the form of the certificate of registration and the conditions under which the certificate of registration is issued; (e) the form of the practising certificate and the conditions under which the practising certificate is issued; (f) the qualifications, as accredited and recognised by the Zambia Qualifications Authority , for the registration of health practitioners; (g) the scope of practice for registered health practitioners; (h) the issuance of duplicates and certified copies of certificates and licences, certified copies of entries on the register and the fees payable to the Council ; (i) the circumstances and manner in which a health practitioner may be removed from the register or restored on the register ; (j) the type of continuing professional development and training required as a pre-requisite for the issuance of a practising certificate ; (k) the requirements and conditions for the granting of accreditation and the manner in which the Council shall administer and monitor compliance with accreditation requirements and conditions; (l) the licensing procedures and the forms for any licence needed to be obtained under this Act; and (m) the requirements and conditions relating to the licence classes for health facilities."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part XI",
+      "section": "94",
+      "title": "Repeal of Act No. 24 of 2009 and savings and transitional provisions",
+      "content": "(1) The Health Professions Act, 2009, is repealed. (2) Despite subsection (1) , the Second Schedule applies to the savings and transitional provisions. First Schedule (Section 5(6)) Part I – Administration of Board 1. Tenure of office for members and vacancy (1) A member of the Board shall hold office for a term of three years and may be re-appointed for a further and final term of three years. (2) On the expiration of the term for which a member is appointed, the member shall continue to hold office until another member is appointed, but in no case shall any extension of the period exceed three months. (3) The office of a member shall be vacant if that member— (a) dies; (b) is adjudged bankrupt; (c) is absent from three consecutive meetings of the Board, of which the member has had notice, without the prior approval of the Board; (d) resigns by giving notice, in writing, to the Minister; (e) is legally disqualified from performing the functions of a member; (f) is removed from the Board by the Minister; (g) is convicted of an offence under this Act or any written law and has been sentenced to imprisonment for a period not exceeding six months without the option of a fine; or (h) ceases to be an employee of the Ministry, institution or organisation that nominated or appointed that member to sit on the Board. (4) Where there is a vacancy in the membership of the Board, before the expiry of the term of office, the Minister shall appoint another person to replace the member but that person shall only hold office for the remainder of the term. 2. Proceedings of Board (1) Subject to this Act, the Board may regulate its own procedure. (2) The Board shall meet at least once every three months at such place as the Board may determine. (3) On giving notice of not less than fourteen days, a meeting of the Board may be called by the Chairperson and shall be called if not less than one third of the members so request in writing, except that if the urgency of a particular matter does not permit the giving of notice, a special meeting may be called on giving shorter notice. (4) The quorum of the Board at any meeting shall be five members. (5) There shall preside at a meeting of the Board— (a) the Chairperson; (b) in the absence of the Chairperson, the Vice-Chairperson; or (c) in the absence of the Chairperson and the Vice-Chairperson, a member elected from among the members present at the meeting for the purpose of that meeting. (6) A decision of the Board on any question shall be by a majority of members present and voting at the meeting and, in the event of an equality of votes, the person presiding at the meeting shall have, in addition to a deliberative vote, a casting vote. (7) The Board may invite a person whose presence is in the board’s opinion desirable to attend and participate in the deliberations of the meeting, but that person shall not vote. (8) The validity of any proceedings, act or decision of the Board shall not be affected by any vacancy in the membership of the Board or any defect in the appointment of any member or by reason that any person not entitled to do so, took part in the proceedings. (9) The Board shall cause minutes to be kept of the proceedings of every meeting of the Board and any committee of the Board. 3. Committees (1) The Board may, for the purpose of exercising its powers and the effective and efficient performance of the functions of the Council, constitute committees and delegate to the committees functions of the Board that it considers necessary. (2) The Board may appoint, as members of a committee, persons who are or are not members except that at least one member of the Board shall be a member of a committee. (3) A member of a committee shall hold office for a period that the Board may determine. (4) A committee shall have the power to invite any person whose presence, in its opinion, is desirable to attend and participate in the deliberations of the meeting of the committee but that person shall have no vote. (5) A person presiding at a meeting of a committee shall cause to be kept a record of the proceedings of the meeting and shall cause to be submitted to the Board, as soon as possible after a meeting of the committee, that record. (6) Subject to any specific or general direction of the Board and the other provisions of this Act, a committee may regulate its own procedure at meetings. 4. Professional committees (1) The Board shall constitute the following professional committees which shall be responsible for advising the Board on the development of ethics and standards of practice of a community of practice: (a) Medical, Clinical and Dental Committee; (b) Pharmacy and Rehabilitative Services Committee; (c) Diagnostics and Medical Technology Committee; (d) Public and Environmental Health Committee; and (e) Allied Health Committee. (2) Despite subparagraph (1) , the Board may delegate to a professional committee, functions of the Board that the Board may consider necessary. (3) The professional committees constituted under subparagraph (1) shall consist of five part-time members appointed by the Board. (4) Subject to any specific or general directions of the Board, a professional committee may regulate its own procedure. (5) The provisions of paragraph 3 (3), (4) and (5) shall apply to a professional committee. 5. Allowances A member of the Board or committee of the Board shall be paid allowances that the Emoluments Commission may, on the recommendation of the Minister, determine. 6. Disclosure of interest (1) If any person is present at a meeting of the Board, committee of the Board or professional committee at which any matter, in which that person or that person’s relative or associate is directly or indirectly interested in a private capacity, is the subject of consideration, that person shall, as soon as practicable after the commencement of the meeting disclose that interest and shall not, unless the Board or the committee otherwise directs, take part in any consideration or discussion of, or vote on, any question relating to that matter. (2) A disclosure of interest made in accordance with this paragraph shall be recorded in the minutes of the meeting at which the disclosure is made. 7. Prohibition of publication or disclosure of information to unauthorised person (1) A person shall not, without the consent in writing given by or on behalf of the Board or as otherwise permitted by any written law, publish or disclose to any unauthorised person, otherwise than in the course of that person’s duties, the contents of any document, communication or information whatsoever, which relates to, and which has come to that person’s knowledge in the course of that person’s duties under this Act. (2) A person who contravenes subparagraph (1) commits an offence and is liable, on conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (3) A person who, having information which to the knowledge of that person has been published or disclosed in contravention of subparagraph (1) , unlawfully publishes or communicates that information to any other person, commits an offence and is liable, on conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a term not exceeding two years, or to both. (4) Nothing in this paragraph shall be interpreted to prohibit the publication and dissemination of a final decision of the Board. 8. Immunity of member, committee and employee An action or other proceeding shall not lie or be instituted against a member of the Board, a committee, professional committee or a member of staff of the Council, for or in respect of any act or thing done or omitted to be done in good faith in the exercise or performance, of any of the powers, functions or duties conferred under this Act. Part II – Financial provisions 9. Funds of Council (1) The funds of the Council consist of money that may— (a) be appropriated to the Council by Parliament; (b) be paid to the Council by way of fees, levy, grants or donations; (c) be obtained through sale of publications; and (d) vest in or accrue to the Council. (2) The Council may— (a) subject to the Public Finance Management Act, 2018 and the approval of the Minister, accept monies by way of grants or donations from any source within or outside Zambia; [ Act No.1 of 2018 ] (b) subject to the Public Debt Management Act, 2022, raise by way of loans or otherwise, monies that the Council may require for the performance of its functions; and [ Act No. 15 of 2022 ] (c) in accordance with the Regulations made under this Act, charge and collect fees for services provided by the Council. (3) There shall be paid from the funds of the Council— (a) emoluments and loans of the members of staff of the Council; (b) reasonable traveling and other allowances for members of the Board and members of a committee of the Board, when engaged in the business of the Council, at such rates as the Emoluments Commission may on the recommendation of the Minister determine; and (c) any other expenses incurred by the Council in carrying out its functions under this Act. (4) The Council may, subject to the Public Debt Management Act, 2022 and the approval of the Minister, invest in a manner the Council considers appropriate funds of the Council that the Council does not immediately require for the performance of the Council’s functions. 10. Financial year The financial year of the Council shall be a period of twelve months ending on 31 st December of each year. 11. Accounts and audit (1) The Council shall cause to be kept proper books of account and other records relating to accounts of the Council. (2) The Auditor-General or an auditor appointed by the Auditor-General shall audit annually the accounts of the Council. (3) The Council shall pay the fees for the Auditor-General or an auditor appointed by the Auditor-General. 12. Annual report (1) The Council shall, as soon as practicable but not later than ninety days after the end of the financial year, submit to the Minister a report concerning the Council’s activities during that financial year. (2) The report, referred to in subparagraph (1) , shall include information on the financial affairs of the Council and there shall be appended to the report— (a) an audited statement of financial position; (b) an audited statement of comprehensive income and expenditure; and (c) such other information as the Minister may require. (3) The Minister shall not later than seven days after the first sitting of the National Assembly next after receipt of the report referred to in subparagraph (1) , lay the report before the National Assembly. Second Schedule (Section 94) Savings and transitional provisions 1. Interpretation For purposes of this Part — “ former Council ” means the Council established under the repealed Act; and “ former Disciplinary Committee ” means the Disciplinary Committee established under the repealed Act. 2. Staff of Council (1) A person who, before the commencement of this Act, was an officer or employee of the former Council, shall continue to be an officer or employee of the Council, as if appointed or employed under this Act. (2) The service of the persons referred to in subparagraph (1) shall be treated as continuous service. (3) Nothing in this Act affects the rights and liabilities of a person employed or appointed by the former Council before the commencement of this Act. 3. Member of former Council, Disciplinary Committee A person who immediately before the commencement of this Act— (a) held office as a member of the Board of the former Council shall continue to hold office as a member of the Board for a period of three months after which the Minister shall appoint the members of the Board in accordance with the provisions of this Act; and (b) held office as a member of former Disciplinary Committee shall continue to hold office as a member of the"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accreditation",
+      "definition": "a process of assessing the quality of a service to ensure that the service meets the required standard",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved supervisor",
+      "definition": "a health practitioner fully registered for at least three years, of the same community of practice with the supervised person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "associate",
+      "definition": "assigned to the word in the Anti­-Corruption Act, 2012",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Council constituted under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of accreditation",
+      "definition": "a certificate issued under section 54 to provide health care service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of approval",
+      "definition": "a certificate issued to a continuous professional development programme provider under Part V",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of registration",
+      "definition": "a provisional registration, temporary registration, full registration, specialist registration and limited registration issued at the relevant provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the person appointed as Chairperson under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Code of Ethics",
+      "definition": "the code of professional conduct adopted and published by the Council under section 65",
+      "source_provision": "s2"
+    },
+    {
+      "term": "community of practice",
+      "definition": "a group of health practitioners who share a common interest or expertise, within a specified field of practice regardless of the differences in the scope of practice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Health Professions Council of Zambia continued under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Disciplinary Committee",
+      "definition": "the Disciplinary Committee constituted under section 73",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency medical care",
+      "definition": "the rescue evaluation, treatment and care of an illness or injured person in an emergency situation and the continuation of treatment and care during the transportation of that person to, or between, health facilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Emoluments Commission",
+      "definition": "the Emoluments Commission established by the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "a period from 1st January to 31st December in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health care service",
+      "definition": "a service provided by a health practitioner or health facility for the prevention, diagnosis, treatment and management of an illness and the preservation of mental and physical wellbeing and includes the provision of telemedicine, emergency medical care and medical services outside a health facility",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health facility",
+      "definition": "a site, fixed or mobile, that provides services for the prevention, diagnosis and treatment of disease or illness and includes a diagnostic centre, a hospice and a hospital",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health practitioner",
+      "definition": "a person registered as a health practitioner under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health profession",
+      "definition": "a profession as may be prescribed whose membership is required to be registered under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health professional",
+      "definition": "a health practitioner , a trainee and a graduate of a health learning programme",
+      "source_provision": "s2"
+    },
+    {
+      "term": "higher education",
+      "definition": "assigned to the words in the Higher Education Act, 2013",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Higher Education Authority",
+      "definition": "assigned to the words in the Higher Education Act, 2013",
+      "source_provision": "s2"
+    },
+    {
+      "term": "higher education institution",
+      "definition": "assigned to the words in the Higher Education Act, 2013",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hospice",
+      "definition": "a place where a sick or terminally ill person receives medical, nursing, nutritional, psychological and spiritual care",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hospital",
+      "definition": "a health institution providing in patient health care service under the supervision of a medical doctor, which includes the provision of the following health services: (a) medicine",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a person appointed as an inspector under section 80",
+      "source_provision": "s2"
+    },
+    {
+      "term": "internship",
+      "definition": "a period of supervised practice for a health practitioner registered on provisional or temporary registration undertaken at an approved internship site",
+      "source_provision": "s2"
+    },
+    {
+      "term": "internship site",
+      "definition": "a health facility that offers internship",
+      "source_provision": "s2"
+    },
+    {
+      "term": "internship site certificate",
+      "definition": "a certificate issued under section 59 to offer internship training for health practitioners",
+      "source_provision": "s2"
+    },
+    {
+      "term": "learning programme",
+      "definition": "assigned to the words in the Higher Education Act, 2013, and includes internship and continuing professional development",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legally disqualified",
+      "definition": "the absence of legal capacity as provided under section 4 of the Mental Health Act, 2019",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued by the Council under section 41",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensure examinations",
+      "definition": "examinations administered by the Council under section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "peer",
+      "definition": "a member of the same health profession with similar specialisation and an equivalent number of years of practice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "assigned to the word in the Public Health Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practising certificate",
+      "definition": "a certificate issued to a health practitioner under section 20",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality assurance information",
+      "definition": "information from a medical record showing the nature of diagnosis and treatment given to a patient, without identifying the patient",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "the register referred to under section 85",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the person appointed as Registrar under section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relative",
+      "definition": "assigned to the word in the Anti-Corruption Act, 2012",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Health Professions Act, 2009, repealed under section 94",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specialist",
+      "definition": "a person registered as a specialist under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "scope of practice",
+      "definition": "the limit of practice within which a health practitioner is allowed to perform and the conditions under which the health practitioner is allowed to practice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trainee",
+      "definition": "a person receiving knowledge, skill or competence in a health learning programme and is required to interact with patients or patients’ samples",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Zambia Qualifications Authority",
+      "definition": "assigned to the words in the Zambia Qualifications Authority Act, 2011. [ Act No. 13 of 2011 ] Part II – The Health Professions Council of Zambia",
+      "source_provision": "s2"
+    }
+  ]
+}

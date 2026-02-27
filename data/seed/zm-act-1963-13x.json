@@ -1,0 +1,50 @@
+{
+  "id": "zm-act-1963-13x",
+  "type": "statute",
+  "title": "Limitation of Liability (Passengers in Government Aircraft) Act, 1963",
+  "title_en": "Limitation of Liability (Passengers in Government Aircraft) Act, 1963",
+  "short_name": "Limitation of Liability (Pa...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1963/13x/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Limitation of Liability (Passengers in Government Aircraft) Act. [As amended by G.N. No. 92 of 1964]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" Convention \" means the Convention for the unification of certain rules relating to international carriage by air which was signed at Warsaw on the 12th October, 1929; \" conventional damages \"— (a) in relation to loss of life or bodily injury to which the provisions of section three relate, means an amount in the currency of the Republic equal to the sum fixed from time to time by the Convention as the limit of the liability of a carrier in respect of damage sustained in the event of the death or wounding of a passenger or any other bodily injury suffered by a passenger ; and (b) in relation to the destruction or loss of or damage to luggage and personal effects to which the provisions of section four relate, means an amount in the currency of the Republic equal to the sum fixed from time to time by the Convention as the limit of the liability of a carrier in respect of damage sustained in the event of the destruction or loss of or damage to any luggage of which the passenger takes charge himself; \" Government aircraft \"— (a) means any aircraft which— (i) is the property of the Government or is let out on hire to the Government with or without pilot or crew; and (ii) is employed in the service of the Government; and (b) includes any aircraft of the Defence Force; \" passenger \", in relation to a Government aircraft , includes any person other than the pilot or member of the crew of the aircraft. [As amended by G.N. No. 92 of 1964 and S.I. Nos. 155 of 1965]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Limitation of liability in respect of loss of life of or bodily injury to passengers carried in Government aircraft",
+      "content": "The total liability of the Government to pay damages in respect of the loss of life of or bodily injury caused on any one occasion to any one person whilst journeying as a passenger in a Government aircraft or whilst entering or alighting from a Government aircraft in connection with a journey made or to be made by him as a passenger in the aircraft shall not exceed the conventional damages . [As amended by G.N. No. 92 of 1964]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Limitation of liability in respect of destruction or loss of or damage to luggage and personal effects of passengers carried in Government aircraft",
+      "content": "(1) The total liability of the Government to pay damages in respect of the destruction or loss of or damage to luggage and personal effects of a person referred to in section three which are sustained in the course of the journey of the person as a passenger in a Government aircraft shall not exceed the conventional damages . (2) For the purposes of subsection (1), the destruction or loss of or damage to the luggage or personal effects of a person referred to in section three shall be treated as having been sustained in the course of the journey of the person as a passenger in a Government aircraft if the luggage or personal effects are destroyed, lost or damaged whilst in the aircraft. [As amended by G.N. No. 92 of 1964]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Savings",
+      "content": "Nothing in this Act shall be construed as— (a) affecting the operation within Zambia of the provisions of the Convention ; or (b) derogating from the provisions of any Act, statutory instrument or contract, including a contract of insurance, in terms of which a pension or other benefit is payable by the Government or any person in respect of loss of life or bodily injury. [As amended by G.N. No. 92 of 1964] History of this document 31 December 1996 this version Consolidation 02 August 1963 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Convention",
+      "definition": "the Convention for the unification of certain rules relating to international carriage by air which was signed at Warsaw on the 12th October, 1929",
+      "source_provision": "s2"
+    }
+  ]
+}

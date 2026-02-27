@@ -1,0 +1,61 @@
+{
+  "id": "zm-act-1967-19",
+  "type": "statute",
+  "title": "General Loans (Mediobanca) Act, 1967",
+  "title_en": "General Loans (Mediobanca) Act, 1967",
+  "short_name": "General Loans (Mediobanca) ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zambialii.org/akn/zm/act/1967/19/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the General Loans ( Mediobanca ) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" foreign currency \" means currency other than the currency of Zambia; \" Mediobanca \" means Mediobanca-Banca di Credito Finanziario S.P.A."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to borrow from Mediobanca -Banca di Credito Finanziario S.P.A.",
+      "content": "(1) The Minister may, in such manner and on such terms and subject to such conditions as he thinks fit, and in the name of Zambia, borrow from Mediobanca such sums in sterling or in foreign currency or in both, as may be required for the purpose set out in the Schedule. (2) For the purpose of exercising the powers conferred by subsection (1), the Minister, or any person authorised by him in writing, may sign and execute agreements with Mediobanca and may execute such other instruments, including bonds, as may be required in connection with the borrowing of any sum under this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Repayment of sums borrowed and payment of interest and other charges",
+      "content": "There shall be charged on and paid out of the general revenues of the Republic such moneys as may be necessary— (a) for securing the repayment of the principal of any sum borrowed under this Act in accordance with the terms and conditions of any agreement providing for such borrowing or of any bond issued pursuant to any such agreement; and (b) for securing the payment of interest on any sum so borrowed and of all other charges payable in respect thereof."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Implementation of agreements",
+      "content": "Notwithstanding anything contained in any written law, the Minister may exercise all such powers and authorities and do or cause to be done all such things as appear to him to be necessary for giving full and complete effect to any agreement which may be entered into with Mediobanca in respect of any borrowing authorised by this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Construction of borrowing powers",
+      "content": "The power to borrow conferred by this Act shall be in addition to the power to borrow conferred by any other written law. Schedule (Section 3) Purpose of borrowing authorised by this Act Making loans to the Tazama Pipelines Limited to enable that Company to construct a pipeline from Dar es Salaam in Tanzania to Ndola in Zambia. History of this document 31 December 1996 this version Consolidation 27 January 1967 Commenced Related documents [] [] [] [] ▲ To the top > Subscribe Subscribe to our newsletter for updates and news. Contact us Visit our Facebook Page Visit our Twitter/X profile About ZambiaLII ZambiaLII is a pioneer in the free access to law movement and serves as a reliable and timely source of judicial decisions, legislation and statutory instruments. Since 2012, ZambiaLII has been hosted by the Southern African Institute for Policy and Research (SAIPAR) , an independent, educational and development-oriented research centre. AfricanLII provides technical support to ZambiaLII. View the ZambiaLII Brochure Pocket Law Use ZambiaLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Southern African Institute for Policy and Research With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "foreign currency",
+      "definition": "currency other than the currency of Zambia",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Mediobanca",
+      "definition": "Mediobanca-Banca di Credito Finanziario S.P.A.",
+      "source_provision": "s2"
+    }
+  ]
+}
