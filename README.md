@@ -1,6 +1,6 @@
 # Zambian Law MCP Server
 
-**The zambialii.org alternative for the AI age.**
+**The Zambia Law Development Commission alternative for the AI age.**
 
 [![npm version](https://badge.fury.io/js/@ansvar%2Fzambian-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/zambian-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
