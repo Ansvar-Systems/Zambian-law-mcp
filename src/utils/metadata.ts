@@ -32,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Zambia Law (zambialii.org) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'ZamLII (zambialii.org) — Zambia Legal Information Institute, hosted by AfricanLII',
+    jurisdiction: 'ZM',
     disclaimer:
-      'This data is sourced from Zambia Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Zambia Law portal (zambialii.org).',
+      'This data is sourced from ZamLII under free access principles. ' +
+      'Government legislation is public domain under Zambian law. ' +
+      'Always verify with the official Zambia Government Gazette or National Assembly of Zambia portal.',
     freshness,
   };
 }
